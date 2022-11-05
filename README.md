@@ -1,2 +1,2 @@
-# blockgame_textures
- custom Textures for the BlockGame Server
+# Blockgame Textures
+ Custom Textures for the BlockGame Minecraft Server
