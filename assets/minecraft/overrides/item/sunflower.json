@@ -1,0 +1,36 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_SIMPLE"}
+            },
+            "model": "minecraft:item/nbt/essence_simple"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_COMPLEX"}
+            },
+            "model": "minecraft:item/nbt/essence_complex"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_RING"}
+            },
+            "model": "minecraft:item/nbt/golden_ring"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GLOWING_MOTE"}
+            },
+            "model": "minecraft:item/nbt/glowing_mote"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

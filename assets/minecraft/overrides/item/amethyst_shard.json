@@ -1,0 +1,35 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "INFUSED_CRYSTAL"}
+      },
+      "model": "minecraft:item/nbt/infused_crystal"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SOUL_SHARD"}
+      },
+      "model": "minecraft:item/nbt/soul_shard"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COMPRESSED_CRYSTAL"}
+      },
+      "model": "minecraft:item/nbt/compressed_crystal"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SOUL_FRAGMENT"}
+      },
+      "model": "minecraft:item/nbt/soul_fragment"
+    }
+  ]
+}
+
+
+
+
+
+
+

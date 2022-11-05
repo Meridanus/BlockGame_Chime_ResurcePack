@@ -1,0 +1,23 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WELL_SEASONED_MUTTON"}
+            },
+            "model": "minecraft:item/nbt/consumables/well_seasoned_mutton"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BUTTER_FRIED_MUTTON"}
+            },
+            "model": "minecraft:item/nbt/consumables/butter_fried_mutton"
+        }
+    ]
+}
+
+
+
+
+
+
+

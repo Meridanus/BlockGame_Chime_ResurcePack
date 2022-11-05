@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_LUMBERJACK_SPRUCE"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_lumberjack_spruce"
+        }
+    ]
+}
+
+
+
+
+
+
+

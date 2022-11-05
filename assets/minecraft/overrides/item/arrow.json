@@ -1,0 +1,47 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_FLINT"}
+      },
+      "model": "minecraft:item/nbt/quiver_flint"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_FIRE"}
+      },
+      "model": "minecraft:item/nbt/quiver_fire"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_EXPLOSIVE"}
+      },
+      "model": "minecraft:item/nbt/quiver_explosive"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_VOLCANIC"}
+      },
+      "model": "minecraft:item/nbt/quiver_volcanic"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_POISON"}
+      },
+      "model": "minecraft:item/nbt/quiver_poison"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SLOW"}
+      },
+      "model": "minecraft:item/nbt/quiver_slow"
+    }
+  ]
+}
+
+
+
+
+
+
+

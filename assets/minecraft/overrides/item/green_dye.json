@@ -1,0 +1,41 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_BOTANIST_BEETROOT"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_botanist_beetroot"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_BOTANIST_CARROT"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_botanist_carrot"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_BOTANIST_PEPPER"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_botanist_pepper"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_BOTANIST_POTATO"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_botanist_potato"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_BOTANIST_WHEAT"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_botanist_wheat"
+        }
+    ]
+}
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "MYTHRIL"}
+      },
+      "texture": "textures/item/nbt/armor/mythril_armor_layer_2"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "MYTHRIL",
+				"MMOITEMS_NAME_PRE": '["&cBlinding"]'}
+      },
+      "texture": "textures/item/nbt/armor/blinding/mythril_armor_layer_2"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "OLD_STONKS"}
+            },
+            "model": "minecraft:item/nbt/old_stonks"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "OLD_STONKS"},
+                "count": ">=64"
+            },
+            "model": "minecraft:item/nbt/old_stonks_stack"
+        },
+        {
+            
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STEEL_SCRAP"}
+            },
+            "model": "minecraft:item/nbt/steel_scrap"
+        },
+		{
+            
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "LEATHER_SCRAPS"}
+            },
+            "model": "minecraft:item/nbt/leather_scraps"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

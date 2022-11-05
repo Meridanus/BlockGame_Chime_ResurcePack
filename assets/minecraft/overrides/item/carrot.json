@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FAT_CARROT"}
+            },
+            "model": "minecraft:item/nbt/consumables/fat_carrot"
+        }
+    ]
+}
+
+
+
+
+
+
+

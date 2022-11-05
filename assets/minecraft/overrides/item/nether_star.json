@@ -1,0 +1,29 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "METEOR_SHARD"}
+      },
+      "model": "minecraft:item/nbt/meteor_shard"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FLICKERING_FROST"}
+      },
+      "model": "minecraft:item/nbt/flickering_frost"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FROZEN_STAR"}
+      },
+      "model": "minecraft:item/nbt/frozen_star"
+    }
+  ]
+}
+
+
+
+
+
+
+

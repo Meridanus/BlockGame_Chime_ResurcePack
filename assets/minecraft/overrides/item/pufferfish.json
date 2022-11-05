@@ -1,0 +1,23 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WELL_SEASONED_PUFFERFISH"}
+            },
+            "model": "minecraft:item/nbt/consumables/well_seasoned_pufferfish"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BUTTER_FRIED_PUFFERFISH"}
+            },
+            "model": "minecraft:item/nbt/consumables/butter_fried_pufferfish"
+        }
+    ]
+}
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FRAGILE_PICKAXE"}
+            },
+            "model": "minecraft:item/nbt/tools/fragile_pickaxe"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

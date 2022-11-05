@@ -1,0 +1,41 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SALT"}
+      },
+      "model": "minecraft:item/nbt/salt"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FLOUR"}
+      },
+      "model": "minecraft:item/nbt/flour"
+    },
+    {
+      "predicate": {
+		"nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_COMMON"}
+      },
+      "model": "minecraft:item/nbt/common_repair_powder"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_UNCOMMON"}
+      },
+      "model": "minecraft:item/nbt/uncommon_repair_powder"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_RARE"}
+      },
+      "model": "minecraft:item/nbt/rare_repair_powder"
+    }
+  ]
+}
+
+
+
+
+
+
+

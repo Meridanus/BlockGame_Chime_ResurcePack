@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ROSEBUD_SALAD"}
+            },
+            "model": "minecraft:item/nbt/consumables/rosebud_salad"
+        }
+    ]
+}
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "PERFECT_SPECIMEN"}
+            },
+            "model": "minecraft:item/nbt/perfect_specimen"
+        }
+    ]
+}
+
+
+
+
+
+
+

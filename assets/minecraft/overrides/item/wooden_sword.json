@@ -1,0 +1,36 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_SWORD"}
+            },
+            "model": "minecraft:item/nbt/swords/cactus_sword"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_SWORD",
+				"MMOITEMS_NAME_PRE": '["&cSpiny"]'}
+            },
+            "model": "minecraft:item/nbt/swords/spiny_cactus_sword"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ONION_SWORD"}
+            },
+            "model": "minecraft:item/nbt/swords/onion_sword"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SWORD"}
+            },
+            "model": "minecraft:item/nbt/swords/copper_sword"
+        }
+    ]
+}
+
+
+
+
+
+
+

@@ -1,0 +1,201 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BONE_BROTH"}
+      },
+      "model": "minecraft:item/nbt/potions/bone_broth"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "HAUNTED_BROTH"}
+      },
+      "model": "minecraft:item/nbt/potions/haunted_broth"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "MEAT_BROTH"}
+      },
+      "model": "minecraft:item/nbt/potions/meat_broth"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SENTIENT_GRAVY"}
+      },
+      "model": "minecraft:item/nbt/potions/sentient_gravy"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_GRAVY"}
+      },
+      "model": "minecraft:item/nbt/potions/golden_gravy"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING",
+				 "MMOITEMS_MAX_CONSUME": 1}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING",
+				 "MMOITEMS_MAX_CONSUME": 2}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING",
+				 "MMOITEMS_MAX_CONSUME": 3}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING",
+				 "MMOITEMS_MAX_CONSUME": 4}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_4"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING",
+				 "MMOITEMS_MAX_CONSUME": 5}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_5"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING",
+				 "MMOITEMS_MAX_CONSUME": 6}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_6"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 1}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 2}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 3}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 4}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_4"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 5}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_5"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 6}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_6"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 7}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_7"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 8}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_8"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 9}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_9"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HEALING_GLOWING",
+				 "MMOITEMS_MAX_CONSUME": 10}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_healing_glowing_10"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_REDSTONE",
+				 "MMOITEMS_MAX_CONSUME": 1}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_redstone_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_REDSTONE",
+				 "MMOITEMS_MAX_CONSUME": 2}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_redstone_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_REDSTONE",
+				 "MMOITEMS_MAX_CONSUME": 3}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_redstone_3"
+    },
+    {
+      "predicate": {
+		"nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAPIS",
+				 "MMOITEMS_MAX_CONSUME": 1}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lapis_1"
+    },
+    {
+      "predicate": {
+		"nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAPIS",
+				 "MMOITEMS_MAX_CONSUME": 2}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lapis_2"
+    },
+    {
+      "predicate": {
+		"nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAPIS",
+				 "MMOITEMS_MAX_CONSUME": 3}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lapis_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "GRAVY"}
+      },
+      "model": "minecraft:item/nbt/potions/gravy"
+    }
+  ]
+}
+
+
+
+
+
+
+

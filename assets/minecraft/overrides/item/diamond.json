@@ -1,0 +1,23 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "INFUSED_DIAMOND"}
+      },
+      "model": "minecraft:item/nbt/infused_diamond"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COMPRESSED_DIAMOND"}
+      },
+      "model": "minecraft:item/nbt/compressed_diamond"
+    }
+  ]
+}
+
+
+
+
+
+
+

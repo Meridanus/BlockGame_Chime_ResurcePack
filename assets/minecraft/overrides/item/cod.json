@@ -1,0 +1,53 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_WOODFISH"}
+      },
+      "model": "minecraft:item/nbt/fish_woodfish"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_STONEFISH"}
+      },
+      "model": "minecraft:item/nbt/fish_stonefish"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_BADFISH"}
+      },
+      "model": "minecraft:item/nbt/fish_badfish"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_BLUESFISH"}
+      },
+      "model": "minecraft:item/nbt/fish_bluesfish"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_DARKFISH"}
+      },
+      "model": "minecraft:item/nbt/fish_darkfish"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_DRYFISH"}
+      },
+      "model": "minecraft:item/nbt/fish_dryfish"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_BAMBOOZLE"}
+      },
+      "model": "minecraft:item/nbt/fish_bamboozle"
+    }
+  ]
+}
+
+
+
+
+
+
+

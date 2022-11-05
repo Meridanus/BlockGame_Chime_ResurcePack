@@ -1,0 +1,24 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STEEL_PICKAXE"}
+            },
+            "model": "minecraft:item/nbt/tools/steel_pickaxe"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_PICKAXE"}
+            },
+            "model": "minecraft:item/nbt/tools/mythril_pickaxe"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

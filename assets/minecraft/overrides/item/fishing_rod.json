@@ -1,0 +1,63 @@
+{
+  "overrides": [
+  {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_FISHINGPOLE"}
+      },
+      "model": "minecraft:item/nbt/tools/strong_fishingpole_0"
+    },
+	{
+      "predicate": {
+		"cast": 1,
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_FISHINGPOLE"}
+      },
+      "model": "minecraft:item/nbt/tools/strong_fishingpole_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COPPER_FISHINGPOLE"}
+      },
+      "model": "minecraft:item/nbt/tools/copper_fishingpole_0"
+    },
+	{
+      "predicate": {
+		"cast": 1,
+        "nbt": {"MMOITEMS_ITEM_ID": "COPPER_FISHINGPOLE"}
+      },
+      "model": "minecraft:item/nbt/tools/copper_fishingpole_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STEEL_FISHINGPOLE"}
+      },
+      "model": "minecraft:item/nbt/tools/steel_fishingpole_0"
+    },
+	{
+      "predicate": {
+		"cast": 1,
+        "nbt": {"MMOITEMS_ITEM_ID": "STEEL_FISHINGPOLE"}
+      },
+      "model": "minecraft:item/nbt/tools/steel_fishingpole_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_FISHINGPOLE"}
+      },
+      "model": "minecraft:item/nbt/tools/unsettling_fishingpole_0"
+    },
+	{
+      "predicate": {
+		"cast": 1,
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_FISHINGPOLE"}
+      },
+      "model": "minecraft:item/nbt/tools/unsettling_fishingpole_1"
+    }
+  ]
+}
+
+
+
+
+
+
+

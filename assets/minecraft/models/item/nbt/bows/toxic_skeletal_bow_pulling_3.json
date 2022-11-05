@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "minecraft:item/nbt/bows/toxic_skeletal_bow_pulling_3"
+  }
+}

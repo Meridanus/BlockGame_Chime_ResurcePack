@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_POTATO"}
+      },
+      "model": "minecraft:item/nbt/roasted_potato"
+    }
+  ]
+}
+
+
+
+
+
+
+

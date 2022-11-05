@@ -1,0 +1,41 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BOLT_SILK"}
+            },
+            "model": "minecraft:item/nbt/bolt_silk"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BOLT_SILK_SPARKING"}
+            },
+            "model": "minecraft:item/nbt/bolt_silk_sparking"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BOLT_SOULFUL"}
+            },
+            "model": "minecraft:item/nbt/bolt_soulful"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BOLT_BACON"}
+            },
+            "model": "minecraft:item/nbt/bolt_bacon"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BOLT_SCORCHING"}
+            },
+            "model": "minecraft:item/nbt/bolt_scorching"
+        }
+    ]
+}
+
+
+
+
+
+
+

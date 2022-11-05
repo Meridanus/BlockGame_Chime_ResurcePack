@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "PUMPKIN_BLADE"}
+            },
+            "model": "minecraft:item/nbt/swords/pumpkin_blade"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

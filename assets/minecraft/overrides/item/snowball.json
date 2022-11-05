@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_FROST"}
+            },
+            "model": "minecraft:item/nbt/focus_frost"
+        }
+    ]
+}
+
+
+
+
+
+
+

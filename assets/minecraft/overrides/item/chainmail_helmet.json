@@ -1,0 +1,20 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/mythril_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_HELMET",
+				"MMOITEMS_NAME_PRE": '["&cBlinding"]'}
+      },
+      "model": "minecraft:item/nbt/armor/blinding/mythril_helmet"
+    }
+  ]
+}
+
+
+

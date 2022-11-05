@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BACON_BITS"}
+      },
+      "model": "minecraft:item/nbt/bacon_bits"
+    }
+  ]
+}
+
+
+
+
+
+
+

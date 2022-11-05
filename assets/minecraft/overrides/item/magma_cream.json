@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_TRINITY"}
+            },
+            "model": "minecraft:item/nbt/focus_trinity"
+        }
+    ]
+}
+
+
+
+
+
+
+

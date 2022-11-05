@@ -1,0 +1,136 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ONION_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/onion_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/zombie_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/cactus_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_CHESTPLATE",
+				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/cactus_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STONE_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/stone_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STONE_CHESTPLATE",
+				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/stone_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/wooden_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_CHESTPLATE",
+				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/wooden_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COPPER_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/copper_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COPPER_CHESTPLATE",
+				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/copper_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SILK_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/silk_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SILK_CHESTPLATE",
+				  "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/silk_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SPARKING_SILK_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/sparking_silk_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SPARKING_SILK_CHESTPLATE",
+				  "MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/sparking_silk_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ACOLYTE_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/acolyte_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ACOLYTE_CHESTPLATE",
+				  "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+      },
+      "model": "minecraft:item/nbt/armor/haunted/acolyte_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_magi_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_CHESTPLATE",
+				  "MMOITEMS_NAME_PRE": '["&cHeated"]'}
+      },
+      "model": "minecraft:item/nbt/armor/heated/bloodsnout_magi_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CINDERS_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/cinders_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CINDERS_CHESTPLATE",
+				  "MMOITEMS_NAME_PRE": '["&cWrathful"]'}
+      },
+      "model": "minecraft:item/nbt/armor/wrathful/cinders_chestplate"
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,20 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/mythril_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_CHESTPLATE",
+				"MMOITEMS_NAME_PRE": '["&cBlinding"]'}
+      },
+      "model": "minecraft:item/nbt/armor/blinding/mythril_chestplate"
+    }
+  ]
+}
+
+
+

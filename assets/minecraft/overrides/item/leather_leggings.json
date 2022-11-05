@@ -1,0 +1,141 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ONION_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/onion_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/zombie_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/cactus_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_LEGGINGS",
+				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/cactus_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STONE_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/stone_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STONE_LEGGINGS",
+				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/stone_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/wooden_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_LEGGINGS",
+				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/wooden_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COPPER_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/copper_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COPPER_LEGGINGS",
+				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/copper_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SILK_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/silk_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SILK_LEGGINGS",
+				  "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/silk_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SPARKING_SILK_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/sparking_silk_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SPARKING_SILK_LEGGINGS",
+				  "MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/sparking_silk_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ACOLYTE_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/acolyte_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ACOLYTE_LEGGINGS",
+				  "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+      },
+      "model": "minecraft:item/nbt/armor/haunted/acolyte_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_magi_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_LEGGINGS",
+				  "MMOITEMS_NAME_PRE": '["&cHeated"]'}
+      },
+      "model": "minecraft:item/nbt/armor/heated/bloodsnout_magi_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CINDERS_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/cinders_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CINDERS_LEGGINGS",
+				  "MMOITEMS_NAME_PRE": '["&cWrathful"]'}
+      },
+      "model": "minecraft:item/nbt/armor/wrathful/cinders_leggings"
+    }
+
+  ]
+}
+
+
+
+
+
+
+

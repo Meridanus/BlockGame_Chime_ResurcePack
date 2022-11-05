@@ -1,0 +1,47 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_COPPER"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_miner_copper"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_GEODE"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_miner_geode"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_IRON"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_miner_iron"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_LAPIS"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_miner_lapis"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_REDSTONE"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_miner_redstone"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_SPARK"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_miner_spark"
+        }
+    ]
+}
+
+
+
+
+
+
+

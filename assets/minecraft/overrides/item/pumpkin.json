@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "TOKEN_HALLOWEEN"}
+            },
+            "model": "minecraft:item/nbt/token_halloween"
+        }
+    ]
+}
+
+
+
+
+
+
+

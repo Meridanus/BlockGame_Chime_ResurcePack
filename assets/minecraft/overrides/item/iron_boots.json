@@ -1,0 +1,20 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STEEL_BOOTS"}
+      },
+      "model": "minecraft:item/nbt/armor/steel_boots"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STEEL_BOOTS",
+				"MMOITEMS_NAME_PRE": '["&cUnbreaking"]'}
+      },
+      "model": "minecraft:item/nbt/armor/unbreaking/steel_boots"
+    }
+  ]
+}
+
+
+

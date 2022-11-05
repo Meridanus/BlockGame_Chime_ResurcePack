@@ -1,0 +1,29 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SPIRIT_ACACIA"}
+            },
+            "model": "minecraft:item/nbt/spirit_acacia"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SPIRIT_JUNGLE"}
+            },
+            "model": "minecraft:item/nbt/spirit_jungle"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SPIRIT_DARKOAK"}
+            },
+            "model": "minecraft:item/nbt/spirit_darkoak"
+        }
+    ]
+}
+
+
+
+
+
+
+

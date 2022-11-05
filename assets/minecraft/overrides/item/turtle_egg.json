@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "EARTHEN_HEART"}
+      },
+      "model": "minecraft:item/nbt/earthen_heart"
+    }
+  ]
+}
+
+
+
+
+
+
+

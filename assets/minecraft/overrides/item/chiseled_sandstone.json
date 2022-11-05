@@ -1,0 +1,41 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_ARCHAEOLOGIST_SALT"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_archaeologist_salt"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_ARCHAEOLOGIST_CHISELED"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_archaeologist_chiseled"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_ARCHAEOLOGIST_COMMONSHELL"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_archaeologist_commonshell"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_ARCHAEOLOGIST_PRETTYSHELL"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_archaeologist_prettyshell"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_ARCHAEOLOGIST_FANCYSHELL"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_archaeologist_fancyshell"
+        }
+    ]
+}
+
+
+
+
+
+
+

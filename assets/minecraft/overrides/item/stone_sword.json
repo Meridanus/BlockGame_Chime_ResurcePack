@@ -1,0 +1,24 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STONE_SWORD"}
+            },
+            "model": "minecraft:item/nbt/swords/stone_sword"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STONE_SWORD",
+				"MMOITEMS_NAME_PRE": '["&cRupturing"]'}
+            },
+            "model": "minecraft:item/nbt/swords/rupturing_stone_sword"
+        }
+    ]
+}
+
+
+
+
+
+
+

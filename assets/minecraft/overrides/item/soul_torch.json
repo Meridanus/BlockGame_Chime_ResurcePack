@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "TORCH_EVERBURNING"}
+            },
+            "model": "minecraft:item/nbt/torch_everburning"
+        }
+    ]
+}
+
+
+
+
+
+
+

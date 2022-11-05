@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_PICKAXE"}
+            },
+            "model": "minecraft:item/nbt/tools/crystal_pickaxe"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

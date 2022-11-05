@@ -1,0 +1,41 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_FISHERMAN_COD"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_fisherman_cod"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_FISHERMAN_SALMON"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_fisherman_salmon"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_FISHERMAN_TROPICAL"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_fisherman_tropical"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_FISHERMAN_PUFFER"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_fisherman_puffer"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_FISHERMAN_FROST"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_fisherman_frost"
+        }
+    ]
+}
+
+
+
+
+
+
+

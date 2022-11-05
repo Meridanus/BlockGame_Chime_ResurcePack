@@ -1,0 +1,47 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_LEATHER"}
+      },
+      "model": "minecraft:item/nbt/zombie_leather"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PRISTINE_HIDE"}
+      },
+      "model": "minecraft:item/nbt/pristine_hide"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CHILLED_HIDE"}
+      },
+      "model": "minecraft:item/nbt/chilled_hide"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "HAUNTED_HIDE"}
+      },
+      "model": "minecraft:item/nbt/haunted_hide"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "GREASY_HIDE"}
+      },
+      "model": "minecraft:item/nbt/greasy_hide"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_HIDE"}
+      },
+      "model": "minecraft:item/nbt/crystal_hide"
+    }
+  ]
+}
+
+
+
+
+
+
+

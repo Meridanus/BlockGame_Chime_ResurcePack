@@ -1,0 +1,35 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST_GREATER"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_greater"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA_GREATER"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_greater"
+    }
+  ]
+}
+
+
+
+
+
+
+

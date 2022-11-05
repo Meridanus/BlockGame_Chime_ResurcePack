@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SWORD_POMMEL"}
+      },
+      "model": "minecraft:item/nbt/sword_pommel"
+    }
+  ]
+}
+
+
+
+
+
+
+

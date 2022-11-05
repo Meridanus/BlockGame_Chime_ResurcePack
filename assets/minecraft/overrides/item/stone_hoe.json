@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_HOE"}
+            },
+            "model": "minecraft:item/nbt/tools/copper_hoe"
+        }
+    ]
+}
+
+
+
+
+
+
+

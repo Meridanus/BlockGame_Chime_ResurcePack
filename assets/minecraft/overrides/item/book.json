@@ -1,0 +1,119 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "NECRONOMICON"}
+      },
+      "model": "minecraft:item/nbt/necronomicon"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "WARP_KROGNARS"}
+      },
+      "model": "minecraft:item/nbt/warp_krognars"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_1"}
+      },
+      "model": "minecraft:item/nbt/tome_frostbolt_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2"}
+      },
+      "model": "minecraft:item/nbt/tome_frostbolt_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3"}
+      },
+      "model": "minecraft:item/nbt/tome_frostbolt_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1"}
+      },
+      "model": "minecraft:item/nbt/tome_firebolt_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2"}
+      },
+      "model": "minecraft:item/nbt/tome_firebolt_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3"}
+      },
+      "model": "minecraft:item/nbt/tome_firebolt_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_1"}
+      },
+      "model": "minecraft:item/nbt/tome_regeneration_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2"}
+      },
+      "model": "minecraft:item/nbt/tome_regeneration_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3"}
+      },
+      "model": "minecraft:item/nbt/tome_regeneration_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1"}
+      },
+      "model": "minecraft:item/nbt/tome_corruption_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FIREBOLT_2"}
+      },
+      "model": "minecraft:item/nbt/recipe_tome_firebolt_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FIREBOLT_3"}
+      },
+      "model": "minecraft:item/nbt/recipe_tome_firebolt_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FROSTBOLT_2"}
+      },
+      "model": "minecraft:item/nbt/recipe_tome_frostbolt_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FROSTBOLT_3"}
+      },
+      "model": "minecraft:item/nbt/recipe_tome_frostbolt_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_2"}
+      },
+      "model": "minecraft:item/nbt/recipe_tome_regeneration_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_3"}
+      },
+      "model": "minecraft:item/nbt/recipe_tome_regeneration_3"
+    }
+  ]
+}
+
+
+
+
+
+
+

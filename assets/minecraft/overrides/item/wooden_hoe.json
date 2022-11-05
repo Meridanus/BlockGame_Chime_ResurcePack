@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_HOE"}
+            },
+            "model": "minecraft:item/nbt/tools/cactus_hoe"
+        }
+    ]
+}
+
+
+
+
+
+
+

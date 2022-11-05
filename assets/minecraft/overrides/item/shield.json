@@ -1,0 +1,109 @@
+{
+    "overrides": [
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "ONION_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/onion_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "ONION_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_onion_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/wooden_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_wooden_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/copper_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_copper_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/bone_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_bone_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/diamond_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_diamond_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "PUMPKIN_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/pumpkin_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "PUMPKIN_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_pumpkin_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/bloodsnout_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_bloodsnout_shield"
+        }
+    ]
+}
+
+
+
+
+
+
+

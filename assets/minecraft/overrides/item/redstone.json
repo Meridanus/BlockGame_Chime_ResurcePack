@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_ARCANE"}
+      },
+      "model": "minecraft:item/nbt/arcane_repair_powder"
+    }
+  ]
+}
+
+
+
+
+
+
+

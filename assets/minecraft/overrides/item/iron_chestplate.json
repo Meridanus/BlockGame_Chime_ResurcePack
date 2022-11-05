@@ -1,0 +1,20 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STEEL_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/steel_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STEEL_CHESTPLATE",
+				"MMOITEMS_NAME_PRE": '["&cUnbreaking"]'}
+      },
+      "model": "minecraft:item/nbt/armor/unbreaking/steel_chestplate"
+    }
+  ]
+}
+
+
+

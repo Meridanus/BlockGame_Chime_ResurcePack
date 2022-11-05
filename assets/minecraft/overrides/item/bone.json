@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ANIMATED_BONE"}
+      },
+      "model": "minecraft:item/nbt/animated_bone"
+    }
+  ]
+}
+
+
+
+
+
+
+

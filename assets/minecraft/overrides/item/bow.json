@@ -1,0 +1,321 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW"}
+      },
+      "model": "minecraft:item/nbt/bows/strong_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW"},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/strong_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW"},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/strong_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW"},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/strong_bow_pulling_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW",
+				"MMOITEMS_NAME_PRE": '["&cTense"]'}
+      },
+      "model": "minecraft:item/nbt/bows/tense_strong_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW",
+				"MMOITEMS_NAME_PRE": '["&cTense"]'},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/tense_strong_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW",
+				"MMOITEMS_NAME_PRE": '["&cTense"]'},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/tense_strong_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW",
+				"MMOITEMS_NAME_PRE": '["&cTense"]'},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/tense_strong_bow_pulling_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW"}
+      },
+      "model": "minecraft:item/nbt/bows/skeletal_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW"},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/skeletal_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW"},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/skeletal_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW"},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/skeletal_bow_pulling_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW"}
+      },
+      "model": "minecraft:item/nbt/bows/unsettling_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW"},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/unsettling_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW"},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/unsettling_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW"},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/unsettling_bow_pulling_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW",
+				"MMOITEMS_NAME_PRE": '["&aToxic"]'}
+      },
+      "model": "minecraft:item/nbt/bows/toxic_skeletal_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW",
+				"MMOITEMS_NAME_PRE": '["&aToxic"]'},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/toxic_skeletal_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW",
+				"MMOITEMS_NAME_PRE": '["&aToxic"]'},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/toxic_skeletal_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW",
+				"MMOITEMS_NAME_PRE": '["&aToxic"]'},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/toxic_skeletal_bow_pulling_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW",
+				"MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+      },
+      "model": "minecraft:item/nbt/bows/haunted_unsettling_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW",
+				"MMOITEMS_NAME_PRE": '["&cHaunted"]'},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/haunted_unsettling_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW",
+				"MMOITEMS_NAME_PRE": '["&cHaunted"]'},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/haunted_unsettling_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW",
+				"MMOITEMS_NAME_PRE": '["&cHaunted"]'},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/haunted_unsettling_bow_pulling_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW"}
+      },
+      "model": "minecraft:item/nbt/bows/pigly_wiggly_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW"},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/pigly_wiggly_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW"},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/pigly_wiggly_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW"},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/pigly_wiggly_bow_pulling_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
+				"MMOITEMS_NAME_PRE": '["&cGreased"]'}
+      },
+      "model": "minecraft:item/nbt/bows/grease_pigly_wiggly_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
+				"MMOITEMS_NAME_PRE": '["&cGreased"]'},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/grease_pigly_wiggly_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
+				"MMOITEMS_NAME_PRE": '["&cGreased"]'},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/grease_pigly_wiggly_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
+				"MMOITEMS_NAME_PRE": '["&cGreased"]'},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/grease_pigly_wiggly_bow_pulling_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW"}
+      },
+      "model": "minecraft:item/nbt/bows/crystal_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW"},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/crystal_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW"},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/crystal_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW"},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/crystal_bow_pulling_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW",
+				"MMOITEMS_NAME_PRE": '["&cStarlit"]'}
+      },
+      "model": "minecraft:item/nbt/bows/starlit_crystal_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW",
+				"MMOITEMS_NAME_PRE": '["&cStarlit"]'},
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/starlit_crystal_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW",
+				"MMOITEMS_NAME_PRE": '["&cStarlit"]'},
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/starlit_crystal_bow_pulling_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW",
+				"MMOITEMS_NAME_PRE": '["&cStarlit"]'},
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/starlit_crystal_bow_pulling_3"
+    },
+  ]
+}
+
+
+
+
+
+
+

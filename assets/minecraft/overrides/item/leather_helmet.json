@@ -1,0 +1,140 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ONION_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/onion_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/zombie_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/cactus_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_HELMET",
+				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/cactus_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STONE_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/stone_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STONE_HELMET",
+				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/stone_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/wooden_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_HELMET",
+				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/wooden_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COPPER_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/copper_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COPPER_HELMET",
+				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/copper_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SILK_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/silk_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SILK_HELMET",
+				  "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+      },
+      "model": "minecraft:item/nbt/armor/sturdy/silk_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SPARKING_SILK_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/sparking_silk_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SPARKING_SILK_HELMET",
+				  "MMOITEMS_NAME_PRE": '["&cStrong"]'}
+      },
+      "model": "minecraft:item/nbt/armor/strong/sparking_silk_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ACOLYTE_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/acolyte_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ACOLYTE_HELMET",
+				  "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+      },
+      "model": "minecraft:item/nbt/armor/haunted/acolyte_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_magi_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_HELMET",
+				  "MMOITEMS_NAME_PRE": '["&cHeated"]'}
+      },
+      "model": "minecraft:item/nbt/armor/heated/bloodsnout_magi_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CINDERS_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/cinders_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CINDERS_HELMET",
+				  "MMOITEMS_NAME_PRE": '["&cWrathful"]'}
+      },
+      "model": "minecraft:item/nbt/armor/wrathful/cinders_helmet"
+    }
+  ]
+}
+
+
+
+
+
+
+

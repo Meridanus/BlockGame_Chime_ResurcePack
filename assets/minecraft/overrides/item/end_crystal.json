@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOKEN_ORIGIN_DAILY"}
+      },
+      "model": "minecraft:item/nbt/token_origin_daily"
+    }
+  ]
+}
+
+
+
+
+
+
+

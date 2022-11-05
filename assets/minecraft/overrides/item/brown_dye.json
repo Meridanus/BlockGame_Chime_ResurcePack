@@ -1,0 +1,23 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "DOUGH"}
+            },
+            "model": "minecraft:item/nbt/dough"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "COOKIE_DOUGH"}
+            },
+            "model": "minecraft:item/nbt/cookie_dough"
+        }
+    ]
+}
+
+
+
+
+
+
+
