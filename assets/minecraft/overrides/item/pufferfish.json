@@ -11,6 +11,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "BUTTER_FRIED_PUFFERFISH"}
             },
             "model": "minecraft:item/nbt/consumables/butter_fried_pufferfish"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_PUFFERFISH"}
+            },
+            "model": "minecraft:item/nbt/consumables/golden_pufferfish"
         }
     ]
 }

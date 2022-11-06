@@ -41,6 +41,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "FISH_BAMBOOZLE"}
       },
       "model": "minecraft:item/nbt/fish_bamboozle"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_GUPPY"}
+      },
+      "model": "minecraft:item/nbt/golden_guppy"
     }
   ]
 }

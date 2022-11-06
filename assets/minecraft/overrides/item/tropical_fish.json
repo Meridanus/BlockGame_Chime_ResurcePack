@@ -11,6 +11,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "BUTTER_FRIED_TROPICAL_FISH"}
             },
             "model": "minecraft:item/nbt/consumables/butter_fried_tropical_fish"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_CARP"}
+            },
+            "model": "minecraft:item/nbt/golden_carp"
         }
     ]
 }
