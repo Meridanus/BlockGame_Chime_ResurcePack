@@ -5,6 +5,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "STARTER_LUMBERJACK_SPRUCE"}
             },
             "model": "minecraft:item/nbt/quests/starter_lumberjack_spruce"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "PRISTINE_CORE"}
+            },
+            "model": "minecraft:item/nbt/pristine_core"
         }
     ]
 }
