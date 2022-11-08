@@ -9,4 +9,4 @@
 Download:
 https://www.curseforge.com/minecraft/texture-packs/blockgame-textures-chime
 
-Special thanks to DragonSlayrOfficial for some of his textures!
+Special thanks to DragonSlayrOfficial for some textures!
