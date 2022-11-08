@@ -4,7 +4,91 @@
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_POTATO"}
       },
-      "model": "minecraft:item/nbt/roasted_potato"
+      "model": "minecraft:item/nbt/consumables/roasted_potato"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_POTATO"}
+      },
+      "model": "minecraft:item/nbt/consumables/grilled_potato"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_POTATO"}
+      },
+      "model": "minecraft:item/nbt/consumables/smoked_potato"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_MUSHROOM"}
+      },
+      "model": "minecraft:item/nbt/consumables/roasted_mushroom"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_MUSHROOM"}
+      },
+      "model": "minecraft:item/nbt/consumables/grilled_mushroom"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_MUSHROOM"}
+      },
+      "model": "minecraft:item/nbt/consumables/smoked_mushroom"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_GOLDEN_POTATO"}
+      },
+      "model": "minecraft:item/nbt/consumables/roasted_golden_potato"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_GOLDEN_POTATO"}
+      },
+      "model": "minecraft:item/nbt/consumables/grilled_golden_potato"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_GOLDEN_POTATO"}
+      },
+      "model": "minecraft:item/nbt/consumables/smoked_golden_potato"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_POTATOES_AND_GRAVY"}
+      },
+      "model": "minecraft:item/nbt/consumables/golden_potatoes_and_gravy"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_POTATOES_AND_GOLDEN_GRAVY"}
+      },
+      "model": "minecraft:item/nbt/consumables/golden_potatoes_and_golden_gravy"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_POTATOES_AND_SENTIENT_GRAVY"}
+      },
+      "model": "minecraft:item/nbt/consumables/golden_potatoes_and_sentient_gravy"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "POTATOES_AND_GRAVY"}
+      },
+      "model": "minecraft:item/nbt/consumables/potatoes_and_gravy"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "POTATOES_AND_GOLDEN_GRAVY"}
+      },
+      "model": "minecraft:item/nbt/consumables/potatoes_and_golden_gravy"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "POTATOES_AND_SENTIENT_GRAVY"}
+      },
+      "model": "minecraft:item/nbt/consumables/potatoes_and_sentient_gravy"
     }
   ]
 }

@@ -5,7 +5,25 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "FAT_CARROT"}
             },
             "model": "minecraft:item/nbt/consumables/fat_carrot"
-        }
+        },
+		{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_CARROT"}
+      },
+      "model": "minecraft:item/nbt/consumables/roasted_carrot"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_CARROT"}
+      },
+      "model": "minecraft:item/nbt/consumables/grilled_carrot"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_CARROT"}
+      },
+      "model": "minecraft:item/nbt/consumables/smoked_carrot"
+    }
     ]
 }
 
