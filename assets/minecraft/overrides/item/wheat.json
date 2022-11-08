@@ -5,6 +5,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_WHEAT"}
             },
             "model": "minecraft:item/nbt/golden_wheat"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SENTIENT_WHEAT"}
+            },
+            "model": "minecraft:item/nbt/sentient_wheat"
         }
     ]
 }
