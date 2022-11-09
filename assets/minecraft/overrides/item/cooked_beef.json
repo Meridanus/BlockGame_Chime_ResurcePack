@@ -11,6 +11,24 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "BUTTER_FRIED_BEEF"}
             },
             "model": "minecraft:item/nbt/consumables/butter_fried_beef"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_PLAIN_STEAK"}
+            },
+            "model": "minecraft:item/nbt/consumables/roasted_plain_beef"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_PLAIN_STEAK"}
+            },
+            "model": "minecraft:item/nbt/consumables/smoked_plain_beef"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_PLAIN_STEAK"}
+            },
+            "model": "minecraft:item/nbt/consumables/grilled_plain_beef"
         }
     ]
 }

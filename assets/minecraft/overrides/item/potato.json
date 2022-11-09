@@ -4,7 +4,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_POTATO"}
       },
-      "model": "minecraft:item/nbt/golden_potato"
+      "model": "minecraft:item/nbt/consumables/golden_potato"
     }
   ]
 }

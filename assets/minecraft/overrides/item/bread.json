@@ -1,0 +1,29 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WHOLE_WART_BREAD"}
+            },
+            "model": "minecraft:item/nbt/consumables/whole_wart_bread"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SENTIENT_BREAD"}
+            },
+            "model": "minecraft:item/nbt/consumables/sentient_bread"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_BREAD"}
+            },
+            "model": "minecraft:item/nbt/consumables/golden_bread"
+        }
+    ]
+}
+
+
+
+
+
+
+

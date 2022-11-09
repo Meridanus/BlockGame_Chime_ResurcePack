@@ -89,6 +89,12 @@
           "nbt": {"MMOITEMS_ITEM_ID": "POTATOES_AND_SENTIENT_GRAVY"}
       },
       "model": "minecraft:item/nbt/consumables/potatoes_and_sentient_gravy"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "STUFFED_MUSHROOM"}
+      },
+      "model": "minecraft:item/nbt/materials/stuffed_mushroom"
     }
   ]
 }

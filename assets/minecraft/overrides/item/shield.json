@@ -97,6 +97,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SHIELD"}
             },
             "model": "minecraft:item/nbt/shields/blocking_bloodsnout_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "STONE_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/stone_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "STONE_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_stone_shield"
         }
     ]
 }

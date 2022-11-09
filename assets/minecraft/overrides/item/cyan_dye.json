@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SENTIENT_DOUGH"}
+            },
+            "model": "minecraft:item/nbt/sentient_dough"
+        }
+    ]
+}
+
+
+
+
+
+
+

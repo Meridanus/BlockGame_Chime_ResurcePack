@@ -11,6 +11,42 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "BUTTER_FRIED_COD"}
             },
             "model": "minecraft:item/nbt/consumables/butter_fried_cod"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_PLAIN_COD"}
+            },
+            "model": "minecraft:item/nbt/consumables/roasted_plain_cod"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_PLAIN_COD"}
+            },
+            "model": "minecraft:item/nbt/consumables/smoked_plain_cod"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_PLAIN_COD"}
+            },
+            "model": "minecraft:item/nbt/consumables/grilled_plain_cod"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_PLAIN_TROPICAL_FISH"}
+            },
+            "model": "minecraft:item/nbt/consumables/roasted_plain_tropical_fish"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_PLAIN_TROPICAL_FISH"}
+            },
+            "model": "minecraft:item/nbt/consumables/smoked_plain_tropical_fish"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_PLAIN_TROPICAL_FISH"}
+            },
+            "model": "minecraft:item/nbt/consumables/grilled_plain_tropical_fish"
         }
     ]
 }

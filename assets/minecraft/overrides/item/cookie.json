@@ -1,0 +1,29 @@
+{
+    "overrides": [
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_COOKIE"}
+            },
+            "model": "minecraft:item/nbt/consumables/roasted_cookie"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_COOKIE"}
+            },
+            "model": "minecraft:item/nbt/consumables/smoked_cookie"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_COOKIE"}
+            },
+            "model": "minecraft:item/nbt/consumables/grilled_cookie"
+        }
+    ]
+}
+
+
+
+
+
+
+
