@@ -95,6 +95,24 @@
           "nbt": {"MMOITEMS_ITEM_ID": "STUFFED_MUSHROOM"}
       },
       "model": "minecraft:item/nbt/materials/stuffed_mushroom"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_STUFFED_MUSHROOM"}
+      },
+      "model": "minecraft:item/nbt/consumables/smoked_stuffed_mushroom"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_STUFFED_MUSHROOM"}
+      },
+      "model": "minecraft:item/nbt/consumables/roasted_stuffed_mushroom"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GRILLDE_STUFFED_MUSHROOM"}
+      },
+      "model": "minecraft:item/nbt/consumables/grilled_stuffed_mushroom"
     }
   ]
 }
