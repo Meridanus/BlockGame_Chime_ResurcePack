@@ -1,22 +1,46 @@
 {
     "overrides": [
-			{
+		{
 			"predicate": {
 			  "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_BEETROOT"}
-		  },
+		},
 		  "model": "minecraft:item/nbt/consumables/roasted_beetroot"
-			},
-			{
+		},
+		{
 		  "predicate": {
 			  "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_BEETROOT"}
 		  },
 		  "model": "minecraft:item/nbt/consumables/grilled_beetroot"
-			},
-			{
+		},
+		{
 		  "predicate": {
 			  "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_BEETROOT"}
 		  },
 		  "model": "minecraft:item/nbt/consumables/smoked_beetroot"
+		},
+		{
+		  "predicate": {
+			  "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_BEETROOT"}
+		  },
+		  "model": "minecraft:item/nbt/consumables/golden_beetroot"
+		},
+		{
+		  "predicate": {
+			  "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_GOLDEN_BEETROOT"}
+		  },
+		  "model": "minecraft:item/nbt/consumables/smoked_golden_beetroot"
+		},
+		{
+		  "predicate": {
+			  "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_GOLDEN_BEETROOT"}
+		  },
+		  "model": "minecraft:item/nbt/consumables/grilled_golden_beetroot"
+		},
+		{
+		  "predicate": {
+			  "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_GOLDEN_BEETROOT"}
+		  },
+		  "model": "minecraft:item/nbt/consumables/roasted_golden_beetroot"
 		}
     ]
 }
