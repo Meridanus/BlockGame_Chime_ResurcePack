@@ -4,25 +4,137 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST"}
       },
-      "model": "minecraft:item/nbt/potions/bottle_frost"
+      "model": "minecraft:item/nbt/potions/bottle_frost_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST",
+				"MMOITEMS_DURABILITY": 2}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST",
+				"MMOITEMS_DURABILITY": 1}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST",
+				"MMOITEMS_DURABILITY": 0}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_0"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST_GREATER"}
       },
-      "model": "minecraft:item/nbt/potions/bottle_frost_greater"
+      "model": "minecraft:item/nbt/potions/bottle_frost_greater_5"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST_GREATER",
+				"MMOITEMS_DURABILITY": "<=160"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_greater_4"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST_GREATER",
+				"MMOITEMS_DURABILITY": "<=120"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_greater_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST_GREATER",
+				"MMOITEMS_DURABILITY": "<=80"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_greater_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST_GREATER",
+				"MMOITEMS_DURABILITY": "<=40"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_greater_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_FROST_GREATER",
+				"MMOITEMS_DURABILITY": 0}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_frost_greater_0"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA"}
       },
-      "model": "minecraft:item/nbt/potions/bottle_lava"
+      "model": "minecraft:item/nbt/potions/bottle_lava_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA",
+				"MMOITEMS_DURABILITY": 2}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA",
+				"MMOITEMS_DURABILITY": 1}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA",
+				"MMOITEMS_DURABILITY": 0}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_0"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA_GREATER"}
       },
-      "model": "minecraft:item/nbt/potions/bottle_lava_greater"
+      "model": "minecraft:item/nbt/potions/bottle_lava_greater_5"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA_GREATER",
+				"MMOITEMS_DURABILITY": "<=160"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_greater_4"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA_GREATER",
+				"MMOITEMS_DURABILITY": "<=120"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_greater_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA_GREATER",
+				"MMOITEMS_DURABILITY": "<=80"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_greater_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA_GREATER",
+				"MMOITEMS_DURABILITY": "<=40"}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_greater_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_LAVA_GREATER",
+				"MMOITEMS_DURABILITY": 0}
+      },
+      "model": "minecraft:item/nbt/potions/bottle_lava_greater_0"
     }
   ]
 }
