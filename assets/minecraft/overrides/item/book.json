@@ -113,6 +113,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_1"}
       },
       "model": "minecraft:item/nbt/recipe_tome_corruption_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOCoreItemId": "DEPOSIT_ITEM"}
+      },
+      "model": "minecraft:item/nbt/ui/deposit_item"
     }
   ]
 }
