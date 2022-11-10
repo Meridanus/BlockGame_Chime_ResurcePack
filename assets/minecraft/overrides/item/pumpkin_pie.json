@@ -35,6 +35,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "PIE_MEAT"}
             },
             "model": "minecraft:item/nbt/consumables/pie_meat"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "PIE_JACKOLANTERN"}
+            },
+            "model": "minecraft:item/nbt/consumables/pie_jackolantern"
         }
     ]
 }
