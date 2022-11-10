@@ -107,6 +107,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_3"}
       },
       "model": "minecraft:item/nbt/recipe_tome_regeneration_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_1"}
+      },
+      "model": "minecraft:item/nbt/recipe_tome_corruption_1"
     }
   ]
 }
