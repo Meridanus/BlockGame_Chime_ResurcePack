@@ -69,63 +69,63 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=450"}
+				"MMOITEMS_DURABILITY": "<=900"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_9"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=400"}
+				"MMOITEMS_DURABILITY": "<=800"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_8"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=350"}
+				"MMOITEMS_DURABILITY": "<=700"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_7"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=300"}
+				"MMOITEMS_DURABILITY": "<=600"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_6"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=250"}
+				"MMOITEMS_DURABILITY": "<=500"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_5"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=200"}
+				"MMOITEMS_DURABILITY": "<=400"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_4"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=150"}
+				"MMOITEMS_DURABILITY": "<=300"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_3"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=100"}
+				"MMOITEMS_DURABILITY": "<=200"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_2"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
-				"MMOITEMS_DURABILITY": "<=50"}
+				"MMOITEMS_DURABILITY": "<=100"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_1"
     },
@@ -221,65 +221,65 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=450"}
+				"MMOITEMS_DURABILITY": "<=900"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_9"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=400"}
+				"MMOITEMS_DURABILITY": "<=800"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_8"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=350"}
+				"MMOITEMS_DURABILITY": "<=700"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_7"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=300"}
+				"MMOITEMS_DURABILITY": "<=600"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_6"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=250"}
+				"MMOITEMS_DURABILITY": "<=500"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_5"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=200"}
+				"MMOITEMS_DURABILITY": "<=400"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_4"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=150"}
+				"MMOITEMS_DURABILITY": "<=300"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_3"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=100"}
+				"MMOITEMS_DURABILITY": "<=200"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_2"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2",
-				"MMOITEMS_DURABILITY": "<=50"}
+				"MMOITEMS_DURABILITY": "<=100"}
       },
-      "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_2"
+      "model": "minecraft:item/nbt/tomes/tome_firebolt_2_dur_1"
     },
 	{
       "predicate": {
@@ -297,65 +297,65 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
-				"MMOITEMS_DURABILITY": "<=450"}
+				"MMOITEMS_DURABILITY": "<=1350"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_9"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
-				"MMOITEMS_DURABILITY": "<=400"}
+				"MMOITEMS_DURABILITY": "<=1200"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_8"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
-				"MMOITEMS_DURABILITY": "<=350"}
+				"MMOITEMS_DURABILITY": "<=1050"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_7"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
-				"MMOITEMS_DURABILITY": "<=300"}
+				"MMOITEMS_DURABILITY": "<=900"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_6"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
-				"MMOITEMS_DURABILITY": "<=250"}
+				"MMOITEMS_DURABILITY": "<=750"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_5"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
-				"MMOITEMS_DURABILITY": "<=200"}
+				"MMOITEMS_DURABILITY": "<=600"}
       },
       "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_4"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
+				"MMOITEMS_DURABILITY": "<=450"}
+      },
+      "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
+				"MMOITEMS_DURABILITY": "<=300"}
+      },
+      "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
 				"MMOITEMS_DURABILITY": "<=150"}
       },
-      "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
-				"MMOITEMS_DURABILITY": "<=100"}
-      },
-      "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3",
-				"MMOITEMS_DURABILITY": "<=50"}
-      },
-      "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_3"
+      "model": "minecraft:item/nbt/tomes/tome_firebolt_3_dur_1"
     },
 	{
       "predicate": {
@@ -449,65 +449,65 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=450"}
+				"MMOITEMS_DURABILITY": "<=900"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_9"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=400"}
+				"MMOITEMS_DURABILITY": "<=800"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_8"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=350"}
+				"MMOITEMS_DURABILITY": "<=700"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_7"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=300"}
+				"MMOITEMS_DURABILITY": "<=600"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_6"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=250"}
+				"MMOITEMS_DURABILITY": "<=500"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_5"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=200"}
+				"MMOITEMS_DURABILITY": "<=400"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_4"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=150"}
+				"MMOITEMS_DURABILITY": "<=300"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_3"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=100"}
+				"MMOITEMS_DURABILITY": "<=200"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_2"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2",
-				"MMOITEMS_DURABILITY": "<=50"}
+				"MMOITEMS_DURABILITY": "<=100"}
       },
-      "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_2"
+      "model": "minecraft:item/nbt/tomes/tome_frostbolt_2_dur_1"
     },
 	{
       "predicate": {
@@ -525,65 +525,65 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
-				"MMOITEMS_DURABILITY": "<=450"}
+				"MMOITEMS_DURABILITY": "<=1350"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_9"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
-				"MMOITEMS_DURABILITY": "<=400"}
+				"MMOITEMS_DURABILITY": "<=1200"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_8"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
-				"MMOITEMS_DURABILITY": "<=350"}
+				"MMOITEMS_DURABILITY": "<=1050"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_7"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
-				"MMOITEMS_DURABILITY": "<=300"}
+				"MMOITEMS_DURABILITY": "<=900"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_6"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
-				"MMOITEMS_DURABILITY": "<=250"}
+				"MMOITEMS_DURABILITY": "<=750"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_5"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
-				"MMOITEMS_DURABILITY": "<=200"}
+				"MMOITEMS_DURABILITY": "<=600"}
       },
       "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_4"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
+				"MMOITEMS_DURABILITY": "<=450"}
+      },
+      "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
+				"MMOITEMS_DURABILITY": "<=300"}
+      },
+      "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
 				"MMOITEMS_DURABILITY": "<=150"}
       },
-      "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
-				"MMOITEMS_DURABILITY": "<=100"}
-      },
-      "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3",
-				"MMOITEMS_DURABILITY": "<=50"}
-      },
-      "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_3"
+      "model": "minecraft:item/nbt/tomes/tome_frostbolt_3_dur_1"
     },
 	{
       "predicate": {
@@ -677,65 +677,65 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=450"}
+				"MMOITEMS_DURABILITY": "<=900"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_9"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=400"}
+				"MMOITEMS_DURABILITY": "<=800"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_8"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=350"}
+				"MMOITEMS_DURABILITY": "<=700"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_7"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=300"}
+				"MMOITEMS_DURABILITY": "<=600"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_6"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=250"}
+				"MMOITEMS_DURABILITY": "<=500"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_5"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=200"}
+				"MMOITEMS_DURABILITY": "<=400"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_4"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=150"}
+				"MMOITEMS_DURABILITY": "<=300"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_3"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=100"}
+				"MMOITEMS_DURABILITY": "<=200"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_2"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_2",
-				"MMOITEMS_DURABILITY": "<=50"}
+				"MMOITEMS_DURABILITY": "<=100"}
       },
-      "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_2"
+      "model": "minecraft:item/nbt/tomes/tome_regeneration_2_dur_1"
     },
 	{
       "predicate": {
@@ -753,65 +753,65 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
-				"MMOITEMS_DURABILITY": "<=450"}
+				"MMOITEMS_DURABILITY": "<=1350"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_9"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
-				"MMOITEMS_DURABILITY": "<=400"}
+				"MMOITEMS_DURABILITY": "<=1200"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_8"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
-				"MMOITEMS_DURABILITY": "<=350"}
+				"MMOITEMS_DURABILITY": "<=1050"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_7"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
-				"MMOITEMS_DURABILITY": "<=300"}
+				"MMOITEMS_DURABILITY": "<=900"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_6"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
-				"MMOITEMS_DURABILITY": "<=250"}
+				"MMOITEMS_DURABILITY": "<=750"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_5"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
-				"MMOITEMS_DURABILITY": "<=200"}
+				"MMOITEMS_DURABILITY": "<=600"}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_4"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
+				"MMOITEMS_DURABILITY": "<=450"}
+      },
+      "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_3"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
+				"MMOITEMS_DURABILITY": "<=300"}
+      },
+      "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_2"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
 				"MMOITEMS_DURABILITY": "<=150"}
       },
-      "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
-				"MMOITEMS_DURABILITY": "<=100"}
-      },
-      "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "TOME_REGENERATION_3",
-				"MMOITEMS_DURABILITY": "<=50"}
-      },
-      "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_3"
+      "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_1"
     },
 	{
       "predicate": {
