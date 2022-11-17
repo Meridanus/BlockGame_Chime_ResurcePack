@@ -134,6 +134,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_CHESTPLATE"}
       },
       "model": "minecraft:item/nbt/armor/professions/botanist_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/professions/fisherman_chestplate"
     }
   ]
 }

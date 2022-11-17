@@ -134,6 +134,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_LEGGINGS"}
       },
       "model": "minecraft:item/nbt/armor/professions/botanist_leggings"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_LEGGINGS"}
+      },
+      "model": "minecraft:item/nbt/armor/professions/fisherman_leggings"
     }
 
   ]

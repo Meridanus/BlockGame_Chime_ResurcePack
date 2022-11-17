@@ -134,6 +134,12 @@
           "nbt": {"MMOITEMS_ITEM_ID": "/BOTANIST.*/"}
       },
       "texture": "textures/item/nbt/armor/professions/botanist_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "/FISHERMAN.*/"}
+      },
+      "texture": "textures/item/nbt/armor/professions/fisherman_armor_layer_1"
     }
   ]
 }
