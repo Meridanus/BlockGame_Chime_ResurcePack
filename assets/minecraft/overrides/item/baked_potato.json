@@ -110,7 +110,7 @@
     },
 	{
       "predicate": {
-          "nbt": {"MMOITEMS_ITEM_ID": "GRILLDE_STUFFED_MUSHROOM"}
+          "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_STUFFED_MUSHROOM"}
       },
       "model": "minecraft:item/nbt/consumables/grilled_stuffed_mushroom"
     }
