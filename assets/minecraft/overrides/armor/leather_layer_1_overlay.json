@@ -128,6 +128,12 @@
 				  "MMOITEMS_NAME_PRE": '["&cWrathful"]'}
       },
       "texture": "textures/item/nbt/armor/wrathful/cinder_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "/BOTANIST.*/"}
+      },
+      "texture": "textures/item/nbt/armor/professions/botanist_armor_layer_1"
     }
   ]
 }
