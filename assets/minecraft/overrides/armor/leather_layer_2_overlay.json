@@ -152,6 +152,12 @@
           "nbt": {"MMOITEMS_ITEM_ID": "/MINER.*/"}
       },
       "texture": "textures/item/nbt/armor/professions/miner_armor_layer_2"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/"}
+      },
+      "texture": "textures/item/nbt/armor/professions/archaeologist_armor_layer_2"
     }
   ]
 }

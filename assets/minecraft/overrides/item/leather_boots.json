@@ -152,6 +152,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS"}
       },
       "model": "minecraft:item/nbt/armor/professions/miner_boots"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS"}
+      },
+      "model": "minecraft:item/nbt/armor/professions/archaeologist_boots"
     }
   ]
 }
