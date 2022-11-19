@@ -140,6 +140,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_HELMET"}
       },
       "model": "minecraft:item/nbt/armor/professions/fisherman_helmet"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/professions/lumberjack_helmet"
     }
   ]
 }

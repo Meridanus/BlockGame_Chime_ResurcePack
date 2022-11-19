@@ -140,6 +140,12 @@
           "nbt": {"MMOITEMS_ITEM_ID": "/FISHERMAN.*/"}
       },
       "texture": "textures/item/nbt/armor/professions/fisherman_armor_layer_2"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "/LUMBERJACK.*/"}
+      },
+      "texture": "textures/item/nbt/armor/professions/lumberjack_armor_layer_2"
     }
   ]
 }

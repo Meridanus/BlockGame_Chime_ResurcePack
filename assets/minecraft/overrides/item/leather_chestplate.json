@@ -140,6 +140,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_CHESTPLATE"}
       },
       "model": "minecraft:item/nbt/armor/professions/fisherman_chestplate"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/professions/lumberjack_chestplate"
     }
   ]
 }

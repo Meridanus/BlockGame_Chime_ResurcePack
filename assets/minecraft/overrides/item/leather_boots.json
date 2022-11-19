@@ -140,6 +140,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS"}
       },
       "model": "minecraft:item/nbt/armor/professions/fisherman_boots"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS"}
+      },
+      "model": "minecraft:item/nbt/armor/professions/lumberjack_boots"
     }
   ]
 }
