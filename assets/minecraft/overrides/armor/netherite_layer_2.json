@@ -1,0 +1,10 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "PUMPKIN"}
+      },
+      "texture": "textures/item/nbt/armor/events/pumpkin_armor_layer_2"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PUMPKIN_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/events/pumpkin_helmet"
+    }
+  ]
+}
+
+
+
