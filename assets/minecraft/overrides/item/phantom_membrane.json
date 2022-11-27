@@ -17,6 +17,24 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "SPIRIT_DARKOAK"}
             },
             "model": "minecraft:item/nbt/spirit_darkoak"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SPIRIT_OAK"}
+            },
+            "model": "minecraft:item/nbt/spirit_oak"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SPIRIT_BIRCH"}
+            },
+            "model": "minecraft:item/nbt/spirit_birch"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SPIRIT_SPRUCE"}
+            },
+            "model": "minecraft:item/nbt/spirit_spruce"
         }
     ]
 }
