@@ -819,6 +819,18 @@
 				"MMOITEMS_DURABILITY": 0}
       },
       "model": "minecraft:item/nbt/tomes/tome_regeneration_3_dur_0"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_EGGNOG"}
+      },
+      "model": "minecraft:item/nbt/tomes/recipe_eggnog"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_HOT_CHOCOLATE"}
+      },
+      "model": "minecraft:item/nbt/tomes/recipe_hot_chocolate"
     }
   ]
 }
