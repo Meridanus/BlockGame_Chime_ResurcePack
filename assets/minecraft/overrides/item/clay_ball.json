@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "TOKEN_CHRISTMAS"}
+            },
+            "model": "minecraft:item/nbt/quests/token_christmas"
+        }
+    ]
+}
+
+
+
+
+
+
+
