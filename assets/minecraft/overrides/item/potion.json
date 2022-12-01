@@ -189,6 +189,18 @@
         "nbt": {"MMOITEMS_ITEM_ID": "GRAVY"}
       },
       "model": "minecraft:item/nbt/potions/gravy"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "EGGNOG"}
+      },
+      "model": "minecraft:item/nbt/consumables/eggnog"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "HOT_CHOCOLATE"}
+      },
+      "model": "minecraft:item/nbt/consumables/hot_chocolate"
     }
   ]
 }
