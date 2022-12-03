@@ -35,6 +35,18 @@
         "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_RARE"}
       },
       "model": "minecraft:item/nbt/rare_repair_powder"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_EPIC"}
+      },
+      "model": "minecraft:item/nbt/epic_repair_powder"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_EXOTIC"}
+      },
+      "model": "minecraft:item/nbt/exotic_repair_powder"
     }
   ]
 }
