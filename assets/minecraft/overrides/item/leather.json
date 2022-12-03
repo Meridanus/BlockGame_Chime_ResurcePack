@@ -6,6 +6,12 @@
       },
       "model": "minecraft:item/nbt/zombie_leather"
     },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_LEATHER"}
+      },
+      "model": "minecraft:item/nbt/fish_leather"
+    },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "PRISTINE_HIDE"}
