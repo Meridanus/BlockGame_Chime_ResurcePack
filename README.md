@@ -13,8 +13,6 @@ Special thanks to DragonSlayrOfficial for some of her textures!
 
 Known missing Items/Armor:
 
-	Bloodsnout Set + Modifier
-	Bloodsnout Slayer Set + Modifier
 	Diamond Set + Modifier
 	Krognars Set + Modifier
 	
