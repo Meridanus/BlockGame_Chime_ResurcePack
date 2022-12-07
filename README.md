@@ -13,9 +13,9 @@ Special thanks to DragonSlayrOfficial for some of her textures!
 
 Known missing Items/Armor:
 
-	Diamond Set + Modifier
-	Krognars Set + Modifier
+	Diamond ArmorSet + Modifier
+	Krognars ArmorSet + Modifier
 	
-	all Hunter Sets + Modifier
+	all Hunter ArmorSets + Modifier
 	
-	Holiday 2022 Sets
+	Holiday 2022 ArmorSets
