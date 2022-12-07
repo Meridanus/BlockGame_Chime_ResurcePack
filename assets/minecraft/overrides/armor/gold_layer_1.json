@@ -1,0 +1,30 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_BRUTE"}
+      },
+      "texture": "textures/item/nbt/armor/bloodsnout_brute_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_BRUTE",
+				"MMOITEMS_NAME_PRE": '["&cThick_Cut"]'}
+      },
+      "texture": "textures/item/nbt/armor/thick-cut/bloodsnout_brute_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_SLAYER"}
+      },
+      "texture": "textures/item/nbt/armor/bloodsnout_slayer_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_SLAYER",
+				"MMOITEMS_NAME_PRE": '["&cBrutal"]'}
+      },
+      "texture": "textures/item/nbt/armor/brutal/bloodsnout_slayer_armor_layer_1"
+    }
+  ]
+}

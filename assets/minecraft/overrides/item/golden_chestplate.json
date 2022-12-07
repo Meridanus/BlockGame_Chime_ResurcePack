@@ -1,0 +1,33 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_BRUTE_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_brute_chestplate"
+    },
+    {
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_BRUTE_CHESTPLATE",
+              "MMOITEMS_NAME_PRE": '["&cThick-Cut"]'}
+      },
+      "model": "minecraft:item/nbt/armor/thick-cut/bloodsnout_brute_chestplate"
+    },
+	{
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SLAYER_CHESTPLATE"}
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_slayer_chestplate"
+    },
+    {
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SLAYER_CHESTPLATE",
+              "MMOITEMS_NAME_PRE": '["&cBrutal"]'}
+      },
+      "model": "minecraft:item/nbt/armor/brutal/bloodsnout_slayer_chestplate"
+    }
+  ]
+}
+
+
+
