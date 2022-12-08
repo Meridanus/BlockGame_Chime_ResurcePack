@@ -1,0 +1,21 @@
+
+{
+	"overrides": [
+  				
+{
+	    "predicate": {
+	    "nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_BOOTS"}
+		  },
+			"model": "minecraft:item/nbt/armor/diamond_boots"
+    },
+    {
+	    "predicate": {
+	    "nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_BOOTS",
+			   	   "MMOITEMS_NAME_PRE": '["&cImmortal"]'}
+		  },
+			"model": "minecraft:item/nbt/armor/immortal/diamond_boots"
+    }
+
+	]
+}
+			
