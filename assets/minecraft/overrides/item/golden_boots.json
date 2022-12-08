@@ -25,6 +25,19 @@
               "MMOITEMS_NAME_PRE": '["&cBrutal"]'}
       },
       "model": "minecraft:item/nbt/armor/brutal/bloodsnout_slayer_boots"
+    },
+	{
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_BOOTS"}
+      },
+      "model": "minecraft:item/nbt/armor/krognars_boots"
+    },
+    {
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_BOOTS",
+              "MMOITEMS_NAME_PRE": '["&cFurios"]'}
+      },
+      "model": "minecraft:item/nbt/armor/furios/krognars_boots"
     }
   ]
 }

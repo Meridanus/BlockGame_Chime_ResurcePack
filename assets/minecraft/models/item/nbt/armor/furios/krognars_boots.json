@@ -1,0 +1,7 @@
+{
+		"parent": "minecraft:item/generated",
+	    "textures": {
+	        "layer0": "minecraft:item/nbt/armor/krognars_4",
+			"layer1": "minecraft:item/nbt/armor/furios/furios_overlay_4"
+	    }
+	}
