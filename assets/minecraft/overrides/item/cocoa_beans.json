@@ -5,6 +5,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "BACON_BITS"}
       },
       "model": "minecraft:item/nbt/bacon_bits"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "NUTMEG"}
+      },
+      "model": "minecraft:item/nbt/materials/nutmeg"
     }
   ]
 }
