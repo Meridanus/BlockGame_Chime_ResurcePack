@@ -17,6 +17,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_CARP"}
             },
             "model": "minecraft:item/nbt/golden_carp"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "CANDYFISH"}
+            },
+            "model": "minecraft:item/nbt/consumables/candyfish"
         }
     ]
 }
