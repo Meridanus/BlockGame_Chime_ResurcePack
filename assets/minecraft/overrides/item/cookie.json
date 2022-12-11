@@ -17,6 +17,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_COOKIE"}
             },
             "model": "minecraft:item/nbt/consumables/grilled_cookie"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GIANT_GINGERBREAD_COOKIE"}
+            },
+            "model": "minecraft:item/nbt/consumables/giant_gingerbread_cookie"
         }
     ]
 }
