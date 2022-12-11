@@ -5,6 +5,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_POTATO"}
       },
       "model": "minecraft:item/nbt/consumables/golden_potato"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RAW_GINGER"}
+      },
+      "model": "minecraft:item/nbt/consumables/raw_ginger"
     }
   ]
 }
