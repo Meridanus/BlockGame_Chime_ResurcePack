@@ -194,13 +194,69 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "EGGNOG"}
       },
-      "model": "minecraft:item/nbt/consumables/eggnog"
+      "model": "minecraft:item/nbt/consumables/eggnog_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "EGGNOG",
+				 "MMOITEMS_MAX_CONSUME": 2}
+      },
+      "model": "minecraft:item/nbt/consumables/eggnog_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "EGGNOG",
+				 "MMOITEMS_MAX_CONSUME": 3}
+      },
+      "model": "minecraft:item/nbt/consumables/eggnog_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "EGGNOG",
+				 "MMOITEMS_MAX_CONSUME": 4}
+      },
+      "model": "minecraft:item/nbt/consumables/eggnog_4"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "EGGNOG",
+				 "MMOITEMS_MAX_CONSUME": 5}
+      },
+      "model": "minecraft:item/nbt/consumables/eggnog_5"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "HOT_CHOCOLATE"}
       },
-      "model": "minecraft:item/nbt/consumables/hot_chocolate"
+      "model": "minecraft:item/nbt/consumables/hot_chocolate_1"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "HOT_CHOCOLATE",
+				 "MMOITEMS_MAX_CONSUME": 2}
+      },
+      "model": "minecraft:item/nbt/consumables/hot_chocolate_2"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "HOT_CHOCOLATE",
+				 "MMOITEMS_MAX_CONSUME": 3}
+      },
+      "model": "minecraft:item/nbt/consumables/hot_chocolate_3"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "HOT_CHOCOLATE",
+				 "MMOITEMS_MAX_CONSUME": 4}
+      },
+      "model": "minecraft:item/nbt/consumables/hot_chocolate_4"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "HOT_CHOCOLATE",
+				 "MMOITEMS_MAX_CONSUME": 5}
+      },
+      "model": "minecraft:item/nbt/consumables/hot_chocolate_5"
     }
   ]
 }
