@@ -1,0 +1,77 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "Bacon Bits"
+      },
+      "model": "minecraft:item/nbt/bacon_bits"
+    },
+	{
+      "predicate": {
+        "name": "Ancient Pottery"
+      },
+      "model": "minecraft:item/nbt/ancient_pottery"
+    },
+	{
+      "predicate": {
+        "name": "Stone Heart"
+      },
+      "model": "minecraft:item/nbt/earthen_heart"
+    },
+	{
+      "predicate": {
+        "name": "Pristine Core"
+      },
+      "model": "minecraft:item/nbt/pristine_core"
+    },
+	{
+      "predicate": {
+        "name": "Perfect Specimen"
+      },
+      "model": "minecraft:item/nbt/perfect_specimen"
+    },
+	{
+      "predicate": {
+        "name": "Mini-Mushroom"
+      },
+      "model": "minecraft:item/nbt/mini_mushroom"
+    },
+	{
+      "predicate": {
+        "name": "Mega-Mushroom"
+      },
+      "model": "minecraft:item/nbt/mega_mushroom"
+    },
+	{
+      "predicate": {
+        "name": "Tough Roots"
+      },
+      "model": "minecraft:item/nbt/tough_roots"
+    },
+	{
+      "predicate": {
+        "name": "Simple Essence"
+      },
+      "model": "minecraft:item/nbt/essence_simple"
+    },
+	{
+      "predicate": {
+        "name": "Complex Essence"
+      },
+      "model": "minecraft:item/nbt/essence_complex"
+    },
+	{
+      "predicate": {
+        "name": "Glowing Mote"
+      },
+      "model": "minecraft:item/nbt/glowing_mote"
+    }
+  ]
+}
+
+
+
+
+
+
+
