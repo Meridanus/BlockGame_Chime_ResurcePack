@@ -65,6 +65,12 @@
         "name": "Glowing Mote"
       },
       "model": "minecraft:item/nbt/glowing_mote"
+    },
+	{
+      "predicate": {
+        "name": "Burning Core"
+      },
+      "model": "minecraft:item/nbt/burning_core"
     }
   ]
 }
