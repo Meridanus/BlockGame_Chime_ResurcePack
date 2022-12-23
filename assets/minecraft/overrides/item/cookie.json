@@ -22,7 +22,35 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "GIANT_GINGERBREAD_COOKIE"}
             },
-            "model": "minecraft:item/nbt/consumables/giant_gingerbread_cookie"
+            "model": "minecraft:item/nbt/consumables/giant_gingerbread_cookie_1"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GIANT_GINGERBREAD_COOKIE",
+				 "MMOITEMS_MAX_CONSUME": 2}
+            },
+            "model": "minecraft:item/nbt/consumables/giant_gingerbread_cookie_2"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GIANT_GINGERBREAD_COOKIE",
+				 "MMOITEMS_MAX_CONSUME": 3}
+            },
+            "model": "minecraft:item/nbt/consumables/giant_gingerbread_cookie_3"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GIANT_GINGERBREAD_COOKIE",
+				 "MMOITEMS_MAX_CONSUME": 4}
+            },
+            "model": "minecraft:item/nbt/consumables/giant_gingerbread_cookie_4"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GIANT_GINGERBREAD_COOKIE",
+				 "MMOITEMS_MAX_CONSUME": 5}
+            },
+            "model": "minecraft:item/nbt/consumables/giant_gingerbread_cookie_5"
         }
     ]
 }
