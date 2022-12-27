@@ -158,6 +158,19 @@
         "nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_HELMET"}
       },
       "model": "minecraft:item/nbt/armor/professions/archaeologist_helmet"
+    },
+	{
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "GINGERBREAD_HELMET_2022"}
+      },
+      "model": "minecraft:item/nbt/armor/gingerbread_helmet"
+    },
+    {
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "GINGERBREAD_HELMET_2022",
+              "MMOITEMS_NAME_PRE": '["&cToasted"]'}
+      },
+      "model": "minecraft:item/nbt/armor/toasted/gingerbread_helmet"
     }
   ]
 }

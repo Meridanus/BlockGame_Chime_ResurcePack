@@ -158,6 +158,19 @@
           "nbt": {"MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/"}
       },
       "texture": "textures/item/nbt/armor/professions/archaeologist_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD"}
+      },
+      "texture": "textures/item/nbt/armor/gingerbread_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD",
+				  "MMOITEMS_NAME_PRE": '["&cToasted"]'}
+      },
+      "texture": "textures/item/nbt/armor/toasted/gingerbread_armor_layer_1"
     }
   ]
 }
