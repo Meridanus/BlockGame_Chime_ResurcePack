@@ -13,6 +13,14 @@ Special thanks to DragonSlayrOfficial for some of her textures!
 
 Known missing Items/Armor:
 	
-	all Hunter ArmorSets + Modifier
-	
-	Holiday 2022 ArmorSets
+	Hunter ArmorSets:
+      Shotcallers + Sturdy Modifier
+      Archers + Strong Modifier
+      Sharpshooters + Haunted Modifier
+      Bloodsnout Archers + Dead Eye Modifier
+      Crystalline + Shattered  Modifier
+
+	Holiday 2022 ArmorSets:
+      Mistletoe + Evergreen Modifier
+      Caribou + Stampeding Modifier
+      Gingerbread + Toasted Modifier
