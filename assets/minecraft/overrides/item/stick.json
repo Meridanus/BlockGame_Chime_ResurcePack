@@ -71,6 +71,12 @@
         "name": "Burning Core"
       },
       "model": "minecraft:item/nbt/burning_core"
+    },
+	{
+      "predicate": {
+        "name": "Arcane Repair Powder"
+      },
+      "model": "minecraft:item/nbt/arcane_repair_powder"
     }
   ]
 }
