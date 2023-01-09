@@ -77,6 +77,24 @@
         "name": "Arcane Repair Powder"
       },
       "model": "minecraft:item/nbt/arcane_repair_powder"
+    },
+	{
+      "predicate": {
+        "name": "Golden Ring"
+      },
+      "model": "minecraft:item/nbt/golden_ring"
+    },
+	{
+      "predicate": {
+        "name": "Petrified Snowball"
+      },
+      "model": "minecraft:item/nbt/quests/token_christmas"
+    },
+	{
+      "predicate": {
+        "name": "Magic Pumpkin"
+      },
+      "model": "minecraft:item/nbt/token_halloween"
     }
   ]
 }
