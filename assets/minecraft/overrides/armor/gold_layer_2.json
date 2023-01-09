@@ -35,7 +35,7 @@
     {
       "predicate": {
 		  "nbt": {"MMOITEMS_ITEM_SET": "KROGNARS",
-              "MMOITEMS_NAME_PRE": '["&cFurios"]'}
+              "MMOITEMS_NAME_PRE": '["&cFurious"]'}
       },
       "texture": "textures/item/nbt/armor/furios/krognars_armor_layer_2"
     }
