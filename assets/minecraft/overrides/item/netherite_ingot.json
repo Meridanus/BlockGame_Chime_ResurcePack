@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "TOKEN_HUNTER_PILLAGER"}
+            },
+            "model": "minecraft:item/nbt/quests/token_hunter_pillager"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+
