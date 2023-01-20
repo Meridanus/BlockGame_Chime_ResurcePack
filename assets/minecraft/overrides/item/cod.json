@@ -47,6 +47,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_GUPPY"}
       },
       "model": "minecraft:item/nbt/golden_guppy"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_SALTFISH"}
+      },
+      "model": "minecraft:item/nbt/materials/salt_fish"
     }
   ]
 }
