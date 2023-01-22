@@ -23,6 +23,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "CANDYFISH"}
             },
             "model": "minecraft:item/nbt/consumables/candyfish"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FISH_GLOWFISH"}
+            },
+            "model": "minecraft:item/nbt/materials/fish_glowfish"
         }
     ]
 }
