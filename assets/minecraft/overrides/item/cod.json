@@ -53,6 +53,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "FISH_SALTFISH"}
       },
       "model": "minecraft:item/nbt/materials/salt_fish"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_FUNGALFISH"}
+      },
+      "model": "minecraft:item/nbt/materials/fish_fungalfish"
     }
   ]
 }
