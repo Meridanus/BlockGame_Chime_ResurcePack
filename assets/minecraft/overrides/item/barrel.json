@@ -5,6 +5,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "STARTER_HUNTER_PILLAGER"}
             },
             "model": "minecraft:item/nbt/quests/starter_hunter_pillager"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_HUNTER_OUTPOST_DESTROYED"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_hunter_outpost_destroyed"
         }
     ]
 }
