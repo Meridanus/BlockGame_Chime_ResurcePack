@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SOUL_CHARGE"}
+            },
+            "model": "minecraft:item/nbt/materials/soul_charge"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+
