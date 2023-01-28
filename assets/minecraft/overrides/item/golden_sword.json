@@ -12,6 +12,12 @@
 						"MMOITEMS_NAME_PRE": '["&cRoasting"]'}
             },
             "model": "minecraft:item/nbt/swords/roasting_bloodsnout_blade"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_BLADE"}
+            },
+            "model": "minecraft:item/nbt/swords/krognars_blade"
         }
         
     ]
