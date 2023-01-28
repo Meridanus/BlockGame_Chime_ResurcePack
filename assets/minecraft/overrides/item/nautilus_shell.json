@@ -17,6 +17,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "FANCY_SHELL"}
       },
       "model": "minecraft:item/nbt/fancy_shell"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SHELL_EVERBUBBLING"}
+      },
+      "model": "minecraft:item/nbt/spellcraftings/shell_everbubbling"
     }
   ]
 }
