@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_STONE"}
+            },
+            "model": "minecraft:item/nbt/totems/totem_stone"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+
