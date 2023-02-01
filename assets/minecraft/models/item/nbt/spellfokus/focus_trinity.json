@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/nbt/focus_frost"
+    "layer0": "minecraft:item/nbt/spellfokus/focus_trinity"
   }
 }

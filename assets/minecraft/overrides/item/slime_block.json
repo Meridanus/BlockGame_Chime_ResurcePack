@@ -4,7 +4,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_FROSTSLIME"}
             },
-            "model": "minecraft:item/nbt/focus_frostslime"
+            "model": "minecraft:item/nbt/spellfokus/focus_frostslime"
         }
     ]
 }
