@@ -5,6 +5,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_TRINITY"}
             },
             "model": "minecraft:item/nbt/focus_trinity"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_BLOODSNOUT"}
+            },
+            "model": "minecraft:item/nbt/spellfokus/focus_bloodsnout"
         }
     ]
 }

@@ -5,6 +5,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_UNSETTLING"}
             },
             "model": "minecraft:item/nbt/totems/totem_unsettling"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_UNSETTLING"}
+            },
+            "model": "minecraft:item/nbt/spellfokus/focus_unsettling"
         }
         
     ]
