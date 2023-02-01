@@ -18,7 +18,14 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_BLADE"}
             },
             "model": "minecraft:item/nbt/swords/krognars_blade"
-        }
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_BLADE",
+						"MMOITEMS_NAME_PRE": '["&cFurious"]'}
+            },
+            "model": "minecraft:item/nbt/swords/furious_krognars_blade"
+        },
         
     ]
 }
