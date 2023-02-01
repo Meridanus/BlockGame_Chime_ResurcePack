@@ -11,6 +11,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "LIVING_FIRE"}
             },
             "model": "minecraft:item/nbt/living_fire"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_CINDERS"}
+            },
+            "model": "minecraft:item/nbt/spellfokus/focus_cinders"
         }
     ]
 }
