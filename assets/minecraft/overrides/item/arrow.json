@@ -4,37 +4,37 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_FLINT"}
       },
-      "model": "minecraft:item/nbt/quiver_flint"
+      "model": "minecraft:item/nbt/quivers/quiver_flint"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_FIRE"}
       },
-      "model": "minecraft:item/nbt/quiver_fire"
+      "model": "minecraft:item/nbt/quivers/quiver_fire"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_EXPLOSIVE"}
       },
-      "model": "minecraft:item/nbt/quiver_explosive"
+      "model": "minecraft:item/nbt/quivers/quiver_explosive"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_VOLCANIC"}
       },
-      "model": "minecraft:item/nbt/quiver_volcanic"
+      "model": "minecraft:item/nbt/quivers/quiver_volcanic"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_POISON"}
       },
-      "model": "minecraft:item/nbt/quiver_poison"
+      "model": "minecraft:item/nbt/quivers/quiver_poison"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SLOW"}
       },
-      "model": "minecraft:item/nbt/quiver_slow"
+      "model": "minecraft:item/nbt/quivers/quiver_slow"
     },
     {
       "predicate": {

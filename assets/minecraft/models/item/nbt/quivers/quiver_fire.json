@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/nbt/quiver_poison"
+    "layer0": "minecraft:item/nbt/quivers/quiver_fire"
   }
 }
