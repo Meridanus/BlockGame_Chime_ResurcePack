@@ -35,7 +35,33 @@
         "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SLOW"}
       },
       "model": "minecraft:item/nbt/quiver_slow"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SPARKING"}
+      },
+      "model": "minecraft:item/nbt/quivers/quiver_sparking"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_UNSETTLING"}
+      },
+      "model": "minecraft:item/nbt/quivers/quiver_unsettling"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_GREASY"}
+      },
+      "model": "minecraft:item/nbt/quivers/quiver_greasy"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_CRYSTALLINE"}
+      },
+      "model": "minecraft:item/nbt/quivers/quiver_crystalline"
     }
+	
+	
   ]
 }
 
