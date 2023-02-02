@@ -2,6 +2,21 @@
   "overrides": [
     {
       "predicate": {
+        "name": "Test Subjekt A3T"
+      },
+      "model": "minecraft:item/nbt/totems/totem_krognars"
+    },
+	{
+		"name": "Test Subjekt A3T",
+		"predicate": {
+          "dimension": {
+            "id": "krognars_bastion"
+          }
+        },
+        "model": "minecraft:item/nbt/totems/totem_krognars_dungeon"
+    },
+	{
+      "predicate": {
         "name": "Bacon Bits"
       },
       "model": "minecraft:item/nbt/bacon_bits"
