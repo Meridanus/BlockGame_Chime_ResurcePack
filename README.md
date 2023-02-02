@@ -23,5 +23,3 @@ Known missing Items/Armor:
 	Holiday 2022 ArmorSets:
       Mistletoe + Evergreen Modifier
       Caribou + Stampeding Modifier
-	  
-	  Krognars Favorite Fidget Spinner
