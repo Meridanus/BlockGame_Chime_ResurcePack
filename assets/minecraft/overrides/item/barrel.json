@@ -11,6 +11,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "STARTER_HUNTER_OUTPOST_DESTROYED"}
             },
             "model": "minecraft:item/nbt/quests/starter_hunter_outpost_destroyed"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WAR_SUPPLIES"}
+            },
+            "model": "minecraft:item/nbt/warmaterials/war_supplies"
         }
     ]
 }
