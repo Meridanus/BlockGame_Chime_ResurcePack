@@ -29,6 +29,36 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "STARTER_FISHERMAN_FROST"}
             },
             "model": "minecraft:item/nbt/quests/starter_fisherman_frost"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WARSCROLL_BLACK_HOLE"}
+            },
+            "model": "minecraft:item/nbt/spellcraftings/warscroll_black_hole"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WARSCROLL_DIVINE_INTERVENTION"}
+            },
+            "model": "minecraft:item/nbt/spellcraftings/warscroll_divine_intervention"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WARSCROLL_EXPLODING_FOWL"}
+            },
+            "model": "minecraft:item/nbt/spellcraftings/warscroll_exploding_fowl"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WARSCROLL_METEOR"}
+            },
+            "model": "minecraft:item/nbt/spellcraftings/warscroll_meteor"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WARSCROLL_OVERLOAD"}
+            },
+            "model": "minecraft:item/nbt/spellcraftings/warscroll_overload"
         }
     ]
 }
