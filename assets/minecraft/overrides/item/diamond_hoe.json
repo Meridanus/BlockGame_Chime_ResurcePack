@@ -11,6 +11,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "FRAGILE_HOE"}
             },
             "model": "minecraft:item/nbt/tools/fragile_hoe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_HOE"}
+            },
+            "model": "minecraft:item/nbt/tools/shimmerglass_hoe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_HOE",
+                        "MMOITEMS_NAME_PRE": '["&cGleaming"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_hoe"
         }
         
     ]

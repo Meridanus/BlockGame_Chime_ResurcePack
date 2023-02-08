@@ -12,6 +12,20 @@
             },
             "model": "minecraft:item/nbt/tools/mythril_shovel"
         },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_SHOVEL"}
+            },
+            "model": "minecraft:item/nbt/tools/skysteel_shovel"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_SHOVEL",
+                        "MMOITEMS_NAME_PRE": '["&cShimmering"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/shimmering_skysteel_shovel"
+        }
         
     ]
 }

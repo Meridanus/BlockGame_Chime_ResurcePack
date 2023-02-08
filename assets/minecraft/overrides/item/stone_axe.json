@@ -5,6 +5,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "COPPER_AXE"}
             },
             "model": "minecraft:item/nbt/tools/copper_axe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BRASS_AXE"}
+            },
+            "model": "minecraft:item/nbt/tools/brass_axe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BRASS_AXE",
+                        "MMOITEMS_NAME_PRE": '["&cConductive"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/conductive_brass_axe"
         }
     ]
 }

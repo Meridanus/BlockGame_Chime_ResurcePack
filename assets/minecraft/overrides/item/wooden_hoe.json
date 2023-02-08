@@ -5,7 +5,22 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_HOE"}
             },
             "model": "minecraft:item/nbt/tools/cactus_hoe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_HOE"}
+            },
+            "model": "minecraft:item/nbt/tools/wooden_hoe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_HOE",
+                        "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/sturdy_wooden_hoe"
         }
+		
     ]
 }
 

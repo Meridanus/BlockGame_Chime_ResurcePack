@@ -11,6 +11,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_AXE"}
             },
             "model": "minecraft:item/nbt/tools/mythril_axe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_AXE"}
+            },
+            "model": "minecraft:item/nbt/tools/skysteel_axe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_AXE",
+                        "MMOITEMS_NAME_PRE": '["&cShimmering"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/shimmering_skysteel_axe"
         }
         
     ]

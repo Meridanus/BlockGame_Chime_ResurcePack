@@ -5,6 +5,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_PICKAXE"}
             },
             "model": "minecraft:item/nbt/tools/crystal_pickaxe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_PICKAXE"}
+            },
+            "model": "minecraft:item/nbt/tools/shimmerglass_pickaxe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_PICKAXE",
+                        "MMOITEMS_NAME_PRE": '["&cGleaming"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_pickaxe"
         }
         
     ]

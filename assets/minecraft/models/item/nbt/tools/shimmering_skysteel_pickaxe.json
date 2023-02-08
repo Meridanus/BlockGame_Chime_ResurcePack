@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/nbt/tools/skysteel_pickaxe",
+		"layer1": "minecraft:item/nbt/tools/shimmering_pickaxe_overlay"
+    }
+}

@@ -4,7 +4,7 @@
       "predicate": {
         "name": "Test Subjekt A3T"
       },
-      "model": "minecraft:item/nbt/totems/totem_krognars"
+      "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_axe"
     },
 	{
 		"name": "Test Subjekt A3T",

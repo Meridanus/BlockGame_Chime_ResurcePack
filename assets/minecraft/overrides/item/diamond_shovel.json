@@ -5,6 +5,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_SHOVEL"}
             },
             "model": "minecraft:item/nbt/tools/crystal_shovel"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_SHOVEL"}
+            },
+            "model": "minecraft:item/nbt/tools/shimmerglass_shovel"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_SHOVEL",
+                        "MMOITEMS_NAME_PRE": '["&cGleaming"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_shovel"
         }
         
     ]

@@ -11,6 +11,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "ONION_SHOVEL"}
             },
             "model": "minecraft:item/nbt/tools/onion_shovel"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_SHOVEL"}
+            },
+            "model": "minecraft:item/nbt/tools/wooden_shovel"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_SHOVEL",
+                        "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/sturdy_wooden_shovel"
         }
     ]
 }

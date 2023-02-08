@@ -11,6 +11,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "ONION_PICKAXE"}
             },
             "model": "minecraft:item/nbt/tools/onion_pickaxe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_PICKAXE"}
+            },
+            "model": "minecraft:item/nbt/tools/wooden_pickaxe"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_PICKAXE",
+                        "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				
+            },
+            "model": "minecraft:item/nbt/tools/sturdy_wooden_pickaxe"
         }
     ]
 }
