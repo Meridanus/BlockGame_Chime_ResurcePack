@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/nbt/quests/compasses/sunken_compass_13"
+    }
+}
