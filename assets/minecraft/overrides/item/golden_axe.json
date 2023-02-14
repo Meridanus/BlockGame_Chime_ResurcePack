@@ -1,12 +1,7 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "FRAGILE_AXE"}
-            },
-            "model": "minecraft:item/nbt/tools/fragile_axe"
-        }
-        
+        { "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "FRAGILE_AXE"} }, "model": "minecraft:item/nbt/tools/fragile_axe" },
+		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_CLEAVER"} }, "model": "minecraft:item/nbt/swords/krognars_cleaver" }  
     ]
 }
 
