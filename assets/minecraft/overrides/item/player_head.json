@@ -1,0 +1,12 @@
+{
+    "overrides": [
+        { "predicate": { "name": "" }, "model": "minecraft:item/nbt/backpack" }
+    ]
+}
+
+
+
+
+
+
+
