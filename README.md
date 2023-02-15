@@ -15,8 +15,6 @@ Shaye for the Pack Icon
 DragonSlayrOfficial for some of her textures!
 
 Known missing Items/Armor:
-
-	Backpack  (player_head)
 	
 	Hunter ArmorSets:
       Shotcallers + Sturdy Modifier
@@ -28,10 +26,4 @@ Known missing Items/Armor:
 	Holiday 2022 ArmorSets:
       Mistletoe + Evergreen Modifier
       Caribou + Stampeding Modifier
-	  
-	  Raid Supplies - Sunken Cells		(barrel -> RAID_CRATE_SUNKEN)
-	  Raid Supplies - Krognars Bastion 	(barrel -> RAID_CRATE_KROGNARS)
-	  
-	  Sunken Cells			(written_book -> RAID_GUIDE_SUNKEN)
-	  Krognars Bastion		(written_book -> RAID_GUIDE_KROGNARS)
 	  
