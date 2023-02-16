@@ -1,7 +1,16 @@
 {
     "overrides": [
-        { "predicate": { "name": "" }, "model": "minecraft:item/nbt/backpack" }
-    ]
+		{
+          "predicate": {
+            "nbt": {
+			  "display": {
+				"Name": '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Backpack"}],"text":""}'
+				}
+			}
+		},
+		"model": "minecraft:item/nbt/backpack"
+		}
+	]
 }
 
 
