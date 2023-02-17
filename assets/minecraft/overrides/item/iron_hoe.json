@@ -21,7 +21,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_HOE",
-                        "MMOITEMS_NAME_PRE": '["&cShimmering"]'}
+                        "MMOITEMS_NAME_PRE": '["&cForagers"]'}
 				
             },
             "model": "minecraft:item/nbt/tools/shimmering_skysteel_hoe"

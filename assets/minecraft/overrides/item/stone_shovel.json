@@ -15,7 +15,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "BRASS_SHOVEL",
-                        "MMOITEMS_NAME_PRE": '["&cConductive"]'}
+                        "MMOITEMS_NAME_PRE": '["&cSurveyors"]'}
 				
             },
             "model": "minecraft:item/nbt/tools/conductive_brass_shovel"
