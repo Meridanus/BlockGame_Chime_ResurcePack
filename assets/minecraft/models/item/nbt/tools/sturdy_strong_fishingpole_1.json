@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/nbt/tools/strong_fishingpole_1",
+	"layer1": "minecraft:item/nbt/tools/sturdy_fishingpole_overlay"
+  }
+}

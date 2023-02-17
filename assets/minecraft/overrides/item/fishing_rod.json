@@ -13,6 +13,21 @@
       },
       "model": "minecraft:item/nbt/tools/strong_fishingpole_1"
     },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_FISHINGPOLE",
+                "MMOITEMS_NAME_PRE": '["&cAnglers"]'}
+      },
+      "model": "minecraft:item/nbt/tools/sturdy_strong_fishingpole_0"
+    },
+	{
+      "predicate": {
+		"cast": 1,
+        "nbt": {"MMOITEMS_ITEM_ID": "STRONG_FISHINGPOLE",
+                "MMOITEMS_NAME_PRE": '["&cAnglers"]'}
+      },
+      "model": "minecraft:item/nbt/tools/sturdy_strong_fishingpole_1"
+    },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "COPPER_FISHINGPOLE"}
@@ -67,6 +82,21 @@
     },
 	{
       "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "BRASS_FISHINGPOLE",
+                "MMOITEMS_NAME_PRE": '["&cAnglers"]'}
+      },
+      "model": "minecraft:item/nbt/tools/conductive_brass_fishingpole_0"
+    },
+	{
+      "predicate": {
+		"cast": 1,
+        "nbt": {"MMOITEMS_ITEM_ID": "BRASS_FISHINGPOLE",
+                "MMOITEMS_NAME_PRE": '["&cAnglers"]'}
+      },
+      "model": "minecraft:item/nbt/tools/conductive_brass_fishingpole_1"
+    },
+	{
+      "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_FISHINGPOLE"}
       },
       "model": "minecraft:item/nbt/tools/skysteel_fishingpole_0"
@@ -80,6 +110,21 @@
     },
 	{
       "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_FISHINGPOLE",
+                "MMOITEMS_NAME_PRE": '["&cAnglers"]'}
+      },
+      "model": "minecraft:item/nbt/tools/shimmering_skysteel_fishingpole_0"
+    },
+	{
+      "predicate": {
+		"cast": 1,
+        "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_FISHINGPOLE",
+                "MMOITEMS_NAME_PRE": '["&cAnglers"]'}
+      },
+      "model": "minecraft:item/nbt/tools/shimmering_skysteel_fishingpole_1"
+    },
+	{
+      "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_FISHINGPOLE"}
       },
       "model": "minecraft:item/nbt/tools/shimmerglass_fishingpole_0"
@@ -90,6 +135,21 @@
         "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_FISHINGPOLE"}
       },
       "model": "minecraft:item/nbt/tools/shimmerglass_fishingpole_1"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_FISHINGPOLE",
+                "MMOITEMS_NAME_PRE": '["&cAnglers"]'}
+      },
+      "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_fishingpole_0"
+    },
+	{
+      "predicate": {
+		"cast": 1,
+        "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_FISHINGPOLE",
+                "MMOITEMS_NAME_PRE": '["&cAnglers"]'}
+      },
+      "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_fishingpole_1"
     }
   ]
 }
