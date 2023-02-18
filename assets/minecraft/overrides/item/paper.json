@@ -59,7 +59,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "WARSCROLL_OVERLOAD"}
             },
             "model": "minecraft:item/nbt/spellcraftings/warscroll_overload"
-        }
+        },
+		{
+		  "predicate": {
+			"nbt": {"MMOITEMS_ITEM_ID": "WAR_BOND"}
+		  },
+		  "model": "minecraft:item/nbt/war_bond"
+		},
+		{
+		  "predicate": {
+			"nbt": {"MMOITEMS_ITEM_ID": "WAR_BOND"},
+			"count": ">=64"
+		  },
+		  "model": "minecraft:item/nbt/war_bond_stack"
+		}
     ]
 }
 
