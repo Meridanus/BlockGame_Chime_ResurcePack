@@ -23,6 +23,12 @@
     },
 	{
       "predicate": {
+        "name": "Filter"
+      },
+      "model": "minecraft:item/nbt/stick_filter"
+    },
+	{
+      "predicate": {
         "name": "Ancient Pottery"
       },
       "model": "minecraft:item/nbt/ancient_pottery"
