@@ -31,6 +31,20 @@
 		{
             "predicate": {
 				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_SHIELD", "MMOITEMS_NAME_PRE": '["&cReinforced"]'}
+            },
+            "model": "minecraft:item/nbt/shields/reinforced_wooden_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_SHIELD", "MMOITEMS_NAME_PRE": '["&cReinforced"]'}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_reinforced_wooden_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
                 "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD"}
             },
             "model": "minecraft:item/nbt/shields/copper_shield"
@@ -45,6 +59,20 @@
 		{
             "predicate": {
 				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD", "MMOITEMS_NAME_PRE": '["&cPolished"]'}
+            },
+            "model": "minecraft:item/nbt/shields/polished_copper_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD", "MMOITEMS_NAME_PRE": '["&cPolished"]'}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_polished_copper_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
                 "nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD"}
             },
             "model": "minecraft:item/nbt/shields/bone_shield"
@@ -55,6 +83,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD"}
             },
             "model": "minecraft:item/nbt/shields/blocking_bone_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD", "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+            },
+            "model": "minecraft:item/nbt/shields/haunted_bone_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD", "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_haunted_bone_shield"
         },
 		{
             "predicate": {
@@ -101,6 +143,20 @@
 		{
             "predicate": {
 				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SHIELD", "MMOITEMS_NAME_PRE": '["&cBraised"]'}
+            },
+            "model": "minecraft:item/nbt/shields/braised_bloodsnout_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SHIELD", "MMOITEMS_NAME_PRE": '["&cBraised"]'}
+            },
+            "model": "minecraft:item/nbt/shields/blocking_braised_bloodsnout_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
                 "nbt": {"MMOITEMS_ITEM_ID": "STONE_SHIELD"}
             },
             "model": "minecraft:item/nbt/shields/stone_shield"
@@ -111,6 +167,20 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "STONE_SHIELD"}
             },
             "model": "minecraft:item/nbt/shields/blocking_stone_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/cactus_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_SHIELD"}
+            },
+            "model": "minecraft:item/nbt/shields/cactus_shield"
         }
     ]
 }
