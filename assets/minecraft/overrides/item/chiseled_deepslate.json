@@ -5,7 +5,13 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_STONE"}
             },
             "model": "minecraft:item/nbt/totems/totem_stone"
-        }
+        },
+		{
+		  "predicate": {
+			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_STONE", "MMOITEMS_NAME_PRE": '["&cChiseled"]'}
+		  },
+		  "model": "minecraft:item/nbt/totems/chisled_totem_stone"
+		}
         
     ]
 }

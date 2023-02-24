@@ -5,7 +5,13 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_BLOODSNOUT"}
             },
             "model": "minecraft:item/nbt/totems/totem_bloodsnout"
-        }
+        },
+		{
+		  "predicate": {
+			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_BLOODSNOUT", "MMOITEMS_NAME_PRE": '["&cFried"]'}
+		  },
+		  "model": "minecraft:item/nbt/totems/fried_totem_bloodsnout"
+		}
         
     ]
 }

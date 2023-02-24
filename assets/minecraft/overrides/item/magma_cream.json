@@ -11,7 +11,13 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_BLOODSNOUT"}
             },
             "model": "minecraft:item/nbt/spellfokus/focus_bloodsnout"
-        }
+        },
+        {
+		  "predicate": {
+			"nbt": {"MMOITEMS_ITEM_ID": "FOCUS_BLOODSNOUT", "MMOITEMS_NAME_PRE": '["&cExfoliating"]'}
+		  },
+		  "model": "minecraft:item/nbt/spellfokus/exfoliating_focus_bloodsnout"
+		}
     ]
 }
 

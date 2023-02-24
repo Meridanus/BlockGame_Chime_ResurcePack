@@ -5,7 +5,13 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_CACTUS"}
             },
             "model": "minecraft:item/nbt/totems/totem_cactus"
-        }
+        },
+		{
+		  "predicate": {
+			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_CACTUS", "MMOITEMS_NAME_PRE": '["&cExtra Spiny"]'}
+		  },
+		  "model": "minecraft:item/nbt/totems/extra_spiny_totem_cactus"
+		}
     ]
 }
 

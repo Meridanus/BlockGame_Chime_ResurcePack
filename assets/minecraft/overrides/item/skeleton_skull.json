@@ -7,12 +7,23 @@
             "model": "minecraft:item/nbt/totems/totem_unsettling"
         },
 		{
+		  "predicate": {
+			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_UNSETTLING", "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+		  },
+		  "model": "minecraft:item/nbt/totems/haunted_totem_unsettling"
+		},
+		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_UNSETTLING"}
             },
             "model": "minecraft:item/nbt/spellfokus/focus_unsettling"
-        }
-        
+        },
+        {
+		  "predicate": {
+			"nbt": {"MMOITEMS_ITEM_ID": "FOCUS_UNSETTLING", "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+		  },
+		  "model": "minecraft:item/nbt/spellfokus/haunted_focus_unsettling"
+		}
     ]
 }
 

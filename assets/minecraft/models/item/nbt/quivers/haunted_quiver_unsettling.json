@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/nbt/quivers/haunted_quiver_unsettling"
+  }
+}
