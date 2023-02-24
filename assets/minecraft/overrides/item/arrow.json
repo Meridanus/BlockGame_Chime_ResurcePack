@@ -83,6 +83,12 @@
         "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_CRYSTALLINE"}
       },
       "model": "minecraft:item/nbt/quivers/quiver_crystalline"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_CRYSTALLINE", "MMOITEMS_NAME_PRE": '["&cShattering"]'}
+      },
+      "model": "minecraft:item/nbt/quivers/shattering_quiver_crystalline"
     }
 	
 	

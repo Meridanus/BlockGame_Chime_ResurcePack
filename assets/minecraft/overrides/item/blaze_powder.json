@@ -17,6 +17,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_CINDERS"}
             },
             "model": "minecraft:item/nbt/spellfokus/focus_cinders"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_CINDERS", "MMOITEMS_NAME_PRE": '["&cImmolating"]'}
+            },
+            "model": "minecraft:item/nbt/spellfokus/immolating_focus_cinders"
         }
     ]
 }

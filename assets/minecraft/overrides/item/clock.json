@@ -1,29 +1,45 @@
 {
     "overrides": [
 			{
-		  "predicate": {
-			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}
-		  },
-		  "model": "minecraft:item/nbt/totems/totem_krognars_still"
-		},
-		{
-			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"},
-			"predicate": {
-			  "entity": {
-				"hand": "either"
-			  }
+			  "predicate": {
+				"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}
+			  },
+			  "model": "minecraft:item/nbt/totems/totem_krognars_still"
 			},
-			"model": "minecraft:item/nbt/totems/totem_krognars"
-		},
-		{
-			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"},
-			"predicate": {
-			  "dimension": {
-				"id": "krognars_bastion"
-			  }
+			{
+			  "predicate": {
+				"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cFavourite"]'}
+			  },
+			  "model": "minecraft:item/nbt/totems/favourite_totem_krognars_still"
 			},
-			"model": "minecraft:item/nbt/totems/totem_krognars_dungeon"
-		}
+			{
+				"predicate": {
+				  "entity": {"hand": "either"},
+				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}
+				},
+				"model": "minecraft:item/nbt/totems/totem_krognars"
+			},			
+			{
+				"predicate": {
+				  "entity": {"hand": "either"},
+				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cFavourite"]'}
+				},
+				"model": "minecraft:item/nbt/totems/favourite_totem_krognars"
+			},
+			{
+				"predicate": {
+				  "dimension": {"id": "krognars_bastion"},
+				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}
+				},
+				"model": "minecraft:item/nbt/totems/totem_krognars_dungeon"
+			},
+			{
+				"predicate": {
+				  "dimension": {"id": "krognars_bastion"},
+				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cFavourite"]'}
+				},
+				"model": "minecraft:item/nbt/totems/favourite_totem_krognars_dungeon"
+			}
         
     ]
 }
