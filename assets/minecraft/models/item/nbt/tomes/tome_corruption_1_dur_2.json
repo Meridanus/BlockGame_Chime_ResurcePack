@@ -3,7 +3,6 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/nbt/tomes/tome_corruption",
-		"2": "item/nbt/tomes/animation_tome_corruption",
 		"particle": "item/nbt/tomes/tome_corruption"
 	},
 	"elements": [
@@ -41,16 +40,6 @@
 			}
 		},
 		{
-			"name": "marker",
-			"from": [10, -0.3, -0.1],
-			"to": [10.5, 0.7, -0.1],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [6, 0, 5]},
-			"faces": {
-				"north": {"uv": [14.5, 11, 15, 12], "texture": "#0"},
-				"south": {"uv": [14.5, 11, 15, 12], "texture": "#0"}
-			}
-		},
-		{
 			"from": [5, -0.5, -0.001],
 			"to": [7, 0.5, 8.999],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
@@ -60,15 +49,6 @@
 				"south": {"uv": [12.5, 15, 13.5, 15.5], "texture": "#0"},
 				"west": {"uv": [11.5, 11, 12, 15.5], "rotation": 270, "texture": "#0"},
 				"down": {"uv": [13.5, 11, 14.5, 15.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [3.5, 3, -3.5],
-			"to": [8.5, 3, 1.5],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [6, 3, -1.5]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"down": {"uv": [0, 16, 16, 0], "texture": "#2"}
 			}
 		}
 	],
