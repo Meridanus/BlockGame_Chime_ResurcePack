@@ -263,13 +263,34 @@
         "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_WATER_CLEAN"}
       },
       "model": "minecraft:item/nbt/potions/bottle_water_clean"
-    }
+    },
+    { "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_BURNING"} }, "model": "minecraft:item/nbt/consumables/tea_burning_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_BURNING", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/consumables/tea_burning_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_BURNING", "MMOITEMS_MAX_CONSUME": 3 } }, "model": "minecraft:item/nbt/consumables/tea_burning_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_BURNING", "MMOITEMS_MAX_CONSUME": 4 } }, "model": "minecraft:item/nbt/consumables/tea_burning_4" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_BURNING", "MMOITEMS_MAX_CONSUME": 5 } }, "model": "minecraft:item/nbt/consumables/tea_burning_5" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STONESKIN"} }, "model": "minecraft:item/nbt/consumables/tea_stoneskin_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STONESKIN", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/consumables/tea_stoneskin_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STONESKIN", "MMOITEMS_MAX_CONSUME": 3 } }, "model": "minecraft:item/nbt/consumables/tea_stoneskin_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STONESKIN", "MMOITEMS_MAX_CONSUME": 4 } }, "model": "minecraft:item/nbt/consumables/tea_stoneskin_4" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STONESKIN", "MMOITEMS_MAX_CONSUME": 5 } }, "model": "minecraft:item/nbt/consumables/tea_stoneskin_5" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_INVISIBLE"} }, "model": "minecraft:item/nbt/consumables/tea_invisible_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_INVISIBLE", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/consumables/tea_invisible_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_INVISIBLE", "MMOITEMS_MAX_CONSUME": 3 } }, "model": "minecraft:item/nbt/consumables/tea_invisible_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_INVISIBLE", "MMOITEMS_MAX_CONSUME": 4 } }, "model": "minecraft:item/nbt/consumables/tea_invisible_4" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_INVISIBLE", "MMOITEMS_MAX_CONSUME": 5 } }, "model": "minecraft:item/nbt/consumables/tea_invisible_5" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_QUICKSTEP"} }, "model": "minecraft:item/nbt/consumables/tea_quickstep_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_QUICKSTEP", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/consumables/tea_quickstep_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_QUICKSTEP", "MMOITEMS_MAX_CONSUME": 3 } }, "model": "minecraft:item/nbt/consumables/tea_quickstep_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_QUICKSTEP", "MMOITEMS_MAX_CONSUME": 4 } }, "model": "minecraft:item/nbt/consumables/tea_quickstep_4" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_QUICKSTEP", "MMOITEMS_MAX_CONSUME": 5 } }, "model": "minecraft:item/nbt/consumables/tea_quickstep_5" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STOMACH"} }, "model": "minecraft:item/nbt/consumables/tea_stomach_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STOMACH", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/consumables/tea_stomach_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STOMACH", "MMOITEMS_MAX_CONSUME": 3 } }, "model": "minecraft:item/nbt/consumables/tea_stomach_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STOMACH", "MMOITEMS_MAX_CONSUME": 4 } }, "model": "minecraft:item/nbt/consumables/tea_stomach_4" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STOMACH", "MMOITEMS_MAX_CONSUME": 5 } }, "model": "minecraft:item/nbt/consumables/tea_stomach_5" }
   ]
 }
-
-
-
-
 
 
 
