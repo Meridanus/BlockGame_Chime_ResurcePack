@@ -8,7 +8,7 @@
 			},
 			{
 			  "predicate": {
-				"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cFavourite"]'}
+				"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cKrognars Favorite"]'}
 			  },
 			  "model": "minecraft:item/nbt/totems/favourite_totem_krognars_still"
 			},
@@ -22,7 +22,7 @@
 			{
 				"predicate": {
 				  "entity": {"hand": "either"},
-				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cFavourite"]'}
+				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cKrognars Favorite"]'}
 				},
 				"model": "minecraft:item/nbt/totems/favourite_totem_krognars"
 			},
@@ -36,7 +36,7 @@
 			{
 				"predicate": {
 				  "dimension": {"id": "krognars_bastion"},
-				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cFavourite"]'}
+				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": '["&cKrognars Favorite"]'}
 				},
 				"model": "minecraft:item/nbt/totems/favourite_totem_krognars_dungeon"
 			}

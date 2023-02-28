@@ -115,6 +115,20 @@
 		{
             "predicate": {
 				"blocking": 0,
+                "nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_SHIELD", "MMOITEMS_NAME_PRE": '["&cImmortal"]'}
+            },
+            "model": "minecraft:item/nbt/shields/immortal_diamond_shield"
+        },
+        {
+            "predicate": {
+				"blocking": 1,
+                "nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_SHIELD", "MMOITEMS_NAME_PRE": '["&cImmortal"]'}
+            },
+            "model": "minecraft:item/nbt/shields/immortal_blocking_diamond_shield"
+        },
+		{
+            "predicate": {
+				"blocking": 0,
                 "nbt": {"MMOITEMS_ITEM_ID": "PUMPKIN_SHIELD"}
             },
             "model": "minecraft:item/nbt/shields/pumpkin_shield"
