@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "REPLICATING_AMETHYST"}
+      },
+      "model": "minecraft:item/nbt/spellcraftings/replicating_amethyst"
+    }
+  ]
+}
+
+
+
+
+
+
+
