@@ -920,13 +920,13 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=450"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_3"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=300"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=150"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_1"},
-	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_0"}
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_0"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_HERBALISM"} },"model": "minecraft:item/nbt/consumables/secrets_herbalism"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_FISHING"} },"model": "minecraft:item/nbt/consumables/secrets_fishing"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_MINING"} },"model": "minecraft:item/nbt/consumables/secrets_mining"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_ARCHAEOLOGY"} },"model": "minecraft:item/nbt/consumables/secrets_archaeology"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_LOGGING"} },"model": "minecraft:item/nbt/consumables/secrets_logging"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_CLASS"} },"model": "minecraft:item/nbt/consumables/secrets_class"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SOGGY_BOOK"} },"model": "minecraft:item/nbt/materials/soggy_book"}
   ]
 }
-
-
-
-
-
-
-
