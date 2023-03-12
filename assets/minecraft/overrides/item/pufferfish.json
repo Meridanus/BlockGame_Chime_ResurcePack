@@ -16,7 +16,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_PUFFERFISH"}
             },
-            "model": "minecraft:item/nbt/golden_pufferfish"
+            "model": "minecraft:item/nbt/currencys/golden_pufferfish"
         }
     ]
 }

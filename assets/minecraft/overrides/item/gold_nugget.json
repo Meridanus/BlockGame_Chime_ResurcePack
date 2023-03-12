@@ -4,14 +4,14 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "GOLD_COIN"}
       },
-      "model": "minecraft:item/nbt/gold_coin"
+      "model": "minecraft:item/nbt/currencys/gold_coin"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "GOLD_COIN"},
 		"count": ">=64"
       },
-      "model": "minecraft:item/nbt/gold_coin_stack"
+      "model": "minecraft:item/nbt/currencys/gold_coin_stack"
     }
   ]
 }

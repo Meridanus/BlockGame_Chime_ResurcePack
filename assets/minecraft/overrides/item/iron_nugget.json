@@ -4,14 +4,14 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "PLATINUM_COIN"}
       },
-      "model": "minecraft:item/nbt/platinum_coin"
+      "model": "minecraft:item/nbt/currencys/platinum_coin"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "PLATINUM_COIN"},
 		"count": ">=64"
       },
-      "model": "minecraft:item/nbt/platinum_coin_stack"
+      "model": "minecraft:item/nbt/currencys/platinum_coin_stack"
     }
   ]
 }

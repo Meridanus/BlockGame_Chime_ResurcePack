@@ -55,13 +55,13 @@
       "predicate": {
         "name": "Mini-Mushroom"
       },
-      "model": "minecraft:item/nbt/mini_mushroom"
+      "model": "minecraft:item/nbt/materials/mini_mushroom"
     },
 	{
       "predicate": {
         "name": "Mega-Mushroom"
       },
-      "model": "minecraft:item/nbt/mega_mushroom"
+      "model": "minecraft:item/nbt/materials/mega_mushroom"
     },
 	{
       "predicate": {

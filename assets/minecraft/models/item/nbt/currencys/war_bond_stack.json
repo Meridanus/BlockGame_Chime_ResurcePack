@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/nbt/war_bond_stack"
+    "layer0": "minecraft:item/nbt/currencys/war_bond_stack"
   }
 }

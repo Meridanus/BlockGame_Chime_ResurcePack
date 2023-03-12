@@ -46,7 +46,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_GUPPY"}
       },
-      "model": "minecraft:item/nbt/golden_guppy"
+      "model": "minecraft:item/nbt/currencys/golden_guppy"
     },
     {
       "predicate": {

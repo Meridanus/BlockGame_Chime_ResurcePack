@@ -64,14 +64,14 @@
 		  "predicate": {
 			"nbt": {"MMOITEMS_ITEM_ID": "WAR_BOND"}
 		  },
-		  "model": "minecraft:item/nbt/war_bond"
+		  "model": "minecraft:item/nbt/currencys/war_bond"
 		},
 		{
 		  "predicate": {
 			"nbt": {"MMOITEMS_ITEM_ID": "WAR_BOND"},
 			"count": ">=64"
 		  },
-		  "model": "minecraft:item/nbt/war_bond_stack"
+		  "model": "minecraft:item/nbt/currencys/war_bond_stack"
 		}
     ]
 }

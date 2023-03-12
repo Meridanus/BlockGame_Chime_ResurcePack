@@ -16,7 +16,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_CARP"}
             },
-            "model": "minecraft:item/nbt/golden_carp"
+            "model": "minecraft:item/nbt/currencys/golden_carp"
         },
 		{
             "predicate": {

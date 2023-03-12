@@ -4,14 +4,14 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "OLD_STONKS"}
             },
-            "model": "minecraft:item/nbt/old_stonks"
+            "model": "minecraft:item/nbt/currencys/old_stonks"
         },
         {
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "OLD_STONKS"},
                 "count": ">=64"
             },
-            "model": "minecraft:item/nbt/old_stonks_stack"
+            "model": "minecraft:item/nbt/currencys/old_stonks_stack"
         },
         {
             
