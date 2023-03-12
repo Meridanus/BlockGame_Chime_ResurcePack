@@ -56,6 +56,12 @@
     },
 	{
       "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_2"}
+      },
+      "model": "minecraft:item/nbt/tomes/recipe_tome_corruption_2"
+    },
+	{
+      "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1"}
       },
       "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_10"
@@ -838,6 +844,7 @@
       },
       "model": "minecraft:item/nbt/tomes/recipe_cookie_gingerbread"
     },
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_10"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=900"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_9"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=800"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_8"},
@@ -849,6 +856,30 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=200"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=100"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_0"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_10"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=900"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_9"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=800"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_8"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=700"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_7"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=600"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_6"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=500"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_5"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=400"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_4"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=300"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_3"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=200"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_2"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": "<=100"} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_1"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/tome_corruption_2_dur_0"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_10"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=900"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_9"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=800"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_8"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=700"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_7"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=600"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_6"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=500"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_5"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=400"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_4"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=300"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_3"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=200"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_2"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=100"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_1"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_2_dur_0"},
 	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1", "MMOITEMS_NAME_PRE": "/.*Toasty.*/"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_1_dur_10"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=450"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_1_dur_9"},
