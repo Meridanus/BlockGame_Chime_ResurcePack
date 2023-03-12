@@ -4,55 +4,55 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SALT"}
       },
-      "model": "minecraft:item/nbt/salt"
+      "model": "minecraft:item/nbt/materials/salt"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "FLOUR"}
       },
-      "model": "minecraft:item/nbt/flour"
+      "model": "minecraft:item/nbt/materials/flour"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SENTIENT_FLOUR"}
       },
-      "model": "minecraft:item/nbt/sentient_flour"
+      "model": "minecraft:item/nbt/materials/sentient_flour"
     },
     {
       "predicate": {
 		"nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_BASIC"}
       },
-      "model": "minecraft:item/nbt/basic_repair_powder"
+      "model": "minecraft:item/nbt/consumables/basic_repair_powder"
     },
     {
       "predicate": {
 		"nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_COMMON"}
       },
-      "model": "minecraft:item/nbt/common_repair_powder"
+      "model": "minecraft:item/nbt/consumables/common_repair_powder"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_UNCOMMON"}
       },
-      "model": "minecraft:item/nbt/uncommon_repair_powder"
+      "model": "minecraft:item/nbt/consumables/uncommon_repair_powder"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_RARE"}
       },
-      "model": "minecraft:item/nbt/rare_repair_powder"
+      "model": "minecraft:item/nbt/consumables/rare_repair_powder"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_EPIC"}
       },
-      "model": "minecraft:item/nbt/epic_repair_powder"
+      "model": "minecraft:item/nbt/consumables/epic_repair_powder"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_EXOTIC"}
       },
-      "model": "minecraft:item/nbt/exotic_repair_powder"
+      "model": "minecraft:item/nbt/consumables/exotic_repair_powder"
     }
   ]
 }

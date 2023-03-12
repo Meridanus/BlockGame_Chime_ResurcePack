@@ -4,7 +4,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "MINI_MUSHROOM"}
             },
-            "model": "minecraft:item/nbt/mini_mushroom"
+            "model": "minecraft:item/nbt/materials/mini_mushroom"
         }
     ]
 }

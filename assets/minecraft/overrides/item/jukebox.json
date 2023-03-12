@@ -4,7 +4,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SALVAGE_KIT"}
       },
-      "model": "minecraft:item/nbt/salvage_kit"
+      "model": "minecraft:item/nbt/consumables/salvage_kit"
     }
   ]
 }

@@ -4,7 +4,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "ANCIENT_POTTERY"}
             },
-            "model": "minecraft:item/nbt/ancient_pottery"
+            "model": "minecraft:item/nbt/materials/ancient_pottery"
         }
         
     ]
