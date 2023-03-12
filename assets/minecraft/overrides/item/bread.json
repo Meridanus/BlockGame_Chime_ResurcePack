@@ -17,6 +17,12 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_BREAD"}
             },
             "model": "minecraft:item/nbt/consumables/golden_bread"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "JAMMY_BUTTER_TOAST"}
+            },
+            "model": "minecraft:item/nbt/consumables/jammy_butter_toast"
         }
     ]
 }
