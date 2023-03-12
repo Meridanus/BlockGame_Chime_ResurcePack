@@ -279,6 +279,18 @@
 	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TEA_STOMACH", "MMOITEMS_MAX_CONSUME": 5 } }, "model": "minecraft:item/nbt/consumables/tea_stomach_5" },
 	
 	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_ALOE"} }, "model": "minecraft:item/nbt/potions/bottle_aloe_1" },
-	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_ALOE", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/potions/bottle_aloe_2" }
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_ALOE", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/potions/bottle_aloe_2" },
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_GLOWBERRY"} }, "model": "minecraft:item/nbt/consumables/jam_glowberry_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_GLOWBERRY", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/consumables/jam_glowberry_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_GLOWBERRY", "MMOITEMS_MAX_CONSUME": 3 } }, "model": "minecraft:item/nbt/consumables/jam_glowberry_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_GLOWBERRY", "MMOITEMS_MAX_CONSUME": 4 } }, "model": "minecraft:item/nbt/consumables/jam_glowberry_4" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_GLOWBERRY", "MMOITEMS_MAX_CONSUME": 5 } }, "model": "minecraft:item/nbt/consumables/jam_glowberry_5" },
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_SWEETBERRY"} }, "model": "minecraft:item/nbt/consumables/jam_sweetberry_5" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_SWEETBERRY", "MMOITEMS_MAX_CONSUME": 4 } }, "model": "minecraft:item/nbt/consumables/jam_sweetberry_4" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_SWEETBERRY", "MMOITEMS_MAX_CONSUME": 3 } }, "model": "minecraft:item/nbt/consumables/jam_sweetberry_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_SWEETBERRY", "MMOITEMS_MAX_CONSUME": 2 } }, "model": "minecraft:item/nbt/consumables/jam_sweetberry_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "JAM_SWEETBERRY", "MMOITEMS_MAX_CONSUME": 1} }, "model": "minecraft:item/nbt/consumables/jam_sweetberry_1" }
   ]
 }

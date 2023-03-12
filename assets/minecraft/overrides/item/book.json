@@ -855,6 +855,7 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=200"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": "<=100"} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/consuming_tome_corruption_1_dur_0"},
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1", "MMOITEMS_NAME_PRE": "/.*Toasty.*/"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_1_dur_10"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=450"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_1_dur_9"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=400"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_1_dur_8"},
@@ -866,6 +867,7 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=100"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_1_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=50"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_1_dur_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_1", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_1_dur_0"},
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2", "MMOITEMS_NAME_PRE": "/.*Toasty.*/"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_2_dur_10"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=900"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_2_dur_9"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=800"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_2_dur_8"},
@@ -877,6 +879,7 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=200"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_2_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=100"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_2_dur_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_2", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_2_dur_0"},
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3", "MMOITEMS_NAME_PRE": "/.*Toasty.*/"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_3_dur_10"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=1350"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_3_dur_9"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=1200"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_3_dur_8"},
@@ -888,6 +891,7 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=300"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_3_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": "<=150"} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_3_dur_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FIREBOLT_3", "MMOITEMS_NAME_PRE": "/.*Toasty.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/toasty_tome_firebolt_3_dur_0"},
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_1", "MMOITEMS_NAME_PRE": "/.*Frosty.*/"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_1_dur_10"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_1", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=450"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_1_dur_9"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_1", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=400"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_1_dur_8"},
@@ -899,6 +903,7 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_1", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=100"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_1_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_1", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=50"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_1_dur_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_1", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_1_dur_0"},
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2", "MMOITEMS_NAME_PRE": "/.*Frosty.*/"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_2_dur_10"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=900"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_2_dur_9"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=800"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_2_dur_8"},
@@ -910,6 +915,7 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=200"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_2_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=100"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_2_dur_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_2", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_2_dur_0"},
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_10"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=1350"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_9"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=1200"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_8"},
@@ -921,12 +927,14 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=300"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": "<=150"} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_FROSTBOLT_3", "MMOITEMS_NAME_PRE": "/.*Frosty.*/", "MMOITEMS_DURABILITY": 0} },"model": "minecraft:item/nbt/tomes/frosty_tome_frostbolt_3_dur_0"},
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_HERBALISM"} },"model": "minecraft:item/nbt/consumables/secrets_herbalism"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_FISHING"} },"model": "minecraft:item/nbt/consumables/secrets_fishing"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_MINING"} },"model": "minecraft:item/nbt/consumables/secrets_mining"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_ARCHAEOLOGY"} },"model": "minecraft:item/nbt/consumables/secrets_archaeology"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_LOGGING"} },"model": "minecraft:item/nbt/consumables/secrets_logging"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SECRETS_CLASS"} },"model": "minecraft:item/nbt/consumables/secrets_class"},
+	
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "SOGGY_BOOK"} },"model": "minecraft:item/nbt/materials/soggy_book"}
   ]
 }

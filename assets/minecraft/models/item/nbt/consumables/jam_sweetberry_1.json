@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/nbt/consumables/jam_fluid",
+		"layer1": "minecraft:item/nbt/consumables/jam_glass",
+		"layer2": "minecraft:item/nbt/ui/durability_1"
+    }
+}

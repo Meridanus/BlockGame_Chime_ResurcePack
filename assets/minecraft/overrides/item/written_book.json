@@ -1,7 +1,8 @@
 {
     "overrides": [
-        { "predicate": { "name": "Sunken Cells" }, "model": "minecraft:item/nbt/tomes/raid_guide_sunken" },
-		{ "predicate": { "name": "Krognars Bastion" }, "model": "minecraft:item/nbt/tomes/raid_guide_krognars" }
+        { "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAID_GUIDE_SUNKEN"} }, "model": "minecraft:item/nbt/tomes/raid_guide_sunken" },
+		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAID_GUIDE_KROGNARS"} }, "model": "minecraft:item/nbt/tomes/raid_guide_krognars" },
+		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAID_GUIDE_ROTTEN"} }, "model": "minecraft:item/nbt/tomes/raid_guide_rotten" }
     ]
 }
 
