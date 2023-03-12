@@ -97,7 +97,7 @@
       "predicate": {
         "name": "Arcane Repair Powder"
       },
-      "model": "minecraft:item/nbt/arcane_repair_powder"
+      "model": "minecraft:item/nbt/consumables/arcane_repair_powder"
     },
 	{
       "predicate": {
