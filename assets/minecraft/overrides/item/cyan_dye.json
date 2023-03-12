@@ -4,7 +4,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SENTIENT_DOUGH"}
             },
-            "model": "minecraft:item/nbt/sentient_dough"
+            "model": "minecraft:item/nbt/materials/sentient_dough"
         }
     ]
 }

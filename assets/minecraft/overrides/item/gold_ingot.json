@@ -17,7 +17,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "BUTTER"}
       },
-      "model": "minecraft:item/nbt/butter"
+      "model": "minecraft:item/nbt/materials/butter"
     }
   ]
 }

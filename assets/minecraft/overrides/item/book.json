@@ -4,13 +4,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "NECRONOMICON"}
       },
-      "model": "minecraft:item/nbt/necronomicon"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "WARP_KROGNARS"}
-      },
-      "model": "minecraft:item/nbt/warp_krognars"
+      "model": "minecraft:item/nbt/materials/necronomicon"
     },
 	{
       "predicate": {

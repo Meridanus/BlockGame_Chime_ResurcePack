@@ -4,19 +4,19 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "METEOR_SHARD"}
       },
-      "model": "minecraft:item/nbt/meteor_shard"
+      "model": "minecraft:item/nbt/materials/meteor_shard"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "FLICKERING_FROST"}
       },
-      "model": "minecraft:item/nbt/flickering_frost"
+      "model": "minecraft:item/nbt/materials/flickering_frost"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "FROZEN_STAR"}
       },
-      "model": "minecraft:item/nbt/frozen_star"
+      "model": "minecraft:item/nbt/materials/frozen_star"
     }
   ]
 }

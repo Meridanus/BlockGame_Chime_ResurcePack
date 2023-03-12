@@ -4,7 +4,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "PERFECT_SPECIMEN"}
             },
-            "model": "minecraft:item/nbt/perfect_specimen"
+            "model": "minecraft:item/nbt/materials/perfect_specimen"
         }
     ]
 }

@@ -4,7 +4,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "BURNING_CORE"}
             },
-            "model": "minecraft:item/nbt/burning_core"
+            "model": "minecraft:item/nbt/materials/burning_core"
         }
         
     ]

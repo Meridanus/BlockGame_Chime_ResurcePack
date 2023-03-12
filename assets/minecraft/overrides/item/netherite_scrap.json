@@ -18,14 +18,14 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "STEEL_SCRAP"}
             },
-            "model": "minecraft:item/nbt/steel_scrap"
+            "model": "minecraft:item/nbt/materials/steel_scrap"
         },
 		{
             
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "LEATHER_SCRAPS"}
             },
-            "model": "minecraft:item/nbt/leather_scraps"
+            "model": "minecraft:item/nbt/materials/leather_scraps"
         }
         
     ]

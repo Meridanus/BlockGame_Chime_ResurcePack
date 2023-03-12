@@ -4,13 +4,13 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "DOUGH"}
             },
-            "model": "minecraft:item/nbt/dough"
+            "model": "minecraft:item/nbt/materials/dough"
         },
         {
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "COOKIE_DOUGH"}
             },
-            "model": "minecraft:item/nbt/cookie_dough"
+            "model": "minecraft:item/nbt/materials/cookie_dough"
         }
     ]
 }

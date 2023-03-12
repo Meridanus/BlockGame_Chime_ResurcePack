@@ -4,7 +4,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "BACON_BITS"}
       },
-      "model": "minecraft:item/nbt/bacon_bits"
+      "model": "minecraft:item/nbt/materials/bacon_bits"
     },
 	{
       "predicate": {

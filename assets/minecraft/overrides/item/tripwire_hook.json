@@ -4,7 +4,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SWORD_POMMEL"}
       },
-      "model": "minecraft:item/nbt/sword_pommel"
+      "model": "minecraft:item/nbt/materials/sword_pommel"
     }
   ]
 }

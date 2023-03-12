@@ -4,7 +4,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "LOBSTER_SOUL"}
             },
-            "model": "minecraft:item/nbt/lobster_soul"
+            "model": "minecraft:item/nbt/materials/lobster_soul"
         }
     ]
 }

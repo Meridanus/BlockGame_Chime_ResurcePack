@@ -4,13 +4,13 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "INFUSED_DIAMOND"}
       },
-      "model": "minecraft:item/nbt/infused_diamond"
+      "model": "minecraft:item/nbt/materials/infused_diamond"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "COMPRESSED_DIAMOND"}
       },
-      "model": "minecraft:item/nbt/compressed_diamond"
+      "model": "minecraft:item/nbt/materials/compressed_diamond"
     }
   ]
 }

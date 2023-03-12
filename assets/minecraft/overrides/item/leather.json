@@ -4,43 +4,43 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_LEATHER"}
       },
-      "model": "minecraft:item/nbt/zombie_leather"
+      "model": "minecraft:item/nbt/materials/zombie_leather"
     },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "FISH_LEATHER"}
       },
-      "model": "minecraft:item/nbt/fish_leather"
+      "model": "minecraft:item/nbt/materials/fish_leather"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "PRISTINE_HIDE"}
       },
-      "model": "minecraft:item/nbt/pristine_hide"
+      "model": "minecraft:item/nbt/materials/pristine_hide"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CHILLED_HIDE"}
       },
-      "model": "minecraft:item/nbt/chilled_hide"
+      "model": "minecraft:item/nbt/materials/chilled_hide"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "HAUNTED_HIDE"}
       },
-      "model": "minecraft:item/nbt/haunted_hide"
+      "model": "minecraft:item/nbt/materials/haunted_hide"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "GREASY_HIDE"}
       },
-      "model": "minecraft:item/nbt/greasy_hide"
+      "model": "minecraft:item/nbt/materials/greasy_hide"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_HIDE"}
       },
-      "model": "minecraft:item/nbt/crystal_hide"
+      "model": "minecraft:item/nbt/materials/crystal_hide"
     }
   ]
 }

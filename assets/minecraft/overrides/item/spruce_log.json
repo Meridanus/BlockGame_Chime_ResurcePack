@@ -10,7 +10,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "PRISTINE_CORE"}
             },
-            "model": "minecraft:item/nbt/pristine_core"
+            "model": "minecraft:item/nbt/materials/pristine_core"
         }
     ]
 }

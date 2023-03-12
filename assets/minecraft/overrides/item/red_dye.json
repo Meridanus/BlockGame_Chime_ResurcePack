@@ -4,7 +4,7 @@
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "WHOLE_WART"}
             },
-            "model": "minecraft:item/nbt/whole_wart"
+            "model": "minecraft:item/nbt/materials/whole_wart"
         },
 		{
             "predicate": {

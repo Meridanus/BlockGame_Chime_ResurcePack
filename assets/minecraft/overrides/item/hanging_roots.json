@@ -4,7 +4,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOUGH_ROOTS"}
       },
-      "model": "minecraft:item/nbt/tough_roots"
+      "model": "minecraft:item/nbt/materials/tough_roots"
     }
   ]
 }
