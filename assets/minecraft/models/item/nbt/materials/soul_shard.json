@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/nbt/soul_shard"
+    "layer0": "minecraft:item/nbt/materials/soul_shard"
   }
 }

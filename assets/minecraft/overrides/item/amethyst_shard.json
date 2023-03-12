@@ -10,7 +10,7 @@
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SOUL_SHARD"}
       },
-      "model": "minecraft:item/nbt/soul_shard"
+      "model": "minecraft:item/nbt/materials/soul_shard"
     },
     {
       "predicate": {
