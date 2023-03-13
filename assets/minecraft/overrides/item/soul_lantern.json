@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "LAMP_EVERBURNING"}
+            },
+            "model": "minecraft:item/nbt/spellcraftings/lamp_everburning"
+        }
+    ]
+}
+
+
+
+
+
+
+
