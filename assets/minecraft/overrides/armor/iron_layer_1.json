@@ -9,7 +9,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "STEEL",
-				"MMOITEMS_NAME_PRE": '["&cUnbreaking"]'}
+				"MMOITEMS_NAME_PRE": "/.*Unbreaking.*/"}
       },
       "texture": "textures/item/nbt/armor/unbreaking/steel_armor_layer_1"
     }

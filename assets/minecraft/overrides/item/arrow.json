@@ -8,7 +8,7 @@
     },
 	{
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_FLINT", "MMOITEMS_NAME_PRE": '["&cSerrated"]'}
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_FLINT", "MMOITEMS_NAME_PRE": "/.*Serrated.*/"}
       },
       "model": "minecraft:item/nbt/quivers/serrated_quiver_flint"
     },
@@ -50,7 +50,7 @@
     },
 	{
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SPARKING", "MMOITEMS_NAME_PRE": '["&cVolatile"]'}
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SPARKING", "MMOITEMS_NAME_PRE": "/.*Volatile.*/"}
       },
       "model": "minecraft:item/nbt/quivers/volatile_quiver_sparking"
     },
@@ -62,7 +62,7 @@
     },
 	{
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_UNSETTLING", "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_UNSETTLING", "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}
       },
       "model": "minecraft:item/nbt/quivers/haunted_quiver_unsettling"
     },
@@ -74,7 +74,7 @@
     },
 	{
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_GREASY", "MMOITEMS_NAME_PRE": '["&cOozing"]'}
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_GREASY", "MMOITEMS_NAME_PRE": "/.*Oozing.*/"}
       },
       "model": "minecraft:item/nbt/quivers/oozing_quiver_greasy"
     },
@@ -86,7 +86,7 @@
     },
 	{
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_CRYSTALLINE", "MMOITEMS_NAME_PRE": '["&cShattering"]'}
+        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_CRYSTALLINE", "MMOITEMS_NAME_PRE": "/.*Shattering.*/"}
       },
       "model": "minecraft:item/nbt/quivers/shattering_quiver_crystalline"
     }

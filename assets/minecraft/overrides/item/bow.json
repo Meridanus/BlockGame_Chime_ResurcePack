@@ -32,14 +32,14 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW",
-				"MMOITEMS_NAME_PRE": '["&cTense"]'}
+				"MMOITEMS_NAME_PRE": "/.*Tense.*/"}
       },
       "model": "minecraft:item/nbt/bows/tense_strong_bow_pulling_0"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW",
-				"MMOITEMS_NAME_PRE": '["&cTense"]'},
+				"MMOITEMS_NAME_PRE": "/.*Tense.*/"},
         "pulling": 1
       },
       "model": "minecraft:item/nbt/bows/tense_strong_bow_pulling_1"
@@ -47,7 +47,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW",
-				"MMOITEMS_NAME_PRE": '["&cTense"]'},
+				"MMOITEMS_NAME_PRE": "/.*Tense.*/"},
         "pulling": 1,
         "pull": 0.65
       },
@@ -56,7 +56,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "STRONG_BOW",
-				"MMOITEMS_NAME_PRE": '["&cTense"]'},
+				"MMOITEMS_NAME_PRE": "/.*Tense.*/"},
         "pulling": 1,
         "pull": 0.9
       },
@@ -123,14 +123,14 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW",
-				"MMOITEMS_NAME_PRE": '["&aToxic"]'}
+				"MMOITEMS_NAME_PRE": "/.*Toxic.*/"}
       },
       "model": "minecraft:item/nbt/bows/toxic_skeletal_bow_pulling_0"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW",
-				"MMOITEMS_NAME_PRE": '["&aToxic"]'},
+				"MMOITEMS_NAME_PRE": "/.*Toxic.*/"},
         "pulling": 1
       },
       "model": "minecraft:item/nbt/bows/toxic_skeletal_bow_pulling_1"
@@ -138,7 +138,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW",
-				"MMOITEMS_NAME_PRE": '["&aToxic"]'},
+				"MMOITEMS_NAME_PRE": "/.*Toxic.*/"},
         "pulling": 1,
         "pull": 0.65
       },
@@ -147,7 +147,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SKELETAL_BOW",
-				"MMOITEMS_NAME_PRE": '["&aToxic"]'},
+				"MMOITEMS_NAME_PRE": "/.*Toxic.*/"},
         "pulling": 1,
         "pull": 0.9
       },
@@ -156,14 +156,14 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW",
-				"MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+				"MMOITEMS_NAME_PRE": "/.*Haunted.*/"}
       },
       "model": "minecraft:item/nbt/bows/haunted_unsettling_bow_pulling_0"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW",
-				"MMOITEMS_NAME_PRE": '["&cHaunted"]'},
+				"MMOITEMS_NAME_PRE": "/.*Haunted.*/"},
         "pulling": 1
       },
       "model": "minecraft:item/nbt/bows/haunted_unsettling_bow_pulling_1"
@@ -171,7 +171,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW",
-				"MMOITEMS_NAME_PRE": '["&cHaunted"]'},
+				"MMOITEMS_NAME_PRE": "/.*Haunted.*/"},
         "pulling": 1,
         "pull": 0.65
       },
@@ -180,7 +180,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BOW",
-				"MMOITEMS_NAME_PRE": '["&cHaunted"]'},
+				"MMOITEMS_NAME_PRE": "/.*Haunted.*/"},
         "pulling": 1,
         "pull": 0.9
       },
@@ -218,14 +218,14 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
-				"MMOITEMS_NAME_PRE": '["&cGreased"]'}
+				"MMOITEMS_NAME_PRE": "/.*Greased.*/"}
       },
       "model": "minecraft:item/nbt/bows/grease_pigly_wiggly_bow_pulling_0"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
-				"MMOITEMS_NAME_PRE": '["&cGreased"]'},
+				"MMOITEMS_NAME_PRE": "/.*Greased.*/"},
         "pulling": 1
       },
       "model": "minecraft:item/nbt/bows/grease_pigly_wiggly_bow_pulling_1"
@@ -233,7 +233,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
-				"MMOITEMS_NAME_PRE": '["&cGreased"]'},
+				"MMOITEMS_NAME_PRE": "/.*Greased.*/"},
         "pulling": 1,
         "pull": 0.65
       },
@@ -242,7 +242,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
-				"MMOITEMS_NAME_PRE": '["&cGreased"]'},
+				"MMOITEMS_NAME_PRE": "/.*Greased.*/"},
         "pulling": 1,
         "pull": 0.9
       },
@@ -280,14 +280,14 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW",
-				"MMOITEMS_NAME_PRE": '["&cStarlit"]'}
+				"MMOITEMS_NAME_PRE": "/.*Starlit.*/"}
       },
       "model": "minecraft:item/nbt/bows/starlit_crystal_bow_pulling_0"
     },
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW",
-				"MMOITEMS_NAME_PRE": '["&cStarlit"]'},
+				"MMOITEMS_NAME_PRE": "/.*Starlit.*/"},
         "pulling": 1
       },
       "model": "minecraft:item/nbt/bows/starlit_crystal_bow_pulling_1"
@@ -295,7 +295,7 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW",
-				"MMOITEMS_NAME_PRE": '["&cStarlit"]'},
+				"MMOITEMS_NAME_PRE": "/.*Starlit.*/"},
         "pulling": 1,
         "pull": 0.65
       },
@@ -304,12 +304,12 @@
     {
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_BOW",
-				"MMOITEMS_NAME_PRE": '["&cStarlit"]'},
+				"MMOITEMS_NAME_PRE": "/.*Starlit.*/"},
         "pulling": 1,
         "pull": 0.9
       },
       "model": "minecraft:item/nbt/bows/starlit_crystal_bow_pulling_3"
-    },
+    }
   ]
 }
 

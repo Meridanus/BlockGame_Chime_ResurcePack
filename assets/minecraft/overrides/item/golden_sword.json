@@ -9,7 +9,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_BLADE",
-						"MMOITEMS_NAME_PRE": '["&cRoasting"]'}
+						"MMOITEMS_NAME_PRE": "/.*Roasting.*/"}
             },
             "model": "minecraft:item/nbt/swords/roasting_bloodsnout_blade"
         },
@@ -22,10 +22,10 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_BLADE",
-						"MMOITEMS_NAME_PRE": '["&cFurious"]'}
+						"MMOITEMS_NAME_PRE": "/.*Furious.*/"}
             },
             "model": "minecraft:item/nbt/swords/furious_krognars_blade"
-        },
+        }
         
     ]
 }

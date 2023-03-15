@@ -21,7 +21,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_PICKAXE",
-                        "MMOITEMS_NAME_PRE": '["&cExcavators"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Excavators.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/shimmering_skysteel_pickaxe"

@@ -21,7 +21,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_SHOVEL",
-                        "MMOITEMS_NAME_PRE": '["&cSurveyors"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Surveyors.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/shimmering_skysteel_shovel"

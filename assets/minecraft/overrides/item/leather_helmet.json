@@ -21,7 +21,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_HELMET",
-				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				"MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "model": "minecraft:item/nbt/armor/sturdy/cactus_helmet"
     },
@@ -34,7 +34,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "STONE_HELMET",
-				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				"MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "model": "minecraft:item/nbt/armor/strong/stone_helmet"
     },
@@ -47,7 +47,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_HELMET",
-				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				"MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "model": "minecraft:item/nbt/armor/sturdy/wooden_helmet"
     },
@@ -60,7 +60,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "COPPER_HELMET",
-				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				"MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "model": "minecraft:item/nbt/armor/strong/copper_helmet"
     },
@@ -73,7 +73,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SILK_HELMET",
-				  "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "model": "minecraft:item/nbt/armor/sturdy/silk_helmet"
     },
@@ -86,7 +86,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SPARKING_SILK_HELMET",
-				  "MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "model": "minecraft:item/nbt/armor/strong/sparking_silk_helmet"
     },
@@ -99,7 +99,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "ACOLYTE_HELMET",
-				  "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}
       },
       "model": "minecraft:item/nbt/armor/haunted/acolyte_helmet"
     },
@@ -112,7 +112,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_HELMET",
-				  "MMOITEMS_NAME_PRE": '["&cHeated"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Heated.*/"}
       },
       "model": "minecraft:item/nbt/armor/heated/bloodsnout_magi_helmet"
     },
@@ -125,7 +125,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CINDERS_HELMET",
-				  "MMOITEMS_NAME_PRE": '["&cWrathful"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Wrathful.*/"}
       },
       "model": "minecraft:item/nbt/armor/wrathful/cinders_helmet"
     },
@@ -168,7 +168,7 @@
     {
       "predicate": {
       "nbt": {"MMOITEMS_ITEM_ID": "GINGERBREAD_HELMET_2022",
-              "MMOITEMS_NAME_PRE": '["&cToasted"]'}
+              "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}
       },
       "model": "minecraft:item/nbt/armor/toasted/gingerbread_helmet"
     }

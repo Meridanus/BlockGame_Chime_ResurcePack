@@ -8,7 +8,7 @@
         },
 		{
 		  "predicate": {
-			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_STONE", "MMOITEMS_NAME_PRE": '["&cChiseled"]'}
+			"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_STONE", "MMOITEMS_NAME_PRE": "/.*Chiseled.*/"}
 		  },
 		  "model": "minecraft:item/nbt/totems/chisled_totem_stone"
 		}

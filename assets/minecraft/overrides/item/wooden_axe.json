@@ -21,7 +21,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_AXE",
-                        "MMOITEMS_NAME_PRE": '["&cLumberjacks"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Lumberjacks.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/sturdy_wooden_axe"

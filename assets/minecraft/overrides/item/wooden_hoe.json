@@ -15,7 +15,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_HOE",
-                        "MMOITEMS_NAME_PRE": '["&cForagers"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Foragers.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/sturdy_wooden_hoe"

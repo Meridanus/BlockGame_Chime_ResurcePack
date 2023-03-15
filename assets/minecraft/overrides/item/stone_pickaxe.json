@@ -15,7 +15,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "BRASS_PICKAXE",
-                        "MMOITEMS_NAME_PRE": '["&cExcavators"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Excavators.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/conductive_brass_pickaxe"

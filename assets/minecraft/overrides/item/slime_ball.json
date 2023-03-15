@@ -8,7 +8,7 @@
     },
 	{
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_SLIME", "MMOITEMS_NAME_PRE": '["&cCongealed"]'}
+        "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_SLIME", "MMOITEMS_NAME_PRE": "/.*Congealed.*/"}
       },
       "model": "minecraft:item/nbt/spellfokus/congealed_focus_slime"
     },

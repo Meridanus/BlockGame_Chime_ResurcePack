@@ -8,7 +8,7 @@
         },
 		{
 		  "predicate": {
-			"nbt": {"MMOITEMS_ITEM_ID": "FOCUS_FROST", "MMOITEMS_NAME_PRE": '["&cPale"]'}
+			"nbt": {"MMOITEMS_ITEM_ID": "FOCUS_FROST", "MMOITEMS_NAME_PRE": "/.*Pale.*/"}
 		  },
 		  "model": "minecraft:item/nbt/spellfokus/pale_focus_frost"
 		}

@@ -21,7 +21,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_PICKAXE",
-                        "MMOITEMS_NAME_PRE": '["&cExcavators"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Excavators.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/sturdy_wooden_pickaxe"

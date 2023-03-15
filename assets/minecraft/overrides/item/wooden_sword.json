@@ -9,7 +9,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_SWORD",
-				"MMOITEMS_NAME_PRE": '["&cSpiny"]'}
+				"MMOITEMS_NAME_PRE": "/.*Spiny.*/"}
             },
             "model": "minecraft:item/nbt/swords/spiny_cactus_sword"
         },

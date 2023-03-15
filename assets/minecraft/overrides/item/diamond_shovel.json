@@ -15,7 +15,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_SHOVEL",
-                        "MMOITEMS_NAME_PRE": '["&cSurveyors"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Surveyors.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_shovel"

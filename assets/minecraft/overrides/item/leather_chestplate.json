@@ -21,7 +21,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_CHESTPLATE",
-				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				"MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "model": "minecraft:item/nbt/armor/sturdy/cactus_chestplate"
     },
@@ -34,7 +34,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "STONE_CHESTPLATE",
-				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				"MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "model": "minecraft:item/nbt/armor/strong/stone_chestplate"
     },
@@ -47,7 +47,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_CHESTPLATE",
-				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				"MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "model": "minecraft:item/nbt/armor/sturdy/wooden_chestplate"
     },
@@ -60,7 +60,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "COPPER_CHESTPLATE",
-				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				"MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "model": "minecraft:item/nbt/armor/strong/copper_chestplate"
     },
@@ -73,7 +73,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SILK_CHESTPLATE",
-				  "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "model": "minecraft:item/nbt/armor/sturdy/silk_chestplate"
     },
@@ -86,7 +86,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "SPARKING_SILK_CHESTPLATE",
-				  "MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "model": "minecraft:item/nbt/armor/strong/sparking_silk_chestplate"
     },
@@ -99,7 +99,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "ACOLYTE_CHESTPLATE",
-				  "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}
       },
       "model": "minecraft:item/nbt/armor/haunted/acolyte_chestplate"
     },
@@ -112,7 +112,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_CHESTPLATE",
-				  "MMOITEMS_NAME_PRE": '["&cHeated"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Heated.*/"}
       },
       "model": "minecraft:item/nbt/armor/heated/bloodsnout_magi_chestplate"
     },
@@ -125,7 +125,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CINDERS_CHESTPLATE",
-				  "MMOITEMS_NAME_PRE": '["&cWrathful"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Wrathful.*/"}
       },
       "model": "minecraft:item/nbt/armor/wrathful/cinders_chestplate"
     },
@@ -168,7 +168,7 @@
     {
       "predicate": {
       "nbt": {"MMOITEMS_ITEM_ID": "GINGERBREAD_CHESTPLATE_2022",
-              "MMOITEMS_NAME_PRE": '["&cToasted"]'}
+              "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}
       },
       "model": "minecraft:item/nbt/armor/toasted/gingerbread_chestplate"
     }

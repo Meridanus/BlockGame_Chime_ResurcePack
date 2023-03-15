@@ -21,7 +21,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "CACTUS",
-				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				"MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "texture": "textures/item/nbt/armor/sturdy/cactusarmor_layer_1"
     },
@@ -34,7 +34,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "STONE",
-				"MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				"MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "texture": "textures/item/nbt/armor/strong/stone_armor_layer_1"
     },
@@ -47,7 +47,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "WOOD",
-				"MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				"MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "texture": "textures/item/nbt/armor/sturdy/wooden_armor_layer_1"
     },
@@ -60,7 +60,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "COPPER",
-				  "MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "texture": "textures/item/nbt/armor/strong/copper_armor_layer_1"
     },
@@ -73,7 +73,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "SILK",
-				  "MMOITEMS_NAME_PRE": '["&cSturdy"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
       },
       "texture": "textures/item/nbt/armor/sturdy/silk_armor_layer_1"
     },
@@ -86,7 +86,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "SPARKING_SILK",
-				  "MMOITEMS_NAME_PRE": '["&cStrong"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
       "texture": "textures/item/nbt/armor/strong/sparking_silk_armor_layer_1"
     },
@@ -99,7 +99,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "ACOLYTE",
-				  "MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}
       },
       "texture": "textures/item/nbt/armor/haunted/acolyte_armor_layer_1"
     },
@@ -112,7 +112,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_MAGI",
-				  "MMOITEMS_NAME_PRE": '["&cHeated"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Heated.*/"}
       },
       "texture": "textures/item/nbt/armor/heated/bloodsnout_magi_armor_layer_1"
     },
@@ -125,7 +125,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "CINDERS",
-				  "MMOITEMS_NAME_PRE": '["&cWrathful"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Wrathful.*/"}
       },
       "texture": "textures/item/nbt/armor/wrathful/cinder_armor_layer_1"
     },
@@ -168,7 +168,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD",
-				  "MMOITEMS_NAME_PRE": '["&cToasted"]'}
+				  "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}
       },
       "texture": "textures/item/nbt/armor/toasted/gingerbread_armor_layer_1"
     }

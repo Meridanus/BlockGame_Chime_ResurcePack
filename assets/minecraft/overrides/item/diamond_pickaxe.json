@@ -15,7 +15,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_PICKAXE",
-                        "MMOITEMS_NAME_PRE": '["&cExcavators"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Excavators.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_pickaxe"

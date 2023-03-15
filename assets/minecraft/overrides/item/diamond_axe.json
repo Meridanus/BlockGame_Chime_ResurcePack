@@ -15,7 +15,7 @@
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_AXE",
-                        "MMOITEMS_NAME_PRE": '["&cLumberjacks"]'}
+                        "MMOITEMS_NAME_PRE": "/.*Lumberjacks.*/"}
 				
             },
             "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_axe"

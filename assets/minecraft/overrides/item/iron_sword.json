@@ -21,7 +21,7 @@
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BLADE",
-				"MMOITEMS_NAME_PRE": '["&cHaunted"]'}
+				"MMOITEMS_NAME_PRE": "/.*Haunted.*/"}
       },
       "model": "minecraft:item/nbt/swords/haunted_unsettling_blade"
     }
