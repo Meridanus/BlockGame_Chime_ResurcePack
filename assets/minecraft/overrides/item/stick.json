@@ -71,18 +71,6 @@
     },
 	{
       "predicate": {
-        "name": "Simple Essence"
-      },
-      "model": "minecraft:item/nbt/materials/essence_simple"
-    },
-	{
-      "predicate": {
-        "name": "Complex Essence"
-      },
-      "model": "minecraft:item/nbt/materials/essence_complex"
-    },
-	{
-      "predicate": {
         "name": "Glowing Mote"
       },
       "model": "minecraft:item/nbt/materials/glowing_mote"

@@ -11,9 +11,7 @@
         "nbt": {"MMOITEMS_ITEM_ID": "FOCUS_SLIME", "MMOITEMS_NAME_PRE": "/.*Congealed.*/"}
       },
       "model": "minecraft:item/nbt/spellfokus/congealed_focus_slime"
-    },
-	
-	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAW_ALOE"} },"model": "minecraft:item/nbt/materials/raw_aloe"}
+    }
   ]
 }
 
