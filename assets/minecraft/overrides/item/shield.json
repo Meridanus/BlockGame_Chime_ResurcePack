@@ -59,14 +59,14 @@
 		{
             "predicate": {
 				"blocking": 0,
-                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD", "MMOITEMS_NAME_PRE": "/.*Polished.*/"}
+                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD", "MMOITEMS_NAME_PRE": "/.*David.*/"}
             },
             "model": "minecraft:item/nbt/shields/polished_copper_shield"
         },
         {
             "predicate": {
 				"blocking": 1,
-                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD", "MMOITEMS_NAME_PRE": "/.*Polished.*/"}
+                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SHIELD", "MMOITEMS_NAME_PRE": "/.*David.*/"}
             },
             "model": "minecraft:item/nbt/shields/blocking_polished_copper_shield"
         },
