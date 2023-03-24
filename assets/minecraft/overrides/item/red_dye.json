@@ -11,7 +11,8 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "COAGULATED_MASS"}
             },
             "model": "minecraft:item/nbt/materials/coagulated_mass"
-        }
+        },
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_FIRE"}}, "model": "minecraft:item/nbt/runecarving/essence_fire"}
     ]
 }
 
