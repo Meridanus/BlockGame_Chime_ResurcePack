@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/nbt/runecarving/clarity_1_class"
+    "layer0": "minecraft:item/nbt/runecarving/clarity_2"
   }
 }

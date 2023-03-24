@@ -2,16 +2,32 @@
   "overrides": [
     { "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "EARTHEN_HEART"} }, "model": "minecraft:item/nbt/materials/earthen_heart" },
 	
-	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1"} }, "model": "minecraft:item/nbt/runecarving/clarity_1" },
-	
-	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class" },
-	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1"} }, "model": "minecraft:item/nbt/runecarving/clarity_1" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class" },	
 	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_MINING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class_mining" },
 	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_LOGGING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class_logging" },
 	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_ARCHAEOLOGY": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class_archeaology" },
 	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_FISHING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class_fishing" },
 	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_HERBALISM": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class_hearbalism" },
-	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_RUNECARVING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class_runecarving" }
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_1", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_RUNECARVING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_1_class_runecarving" },
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_2"} }, "model": "minecraft:item/nbt/runecarving/clarity_2" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_2", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_2_class" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_2", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_MINING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_2_class_mining" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_2", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_LOGGING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_2_class_logging" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_2", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_ARCHAEOLOGY": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_2_class_archeaology" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_2", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_FISHING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_2_class_fishing" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_2", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_HERBALISM": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_2_class_hearbalism" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_2", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_RUNECARVING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_2_class_runecarving" },
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_3"} }, "model": "minecraft:item/nbt/runecarving/clarity_3" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_3", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_3_class" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_3", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_MINING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_3_class_mining" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_3", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_LOGGING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_3_class_logging" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_3", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_ARCHAEOLOGY": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_3_class_archeaology" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_3", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_FISHING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_3_class_fishing" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_3", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_HERBALISM": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_3_class_hearbalism" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_ADVANCEMENT_3", "MMOITEMS_ADDITIONAL_EXPERIENCE": ">=0", "MMOITEMS_ADDITIONAL_EXPERIENCE_RUNECARVING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/clarity_3_class_runecarving" }
   ]
 }
 
