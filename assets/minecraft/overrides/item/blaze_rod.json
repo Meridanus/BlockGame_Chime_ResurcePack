@@ -1,17 +1,6 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "LURE_EVERBUBBLING"}
-            },
-            "model": "minecraft:item/nbt/magic_utility/lure_everbubbling"
-        }
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LURE_EVERBUBBLING"}}, "model": "minecraft:item/nbt/magic_utility/lure_everbubbling"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNE_ERASER"}}, "model": "minecraft:item/nbt/runecarving/rune_eraser"}
     ]
 }
-
-
-
-
-
-
-
