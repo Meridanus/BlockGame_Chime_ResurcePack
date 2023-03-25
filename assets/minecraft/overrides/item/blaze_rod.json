@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "LURE_EVERBUBBLING"}
+            },
+            "model": "minecraft:item/nbt/magic_utility/lure_everbubbling"
+        }
+    ]
+}
+
+
+
+
+
+
+
