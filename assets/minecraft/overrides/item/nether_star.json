@@ -17,7 +17,9 @@
         "nbt": {"MMOITEMS_ITEM_ID": "FROZEN_STAR"}
       },
       "model": "minecraft:item/nbt/materials/frozen_star"
-    }
+    },
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "FROZEN_SOUL"} }, "model": "minecraft:item/nbt/materials/frozen_soul" }
   ]
 }
 

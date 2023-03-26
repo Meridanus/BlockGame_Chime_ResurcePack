@@ -53,7 +53,9 @@
 		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_MAGIC_DAMAGE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/violence_pve_magic_3" },
 		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_COOLDOWN_REDUCTION": ">=0"} }, "model": "minecraft:item/nbt/runecarving/violence_pve_cooldown_3" },
 		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PROJECTILE_DAMAGE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/violence_pve_projectile_3" },
-		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_POWER": ">=0"} }, "model": "minecraft:item/nbt/runecarving/violence_pve_power_3" }
+		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_POWER": ">=0"} }, "model": "minecraft:item/nbt/runecarving/violence_pve_power_3" },
+		
+		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "BRANDED_SOUL"} }, "model": "minecraft:item/nbt/materials/branded_soul" }
     ]
 }
 
