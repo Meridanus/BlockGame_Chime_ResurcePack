@@ -31,6 +31,12 @@
 	
 	{
       "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1"}
+      },
+      "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_10"
+    },
+	{
+      "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",
 				"MMOITEMS_DURABILITY": "<=900"}
       },
