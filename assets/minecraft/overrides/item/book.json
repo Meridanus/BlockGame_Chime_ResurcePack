@@ -12,60 +12,23 @@
       },
       "model": "minecraft:item/nbt/ui/deposit_item"
     },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FIREBOLT_2"}
-      },
-      "model": "minecraft:item/nbt/tomes/recipe_tome_firebolt_2"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FIREBOLT_3"}
-      },
-      "model": "minecraft:item/nbt/tomes/recipe_tome_firebolt_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FROSTBOLT_2"}
-      },
-      "model": "minecraft:item/nbt/tomes/recipe_tome_frostbolt_2"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FROSTBOLT_3"}
-      },
-      "model": "minecraft:item/nbt/tomes/recipe_tome_frostbolt_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_2"}
-      },
-      "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_2"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_3"}
-      },
-      "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_3"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_1"}
-      },
-      "model": "minecraft:item/nbt/tomes/recipe_tome_corruption_1"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_2"}
-      },
-      "model": "minecraft:item/nbt/tomes/recipe_tome_corruption_2"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1"}
-      },
-      "model": "minecraft:item/nbt/tomes/tome_corruption_1_dur_10"
-    },
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FIREBOLT_2"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_firebolt_2"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FIREBOLT_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_firebolt_3"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FIREBOLT_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_firebolt_4"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FROSTBOLT_2"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_frostbolt_2"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FROSTBOLT_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_frostbolt_3"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FROSTBOLT_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_frostbolt_4"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_2"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_2"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_3"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_4"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_1"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_corruption_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_2"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_corruption_2"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_corruption_3"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_CORRUPTION_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_corruption_4"},
+	
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "TOME_CORRUPTION_1",

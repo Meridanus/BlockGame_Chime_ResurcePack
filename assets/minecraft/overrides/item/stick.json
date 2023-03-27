@@ -110,6 +110,12 @@
         "name": "War Supplies"
       },
       "model": "minecraft:item/nbt/warmaterials/war_supplies"
+    },
+	{
+      "predicate": {
+        "name": "Nutmeg"
+      },
+      "model": "minecraft:item/nbt/materials/nutmeg"
     }
   ]
 }
