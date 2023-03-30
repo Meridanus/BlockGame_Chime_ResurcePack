@@ -8,7 +8,7 @@
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "HAUNTED_BROTH"}
+        "nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_HAUNTED"}
       },
       "model": "minecraft:item/nbt/potions/haunted_broth"
     },

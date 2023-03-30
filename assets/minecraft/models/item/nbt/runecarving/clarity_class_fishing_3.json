@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/nbt/runecarving/clarity_class_fishing_3"
+    }
+}
