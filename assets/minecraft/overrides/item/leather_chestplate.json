@@ -171,7 +171,9 @@
               "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}
       },
       "model": "minecraft:item/nbt/armor/toasted/gingerbread_chestplate"
-    }
+    },
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WIZARDS_CHESTPLATE"}}, "model": "minecraft:item/nbt/armor/wizards_chestplate"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WIZARDS_CHESTPLATE", "MMOITEMS_NAME_PRE": "/.*Purified.*/"}}, "model": "minecraft:item/nbt/armor/purified/wizards_chestplate"}
   ]
 }
 

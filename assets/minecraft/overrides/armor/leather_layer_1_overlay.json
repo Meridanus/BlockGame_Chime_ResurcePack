@@ -171,6 +171,8 @@
 				  "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}
       },
       "texture": "textures/item/nbt/armor/toasted/gingerbread_armor_layer_1"
-    }
+    },
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "WIZARD"}}, "texture": "textures/item/nbt/armor/wizard_armor_layer_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "WIZARD", "MMOITEMS_NAME_PRE": "/.*Purified.*/"}}, "texture": "textures/item/nbt/armor/purified/wizard_armor_layer_1"}
   ]
 }

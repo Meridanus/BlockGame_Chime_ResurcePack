@@ -171,6 +171,19 @@
               "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}
       },
       "model": "minecraft:item/nbt/armor/toasted/gingerbread_helmet"
+    },
+	{
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "WIZARDS_HELMET"}
+      },
+      "model": "minecraft:item/nbt/armor/wizards_helmet"
+    },
+    {
+      "predicate": {
+      "nbt": {"MMOITEMS_ITEM_ID": "WIZARDS_HELMET",
+              "MMOITEMS_NAME_PRE": "/.*Purified.*/"}
+      },
+      "model": "minecraft:item/nbt/armor/purified/wizards_helmet"
     }
   ]
 }

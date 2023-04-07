@@ -171,7 +171,9 @@
               "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}
       },
       "model": "minecraft:item/nbt/armor/toasted/gingerbread_boots"
-    }
+    },
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WIZARDS_BOOTS"}}, "model": "minecraft:item/nbt/armor/wizards_boots"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WIZARDS_BOOTS", "MMOITEMS_NAME_PRE": "/.*Purified.*/"}}, "model": "minecraft:item/nbt/armor/purified/wizards_boots"}
   ]
 }
 
