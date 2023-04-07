@@ -41,7 +41,8 @@
         "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_HIDE"}
       },
       "model": "minecraft:item/nbt/materials/crystal_hide"
-    }
+    },
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FROZEN_HIDE"}}, "model": "minecraft:item/nbt/materials/frozen_hide"}
   ]
 }
 
