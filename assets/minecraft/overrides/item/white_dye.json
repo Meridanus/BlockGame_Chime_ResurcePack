@@ -29,7 +29,8 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "BOLT_SCORCHING"}
             },
             "model": "minecraft:item/nbt/materials/bolt_scorching"
-        }
+        },
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOLT_BRANDED"}}, "model": "minecraft:item/nbt/materials/bolt_branded"}
     ]
 }
 
