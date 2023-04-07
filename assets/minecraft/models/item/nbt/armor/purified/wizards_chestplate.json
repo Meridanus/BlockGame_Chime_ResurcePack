@@ -1,6 +1,7 @@
 {
 		"parent": "minecraft:item/generated",
 	    "textures": {
-			"layer0": "minecraft:item/nbt/armor/purified/wizards_overlay_2"
+			"layer0": "minecraft:item/nbt/potions/empty",
+			"layer1": "minecraft:item/nbt/armor/purified/wizards_overlay_2"
 	    }
 	}
