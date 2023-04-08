@@ -30,7 +30,9 @@
             },
             "model": "minecraft:item/nbt/materials/bolt_scorching"
         },
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOLT_BRANDED"}}, "model": "minecraft:item/nbt/materials/bolt_branded"}
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOLT_BRANDED"}}, "model": "minecraft:item/nbt/materials/bolt_branded"},
+		
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ONION_SHIELD"}},"model": "minecraft:item/nbt/divine_wards/onion_shield"}
     ]
 }
 
