@@ -1,9 +1,12 @@
 {
     "overrides": [
         {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TOKEN_HUNTER_PILLAGER"}},"model": "minecraft:item/nbt/quests/token_hunter_pillager"},
-        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TAINTED_METAL"}},"model": "minecraft:item/nbt/materials/tainted_metal"}
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TAINTED_METAL"}},"model": "minecraft:item/nbt/materials/tainted_metal"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_INERT_ROTTENMAW"}},"model": "minecraft:item/nbt/quests/key_inert_rottenmaw"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_1"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_1"}
     ]
 }
+
 
 
 
