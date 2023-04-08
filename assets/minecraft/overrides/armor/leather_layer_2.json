@@ -1,177 +1,44 @@
 {
   "overrides": [
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "ONION"}
-      },
-      "texture": "textures/item/nbt/armor/onion_armor_layer_2"
-    },
-    {
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "ZOMBIE"}
-      },
-      "texture": "textures/item/nbt/armor/zombiearmor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "CACTUS"}
-      },
-      "texture": "textures/item/nbt/armor/cactusarmor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "CACTUS",
-				"MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
-      },
-      "texture": "textures/item/nbt/armor/sturdy/cactusarmor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "STONE"}
-      },
-      "texture": "textures/item/nbt/armor/stone_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "STONE",
-				"MMOITEMS_NAME_PRE": "/.*Strong.*/"}
-      },
-      "texture": "textures/item/nbt/armor/strong/stone_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "WOOD"}
-      },
-      "texture": "textures/item/nbt/armor/wooden_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "WOOD",
-				"MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
-      },
-      "texture": "textures/item/nbt/armor/sturdy/wooden_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "COPPER"}
-      },
-      "texture": "textures/item/nbt/armor/copper_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "COPPER",
-				"MMOITEMS_NAME_PRE": "/.*Strong.*/"}
-      },
-      "texture": "textures/item/nbt/armor/strong/copper_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "SILK"}
-      },
-      "texture": "textures/item/nbt/armor/silk_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "SILK",
-				  "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}
-      },
-      "texture": "textures/item/nbt/armor/sturdy/silk_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "SPARKING_SILK"}
-      },
-      "texture": "textures/item/nbt/armor/sparking_silk_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "SPARKING_SILK",
-				  "MMOITEMS_NAME_PRE": "/.*Strong.*/"}
-      },
-      "texture": "textures/item/nbt/armor/strong/sparking_silk_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "ACOLYTE"}
-      },
-      "texture": "textures/item/nbt/armor/acolyte_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "ACOLYTE",
-				  "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}
-      },
-      "texture": "textures/item/nbt/armor/haunted/acolyte_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_MAGI"}
-      },
-      "texture": "textures/item/nbt/armor/bloodsnout_magi_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_MAGI",
-				  "MMOITEMS_NAME_PRE": "/.*Heated.*/"}
-      },
-      "texture": "textures/item/nbt/armor/heated/bloodsnout_magi_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "CINDERS"}
-      },
-      "texture": "textures/item/nbt/armor/cinder_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "CINDERS",
-				  "MMOITEMS_NAME_PRE": "/.*Wrathful.*/"}
-      },
-      "texture": "textures/item/nbt/armor/wrathful/cinder_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_ID": "/BOTANIST.*/"}
-      },
-      "texture": "textures/item/nbt/armor/professions/botanist_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_ID": "/FISHERMAN.*/"}
-      },
-      "texture": "textures/item/nbt/armor/professions/fisherman_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_ID": "/LUMBERJACK.*/"}
-      },
-      "texture": "textures/item/nbt/armor/professions/lumberjack_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_ID": "/MINER.*/"}
-      },
-      "texture": "textures/item/nbt/armor/professions/miner_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/"}
-      },
-      "texture": "textures/item/nbt/armor/professions/archaeologist_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD"}
-      },
-      "texture": "textures/item/nbt/armor/gingerbread_armor_layer_2"
-    },
-	{
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD",
-				  "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}
-      },
-      "texture": "textures/item/nbt/armor/toasted/gingerbread_armor_layer_2"
-    },
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/BOTANIST.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/FISHERMAN.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/LUMBERJACK.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/MINER.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "ONION"}}, "texture": "textures/item/nbt/potions/empty"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "ZOMBIE"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "CACTUS"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "CACTUS", "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "STONE"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "STONE", "MMOITEMS_NAME_PRE": "/.*Strong.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "WOOD"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "WOOD", "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "COPPER"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "COPPER", "MMOITEMS_NAME_PRE": "/.*Strong.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "SILK"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "SILK", "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "SPARKING_SILK"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "SPARKING_SILK", "MMOITEMS_NAME_PRE": "/.*Strong.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "ACOLYTE"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "ACOLYTE", "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_MAGI"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_MAGI", "MMOITEMS_NAME_PRE": "/.*Heated.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "CINDERS"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "CINDERS", "MMOITEMS_NAME_PRE": "/.*Wrathful.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+		
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD", "MMOITEMS_NAME_PRE": "/.*Toasted.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "WIZARD"}}, "texture": "textures/item/nbt/potions/empty"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "WIZARD", "MMOITEMS_NAME_PRE": "/.*Purified.*/"}}, "texture": "textures/item/nbt/potions/empty"}
   ]
