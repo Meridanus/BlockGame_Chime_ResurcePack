@@ -124,7 +124,7 @@
 				"blocking": 1,
                 "nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_SHIELD", "MMOITEMS_NAME_PRE": "/.*Immortal.*/"}
             },
-            "model": "minecraft:item/nbt/shields/immortal_blocking_diamond_shield"
+            "model": "minecraft:item/nbt/shields/blocking_immortal_diamond_shield"
         },
 		{
             "predicate": {
