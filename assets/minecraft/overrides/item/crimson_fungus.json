@@ -1,0 +1,14 @@
+{
+    "overrides": [
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SHIELD"}},"model": "minecraft:item/nbt/divine_wards/bloodsnout_shield"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_SHIELD", "MMOITEMS_NAME_PRE": "/.*Braised.*/"}},"model": "minecraft:item/nbt/divine_wards/brased_bloodsnout_shield"}
+    ]
+}
+
+
+
+
+
+
+
+
