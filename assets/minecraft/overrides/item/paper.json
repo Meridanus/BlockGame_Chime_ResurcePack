@@ -72,7 +72,8 @@
 			"count": ">=64"
 		  },
 		  "model": "minecraft:item/nbt/currencys/war_bond_stack"
-		}
+		},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "INCANTATION_ROTTENMAW_1"}},"model": "minecraft:item/nbt/quests/incantation_rottenmaw_1"}
     ]
 }
 
