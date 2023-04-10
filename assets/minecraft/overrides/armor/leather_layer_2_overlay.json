@@ -81,14 +81,14 @@
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "SPARKING_SILK"}
       },
-      "texture": "textures/item/nbt/armor/sparking_silk_armor_layer_2"
+      "texture": "textures/item/nbt/armor/sparkling_silk_armor_layer_2"
     },
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "SPARKING_SILK",
 				  "MMOITEMS_NAME_PRE": "/.*Strong.*/"}
       },
-      "texture": "textures/item/nbt/armor/strong/sparking_silk_armor_layer_2"
+      "texture": "textures/item/nbt/armor/strong/sparkling_silk_armor_layer_2"
     },
 	{
       "predicate": {
