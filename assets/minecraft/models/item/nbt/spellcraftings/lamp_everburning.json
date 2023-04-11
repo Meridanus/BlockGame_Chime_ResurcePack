@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Meridanus",
-	"parent": "handheld",
 	"textures": {
 		"0": "item/nbt/spellcraftings/lamp_everburning",
 		"particle": "item/nbt/spellcraftings/lamp_everburning"

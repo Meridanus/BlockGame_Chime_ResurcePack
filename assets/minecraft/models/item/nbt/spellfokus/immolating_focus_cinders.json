@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Meridanus",
-	"parent": "handheld",
 	"textures": {
 		"0": "item/nbt/torch_everburning",
 		"1": "block/soul_fire_0",
