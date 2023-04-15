@@ -17,7 +17,8 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_PUFFERFISH"}
             },
             "model": "minecraft:item/nbt/currencys/golden_pufferfish"
-        }
+        },
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "SEE_BREATHER"}}, "model": "minecraft:item/nbt/magic_utility/see_breather"}
     ]
 }
 

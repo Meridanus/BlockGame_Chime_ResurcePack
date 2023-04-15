@@ -1,0 +1,14 @@
+{
+  "overrides": [
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "COPPER_MACE"}}, "model": "minecraft:item/nbt/swords/copper_mace"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "COPPER_MACE", "MMOITEMS_NAME_PRE": "/.*Electrified.*/"}}, "model": "minecraft:item/nbt/swords/electrified_copper_mace"}
+	
+  ]
+}
+
+
+
+
+
+
+

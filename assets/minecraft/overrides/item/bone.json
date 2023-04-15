@@ -1,14 +1,12 @@
 {
   "overrides": [
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "ANIMATED_BONE"}
-      },
-      "model": "minecraft:item/nbt/materials/animated_bone"
-    },
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ANIMATED_BONE"}}, "model": "minecraft:item/nbt/materials/animated_bone"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD"}},"model": "minecraft:item/nbt/divine_wards/bone_shield"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD", "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}},"model": "minecraft:item/nbt/divine_wards/haunted_bone_shield"}
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BONE_SHIELD", "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}},"model": "minecraft:item/nbt/divine_wards/haunted_bone_shield"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_MACE"}}, "model": "minecraft:item/nbt/swords/unsettling_mace"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_MACE", "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}}, "model": "minecraft:item/nbt/swords/haunted_unsettling_mace"}
   ]
 }
 

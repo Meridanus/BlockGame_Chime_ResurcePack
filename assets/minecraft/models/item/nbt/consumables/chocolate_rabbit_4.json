@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:item/nbt/consumables/chocolate_rabbit",
-		"layer2": "minecraft:item/nbt/ui/durability_4"
-    }
-}
