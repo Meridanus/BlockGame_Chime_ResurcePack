@@ -18,12 +18,8 @@
             },
             "model": "minecraft:item/nbt/consumables/golden_bread"
         },
-		{
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "JAMMY_BUTTER_TOAST"}
-            },
-            "model": "minecraft:item/nbt/consumables/jammy_butter_toast"
-        }
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "JAMMY_BUTTER_TOAST"}}, "model": "minecraft:item/nbt/consumables/jammy_butter_toast"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "HOT_CROSS_BUN"}}, "model": "minecraft:item/nbt/consumables/hot_cross_bun"}
     ]
 }
 

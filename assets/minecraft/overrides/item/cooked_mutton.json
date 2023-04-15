@@ -1,35 +1,11 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "WELL_SEASONED_MUTTON"}
-            },
-            "model": "minecraft:item/nbt/consumables/well_seasoned_mutton"
-        },
-		{
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "BUTTER_FRIED_MUTTON"}
-            },
-            "model": "minecraft:item/nbt/consumables/butter_fried_mutton"
-        },
-		{
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_PLAIN_MUTTON"}
-            },
-            "model": "minecraft:item/nbt/consumables/roasted_plain_mutton"
-        },
-		{
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_PLAIN_MUTTON"}
-            },
-            "model": "minecraft:item/nbt/consumables/smoked_plain_mutton"
-        },
-		{
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_PLAIN_MUTTON"}
-            },
-            "model": "minecraft:item/nbt/consumables/grilled_plain_mutton"
-        }
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WELL_SEASONED_MUTTON"}}, "model": "minecraft:item/nbt/consumables/well_seasoned_mutton"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BUTTER_FRIED_MUTTON"}}, "model": "minecraft:item/nbt/consumables/butter_fried_mutton"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ROASTED_PLAIN_MUTTON"}}, "model": "minecraft:item/nbt/consumables/roasted_plain_mutton"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "SMOKED_PLAIN_MUTTON"}}, "model": "minecraft:item/nbt/consumables/smoked_plain_mutton"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "GRILLED_PLAIN_MUTTON"}}, "model": "minecraft:item/nbt/consumables/grilled_plain_mutton"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "EASTER_LAMB"}}, "model": "minecraft:item/nbt/consumables/easter_lamb"}
     ]
 }
 
