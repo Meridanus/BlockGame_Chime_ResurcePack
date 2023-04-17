@@ -1,11 +1,5 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_SHOVEL"}
-            },
-            "model": "minecraft:item/nbt/tools/crystal_shovel"
-        },
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SHIMMERGLASS_SHOVEL"}

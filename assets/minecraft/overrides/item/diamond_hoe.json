@@ -2,12 +2,6 @@
     "overrides": [
         {
             "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_HOE"}
-            },
-            "model": "minecraft:item/nbt/tools/crystal_hoe"
-        },
-        {
-            "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "FRAGILE_HOE"}
             },
             "model": "minecraft:item/nbt/tools/fragile_hoe"
