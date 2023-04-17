@@ -1,4 +1,4 @@
-# Blockgame Textures
+# Unofficial Blockgame Textures
 
  Custom Textures for the BlockGame Minecraft Server
  https://www.blockgame.info/
@@ -11,7 +11,6 @@ https://www.curseforge.com/minecraft/texture-packs/blockgame-textures-chime
 
 Special thanks to 
 
-Shaye for the Pack Icon
 DragonSlayrOfficial for some of her textures!
 
 Known missing Items/Armor:
