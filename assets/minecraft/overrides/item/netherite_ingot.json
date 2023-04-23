@@ -2,8 +2,17 @@
     "overrides": [
         {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TOKEN_HUNTER_PILLAGER"}},"model": "minecraft:item/nbt/quests/token_hunter_pillager"},
         {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TAINTED_METAL"}},"model": "minecraft:item/nbt/materials/tainted_metal"},
+		
 		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_INERT_ROTTENMAW"}},"model": "minecraft:item/nbt/quests/key_inert_rottenmaw"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_1"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_1"}
+		
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_1"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_1"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_2"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_2"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_3"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_3"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_4"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_4"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_5"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_5"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_6"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_6"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_7"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_7"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_8"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_8"}
     ]
 }
 
