@@ -6,12 +6,6 @@
       },
       "model": "minecraft:item/nbt/armor/onion_leggings"
     },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_LEGGINGS"}
-      },
-      "model": "minecraft:item/nbt/armor/zombie_leggings"
-    },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_LEGGINGS"}

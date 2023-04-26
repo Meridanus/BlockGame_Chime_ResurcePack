@@ -7,7 +7,6 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/"}}, "texture": "textures/item/nbt/potions/empty"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "ONION"}}, "texture": "textures/item/nbt/potions/empty"},
-    {"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "ZOMBIE"}}, "texture": "textures/item/nbt/potions/empty"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "CACTUS"}}, "texture": "textures/item/nbt/potions/empty"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "CACTUS", "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}}, "texture": "textures/item/nbt/potions/empty"},

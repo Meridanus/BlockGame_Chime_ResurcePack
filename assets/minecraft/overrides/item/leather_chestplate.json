@@ -6,12 +6,6 @@
       },
       "model": "minecraft:item/nbt/armor/onion_chestplate"
     },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_CHESTPLATE"}
-      },
-      "model": "minecraft:item/nbt/armor/zombie_chestplate"
-    },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_CHESTPLATE"}

@@ -6,12 +6,6 @@
       },
       "model": "minecraft:item/nbt/armor/onion_helmet"
     },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_HELMET"}
-      },
-      "model": "minecraft:item/nbt/armor/zombie_helmet"
-    },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_HELMET"}

@@ -6,12 +6,6 @@
       },
       "texture": "textures/item/nbt/armor/onion_armor_layer_1"
     },
-    {
-      "predicate": {
-          "nbt": {"MMOITEMS_ITEM_SET": "ZOMBIE"}
-      },
-      "texture": "textures/item/nbt/armor/zombiearmor_layer_1"
-    },
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "CACTUS"}
