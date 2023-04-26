@@ -1,17 +1,8 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "ROSEBUD_SALAD"}
-            },
-            "model": "minecraft:item/nbt/consumables/rosebud_salad"
-        },
-		{
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "RAW_VEGGIE_SALAD"}
-            },
-            "model": "minecraft:item/nbt/consumables/raw_veggie_salad"
-        }
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ROSEBUD_SALAD"}}, "model": "minecraft:item/nbt/consumables/rosebud_salad"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RAW_VEGGIE_SALAD"}}, "model": "minecraft:item/nbt/consumables/raw_veggie_salad"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BACON_AND_EGGS"}}, "model": "minecraft:item/nbt/consumables/bacon_and_eggs"}
     ]
 }
 

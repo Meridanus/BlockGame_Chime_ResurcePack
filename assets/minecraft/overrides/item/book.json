@@ -26,6 +26,8 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_CANDYFISH"}}, "model": "minecraft:item/nbt/tomes/recipe_candyfish"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_COOKIE_GINGERBREAD"}}, "model": "minecraft:item/nbt/tomes/recipe_cookie_gingerbread"},
 	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_BACON_AND_EGGS"}}, "model": "minecraft:item/nbt/tomes/recipe_bacon_and_eggs"},
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_HOT_CROSS_BUN"}}, "model": "minecraft:item/nbt/tomes/recipe_hot_cross_bun"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_EASTER_LAMB"}}, "model": "minecraft:item/nbt/tomes/recipe_easter_lamb"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_PAINTED_EGG"}}, "model": "minecraft:item/nbt/tomes/recipe_painted_egg"},
