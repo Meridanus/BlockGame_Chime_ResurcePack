@@ -1,11 +1,7 @@
 {
   "overrides": [
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PUMPKIN_BOOTS"}
-      },
-      "model": "minecraft:item/nbt/armor/events/pumpkin_boots"
-    }
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "PUMPKIN_BOOTS"}},"model": "minecraft:item/nbt/armor/events/pumpkin_boots"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "HORRID_BOOTS"}}, "model": "minecraft:item/nbt/armor/horrid_boots"}
   ]
 }
 
