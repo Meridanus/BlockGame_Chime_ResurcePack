@@ -1,0 +1,13 @@
+{
+    "overrides": [
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_GUIDING"}},"model": "minecraft:item/nbt/implement/implement_guiding"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_GUIDING", "MMOITEMS_NAME_PRE": "/.*Divine.*/"}},"model": "minecraft:item/nbt/implement/divine_implement_guiding"}
+    ]
+}
+
+
+
+
+
+
+

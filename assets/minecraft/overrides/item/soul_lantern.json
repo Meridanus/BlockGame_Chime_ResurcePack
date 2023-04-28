@@ -1,11 +1,9 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "LAMP_EVERBURNING"}
-            },
-            "model": "minecraft:item/nbt/spellcraftings/lamp_everburning"
-        }
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LAMP_EVERBURNING"}}, "model": "minecraft:item/nbt/spellcraftings/lamp_everburning"},
+		
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_CALLER"}},"model": "minecraft:item/nbt/implement/implement_caller"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_CALLER", "MMOITEMS_NAME_PRE": "/.*Ferrymans.*/"}},"model": "minecraft:item/nbt/implement/ferrymans_implement_caller"}
     ]
 }
 

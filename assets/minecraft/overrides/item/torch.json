@@ -1,0 +1,13 @@
+{
+    "overrides": [
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_CAUTERIZING"}},"model": "minecraft:item/nbt/implement/implement_cauterizing"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_CAUTERIZING", "MMOITEMS_NAME_PRE": "/.*Blessed.*/"}},"model": "minecraft:item/nbt/implement/blessed_implement_cauterizing"}
+    ]
+}
+
+
+
+
+
+
+

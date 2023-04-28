@@ -1,11 +1,9 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "TORCH_EVERBURNING"}
-            },
-            "model": "minecraft:item/nbt/torch_everburning"
-        }
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TORCH_EVERBURNING"}},"model": "minecraft:item/nbt/torch_everburning"},
+		
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_BRAND"}},"model": "minecraft:item/nbt/implement/implement_brand"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_BRAND", "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}},"model": "minecraft:item/nbt/implement/haunted_implement_brand"}
     ]
 }
 
