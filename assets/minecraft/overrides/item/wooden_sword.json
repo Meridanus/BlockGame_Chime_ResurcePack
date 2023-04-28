@@ -18,12 +18,6 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "ONION_SWORD"}
             },
             "model": "minecraft:item/nbt/swords/onion_sword"
-        },
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_SWORD"}
-            },
-            "model": "minecraft:item/nbt/swords/copper_sword"
         }
     ]
 }

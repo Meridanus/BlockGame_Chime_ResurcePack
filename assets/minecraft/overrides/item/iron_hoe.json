@@ -1,17 +1,5 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "STEEL_HOE"}
-            },
-            "model": "minecraft:item/nbt/tools/steel_hoe"
-        },
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_HOE"}
-            },
-            "model": "minecraft:item/nbt/tools/mythril_hoe"
-        },
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "SKYSTEEL_HOE"}

@@ -1,11 +1,5 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "COPPER_PICKAXE"}
-            },
-            "model": "minecraft:item/nbt/tools/copper_pickaxe"
-        },
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "BRASS_PICKAXE"}

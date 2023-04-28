@@ -1,11 +1,5 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_SHOVEL"}
-            },
-            "model": "minecraft:item/nbt/tools/cactus_shovel"
-        },
 		{
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "WOODEN_SHOVEL"}

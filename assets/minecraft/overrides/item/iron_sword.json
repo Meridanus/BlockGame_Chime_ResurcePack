@@ -1,17 +1,5 @@
 {
   "overrides": [
-	  {
-	        "predicate": {
-	          "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_SWORD"}
-	        },
-	        "model": "minecraft:item/nbt/swords/mythril_sword"
-	      },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "STEEL_SWORD"}
-      },
-      "model": "minecraft:item/nbt/swords/steel_sword"
-    },
 	{
       "predicate": {
         "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BLADE"}

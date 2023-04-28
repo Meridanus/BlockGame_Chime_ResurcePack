@@ -2,12 +2,6 @@
     "overrides": [
         {
             "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_PICKAXE"}
-            },
-            "model": "minecraft:item/nbt/tools/cactus_pickaxe"
-        },
-        {
-            "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "ONION_PICKAXE"}
             },
             "model": "minecraft:item/nbt/tools/onion_pickaxe"

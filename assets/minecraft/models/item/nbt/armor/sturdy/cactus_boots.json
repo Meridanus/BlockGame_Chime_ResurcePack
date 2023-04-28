@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/nbt/potions/empty",
-    "layer1": "minecraft:item/nbt/armor/sturdy/cactus_boots"
+    "layer1": "minecraft:item/nbt/armor/sturdy/cactus_4"
   }
 }
