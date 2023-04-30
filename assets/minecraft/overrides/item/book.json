@@ -25,6 +25,10 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FLASH_HEAL_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_flash_heal_3"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_FLASH_HEAL_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_flash_heal_4"},
 	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_LIFE_DRAIN_2"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_life_drain_2"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_LIFE_DRAIN_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_life_drain_3"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_LIFE_DRAIN_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_life_drain_4"},
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_RING_OF_MERCY_1"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_ring_of_mercy_1"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_RING_OF_MERCY_2"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_ring_of_mercy_2"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_RING_OF_MERCY_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_ring_of_mercy_3"},
@@ -103,7 +107,16 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_RING_OF_MERCY_1", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_ring_of_mercy_1"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_RING_OF_MERCY_2", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_ring_of_mercy_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_RING_OF_MERCY_3", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_ring_of_mercy_3"},
-	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_RING_OF_MERCY_4", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_ring_of_mercy_4"}
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_RING_OF_MERCY_4", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_ring_of_mercy_4"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_1"}},"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_1"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_2"}},"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_2"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_3"}},"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_3"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_4"}},"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_4"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_1", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_1"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_2", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_2"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_3", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_3"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_4", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_4"}
 	
   ]
 }

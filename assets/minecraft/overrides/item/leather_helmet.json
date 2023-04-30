@@ -178,7 +178,22 @@
               "MMOITEMS_NAME_PRE": "/.*Purified.*/"}
       },
       "model": "minecraft:item/nbt/armor/purified/wizards_helmet"
-    }
+    },
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WOOL_HELMET"}}, "model": "minecraft:item/nbt/armor/wool_helmet"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WOOL_HELMET",  "MMOITEMS_NAME_PRE": "/.*Sturdy.*/"}}, "model": "minecraft:item/nbt/armor/sturdy/wool_helmet"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLESSED_WOOL_HELMET"}}, "model": "minecraft:item/nbt/armor/blessed_wool_helmet"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLESSED_WOOL_HELMET",  "MMOITEMS_NAME_PRE": "/.*Strong.*/"}}, "model": "minecraft:item/nbt/armor/strong/blessed_wool_helmet"},
+ 
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "SANCTIFIED_HELMET"}}, "model": "minecraft:item/nbt/armor/sanctified_helmet"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "SANCTIFIED_HELMET",  "MMOITEMS_NAME_PRE": "/.*Blessed.*/"}}, "model": "minecraft:item/nbt/armor/blessed/sanctified_helmet"},
+ 
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_HEALER_HELMET"}}, "model": "minecraft:item/nbt/armor/bloodsnout_healer_helmet"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_HEALER_HELMET",  "MMOITEMS_NAME_PRE": "/.*Slick.*/"}}, "model": "minecraft:item/nbt/armor/slick/bloodsnout_healer_helmet"},
+ 
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "GLOWING_HELMET"}}, "model": "minecraft:item/nbt/armor/glowing_helmet"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "GLOWING_HELMET",  "MMOITEMS_NAME_PRE": "/.*Sparkling.*/"}}, "model": "minecraft:item/nbt/armor/sparkling/glowing_helmet"}
   ]
 }
 
