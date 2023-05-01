@@ -57,7 +57,7 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "SANCTIFIED", "MMOITEMS_NAME_PRE": "/.*Blessed.*/"}}, "texture": "textures/item/nbt/armor/blessed/sanctified_armor_layer_2"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_HEALER"}}, "texture": "textures/item/nbt/armor/bloodsnout_healer_armor_layer_2"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_HEALER", "MMOITEMS_NAME_PRE": "/.*Slic.*/"}}, "texture": "textures/item/nbt/armor/slic/bloodsnout_healer_armor_layer_2"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_HEALER", "MMOITEMS_NAME_PRE": "/.*Slick.*/"}}, "texture": "textures/item/nbt/armor/slick/bloodsnout_healer_armor_layer_2"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "GLOWING"}}, "texture": "textures/item/nbt/armor/glowing_armor_layer_2"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "GLOWING", "MMOITEMS_NAME_PRE": "/.*UNKNOWN.*/"}}, "texture": "textures/item/nbt/armor/UNKNOWN/glowing_armor_layer_2"}
