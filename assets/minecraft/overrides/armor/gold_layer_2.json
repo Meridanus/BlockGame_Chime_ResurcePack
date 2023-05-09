@@ -9,7 +9,7 @@
 	{
       "predicate": {
           "nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_BRUTE",
-				"MMOITEMS_NAME_PRE": "/.*Thick_Cut.*/"}
+				"MMOITEMS_NAME_PRE": "/.*Thick-Cut.*/"}
       },
       "texture": "textures/item/nbt/armor/thick-cut/bloodsnout_brute_armor_layer_2"
     },
