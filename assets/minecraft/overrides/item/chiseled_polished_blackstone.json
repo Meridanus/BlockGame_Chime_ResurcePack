@@ -1,0 +1,14 @@
+{
+    "overrides": [
+        {"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "STARTER_RUNECARVER_CLARITY"}}, "model": "minecraft:item/nbt/quests/starter_runecarver_clarity"},
+		{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "STARTER_RUNECARVER_SERENITY"}}, "model": "minecraft:item/nbt/quests/starter_runecarver_serenity"},
+		{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "STARTER_RUNECARVER_VIOLENCE"}}, "model": "minecraft:item/nbt/quests/starter_runecarver_violence"}
+    ]
+}
+
+
+
+
+
+
+
