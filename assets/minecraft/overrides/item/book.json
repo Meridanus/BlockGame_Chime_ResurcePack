@@ -113,10 +113,10 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_2"}},"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_2"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_3"}},"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_3"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_4"}},"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_4"},
-	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_1", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_1"},
-	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_2", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_2"},
-	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_3", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_3"},
-	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_4", "MMOITEMS_NAME_PRE": "/.*Radiant.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_4"}
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_1", "MMOITEMS_NAME_PRE": "/.*Consuming.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_1"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_2", "MMOITEMS_NAME_PRE": "/.*Consuming.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_2"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_3", "MMOITEMS_NAME_PRE": "/.*Consuming.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_3"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_4", "MMOITEMS_NAME_PRE": "/.*Consuming.*/"}},"model": "minecraft:item/nbt/thaumaturgy/radiant_tome_life_drain_4"}
 	
   ]
 }
