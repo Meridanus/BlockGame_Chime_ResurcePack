@@ -1,0 +1,9 @@
+{
+  "overrides": [
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_HOE"}}, "model": "minecraft:item/nbt/tools/magisteel_hoe"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_HOE", "MMOITEMS_NAME_PRE": "/.*Foragers.*/"}}, "model": "minecraft:item/nbt/tools/foragers_magisteel_hoe"}
+  ]
+}
+
+
+

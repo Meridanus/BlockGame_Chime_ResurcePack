@@ -1,0 +1,9 @@
+{
+  "overrides": [
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_SHOVEL"}}, "model": "minecraft:item/nbt/tools/magisteel_shovel"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_SHOVEL", "MMOITEMS_NAME_PRE": "/.*Surveyors.*/"}}, "model": "minecraft:item/nbt/tools/surveyors_magisteel_shovel"}
+  ]
+}
+
+
+

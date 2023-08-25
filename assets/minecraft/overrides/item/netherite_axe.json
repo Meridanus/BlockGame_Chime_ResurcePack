@@ -1,0 +1,9 @@
+{
+  "overrides": [
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_AXE"}}, "model": "minecraft:item/nbt/tools/magisteel_axe"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_AXE", "MMOITEMS_NAME_PRE": "/.*Lumberjacks.*/"}}, "model": "minecraft:item/nbt/tools/lumberjacks_magisteel_axe"}
+  ]
+}
+
+
+

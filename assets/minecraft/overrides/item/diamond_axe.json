@@ -13,7 +13,9 @@
 				
             },
             "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_axe"
-        }
+        },
+		
+		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "FRAGILE_AXE"} }, "model": "minecraft:item/nbt/tools/fragile_axe" }
         
         
     ]

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/nbt/augments/magisteel_pot",
+		"layer1": "minecraft:item/nbt/augments/magisteel_pot_overlay"
+    }
+}

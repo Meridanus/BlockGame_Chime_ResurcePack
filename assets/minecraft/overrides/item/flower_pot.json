@@ -1,11 +1,18 @@
 {
     "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "ANCIENT_POTTERY"}
-            },
-            "model": "minecraft:item/nbt/materials/ancient_pottery"
-        }
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ANCIENT_POTTERY"}}, "model": "minecraft:item/nbt/materials/ancient_pottery"},
+		
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_1"}}, "model": "minecraft:item/nbt/augments/wooden_pot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_2"}}, "model": "minecraft:item/nbt/augments/brass_pot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_3"}}, "model": "minecraft:item/nbt/augments/skysteel_pot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_4"}}, "model": "minecraft:item/nbt/augments/shimmerglass_pot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_5"}}, "model": "minecraft:item/nbt/augments/magisteel_pot"},
+	
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_1", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "model": "minecraft:item/nbt/augments/modifier_wooden_pot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_2", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "model": "minecraft:item/nbt/augments/modifier_brass_pot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_3", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "model": "minecraft:item/nbt/augments/modifier_skysteel_pot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_4", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "model": "minecraft:item/nbt/augments/modifier_shimmerglass_pot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_5", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "model": "minecraft:item/nbt/augments/modifier_magisteel_pot"}
         
     ]
 }

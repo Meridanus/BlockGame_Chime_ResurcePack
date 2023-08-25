@@ -1,0 +1,9 @@
+{
+  "overrides": [
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_PICKAXE"}}, "model": "minecraft:item/nbt/tools/magisteel_pickaxe"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_PICKAXE", "MMOITEMS_NAME_PRE": "/.*Excavators.*/"}}, "model": "minecraft:item/nbt/tools/excavators_magisteel_pickaxe"}
+  ]
+}
+
+
+

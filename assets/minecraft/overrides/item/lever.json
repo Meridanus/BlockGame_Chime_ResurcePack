@@ -1,0 +1,18 @@
+{
+  "overrides": [
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_1"}}, "model": "minecraft:item/nbt/augments/brush_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_2"}}, "model": "minecraft:item/nbt/augments/brush_2"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_3"}}, "model": "minecraft:item/nbt/augments/brush_3"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_4"}}, "model": "minecraft:item/nbt/augments/brush_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_5"}}, "model": "minecraft:item/nbt/augments/brush_5"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_1", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "model": "minecraft:item/nbt/augments/modifier_brush_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_2", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "model": "minecraft:item/nbt/augments/modifier_brush_2"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_3", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "model": "minecraft:item/nbt/augments/modifier_brush_3"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_4", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "model": "minecraft:item/nbt/augments/modifier_brush_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_ARCHAEOLOGY_5", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "model": "minecraft:item/nbt/augments/modifier_brush_5"}
+  ]
+}
+
+
+

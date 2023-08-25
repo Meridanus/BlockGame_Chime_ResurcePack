@@ -13,7 +13,9 @@
 				
             },
             "model": "minecraft:item/nbt/tools/gleaming_shimmerglass_pickaxe"
-        }
+        },
+		
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FRAGILE_PICKAXE"}}, "model": "minecraft:item/nbt/tools/fragile_pickaxe"}
         
     ]
 }
