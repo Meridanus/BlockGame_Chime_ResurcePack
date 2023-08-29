@@ -1,6 +1,6 @@
 {
   "overrides": [
-    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "CRUMBLING_EARTH"}}, "model": "minecraft:item/nbt/materials/crumbling_earth"}
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WHIPPING_WIND"}}, "model": "minecraft:item/nbt/materials/whipping_wind"}
   ]
 }
 
