@@ -35,7 +35,8 @@
                 "nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_SPARK"}
             },
             "model": "minecraft:item/nbt/quests/starter_miner_spark"
-        }
+        },
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "CRUMBLING_EARTH"}}, "model": "minecraft:item/nbt/materials/crumbling_earth"}
     ]
 }
 

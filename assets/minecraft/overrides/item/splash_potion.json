@@ -135,7 +135,10 @@
 				"MMOITEMS_DURABILITY": 0}
       },
       "model": "minecraft:item/nbt/potions/bottle_lava_greater_0"
-    }
+    },
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_WIND"}}, "model": "minecraft:item/nbt/potions/bottle_wind"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTTLE_EARTH"}}, "model": "minecraft:item/nbt/potions/bottle_earth"}
   ]
 }
 

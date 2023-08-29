@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_FISHING_5"}}, "model": "minecraft:item/nbt/augments/fishing_5"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_FISHING_5", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}}, "model": "minecraft:item/nbt/augments/fishing_modifier_5"}
+  ]
+}
+
+
+
+
+
+
+
