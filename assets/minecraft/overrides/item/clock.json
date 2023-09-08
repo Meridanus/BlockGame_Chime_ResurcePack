@@ -1,45 +1,25 @@
 {
     "overrides": [
-			{
-			  "predicate": {
-				"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}
-			  },
-			  "model": "minecraft:item/nbt/totems/totem_krognars_still"
-			},
-			{
-			  "predicate": {
-				"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": "/.*Krognars Favorite.*/"}
-			  },
-			  "model": "minecraft:item/nbt/totems/favourite_totem_krognars_still"
-			},
-			{
-				"predicate": {
-				  "entity": {"hand": "either"},
-				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}
-				},
-				"model": "minecraft:item/nbt/totems/totem_krognars"
-			},			
-			{
-				"predicate": {
-				  "entity": {"hand": "either"},
-				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": "/.*Krognars Favorite.*/"}
-				},
-				"model": "minecraft:item/nbt/totems/favourite_totem_krognars"
-			},
-			{
-				"predicate": {
-				  "dimension": {"id": "krognars_bastion"},
-				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}
-				},
-				"model": "minecraft:item/nbt/totems/totem_krognars_dungeon"
-			},
-			{
-				"predicate": {
-				  "dimension": {"id": "krognars_bastion"},
-				  "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": "/.*Krognars Favorite.*/"}
-				},
-				"model": "minecraft:item/nbt/totems/favourite_totem_krognars_dungeon"
-			}
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}}, "model": "minecraft:item/nbt/totems/totem_krognars_still"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": "/.*Krognars Favorite.*/"}}, "model": "minecraft:item/nbt/totems/favourite_totem_krognars_still"},
+			
+		{"predicate": {"entity": {"hand": "either"}, "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}}, "model": "minecraft:item/nbt/totems/totem_krognars"},			
+		{"predicate": {"entity": {"hand": "either"}, "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": "/.*Krognars Favorite.*/"}}, "model": "minecraft:item/nbt/totems/favourite_totem_krognars"},
+		
+		{"predicate": {"dimension": {"id": "krognars_bastion"}, "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS"}}, "model": "minecraft:item/nbt/totems/totem_krognars_dungeon"},
+		{"predicate": {"dimension": {"id": "krognars_bastion"}, "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_KROGNARS", "MMOITEMS_NAME_PRE": "/.*Krognars Favorite.*/"}}, "model": "minecraft:item/nbt/totems/favourite_totem_krognars_dungeon"},
+			
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_1"}}, "model": "minecraft:item/nbt/augments/clinometer_1"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_2"}}, "model": "minecraft:item/nbt/augments/clinometer_2"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_3"}}, "model": "minecraft:item/nbt/augments/clinometer_3"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_4"}}, "model": "minecraft:item/nbt/augments/clinometer_4"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_5"}}, "model": "minecraft:item/nbt/augments/clinometer_5"},
+		
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_1", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "model": "minecraft:item/nbt/augments/modifier_clinometer_1"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_2", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "model": "minecraft:item/nbt/augments/modifier_clinometer_2"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_3", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "model": "minecraft:item/nbt/augments/modifier_clinometer_3"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_4", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "model": "minecraft:item/nbt/augments/modifier_clinometer_4"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_LOGGING_5", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "model": "minecraft:item/nbt/augments/modifier_clinometer_5"}
         
     ]
 }
