@@ -3,7 +3,12 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/BOTANIST.*/"}}, "texture": "textures/item/nbt/potions/empty"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/FISHERMAN.*/"}}, "texture": "textures/item/nbt/potions/empty"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/LUMBERJACK.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/MINER.*/"}}, "texture": "textures/item/nbt/potions/empty"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/MINER_.*/"}}, "texture": "textures/item/nbt/armor/professions/miner_armor_base_layer_1"},
+	
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/"}}, "texture": "textures/item/nbt/potions/empty"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD"}}, "texture": "textures/item/nbt/potions/empty"},	

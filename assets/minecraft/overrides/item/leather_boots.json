@@ -123,36 +123,67 @@
       },
       "model": "minecraft:item/nbt/armor/wrathful/cinders_boots"
     },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS"}
-      },
-      "model": "minecraft:item/nbt/armor/professions/botanist_boots"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS"}
-      },
-      "model": "minecraft:item/nbt/armor/professions/fisherman_boots"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS"}
-      },
-      "model": "minecraft:item/nbt/armor/professions/lumberjack_boots"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS"}
-      },
-      "model": "minecraft:item/nbt/armor/professions/miner_boots"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS"}
-      },
-      "model": "minecraft:item/nbt/armor/professions/archaeologist_boots"
-    },
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS"}}, "model": "minecraft:item/nbt/armor/professions/miner_boots"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_1"}}, "model": "minecraft:item/nbt/armor/professions/miner_boots_colored_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_2"}}, "model": "minecraft:item/nbt/armor/professions/miner_boots_colored_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_3"}}, "model": "minecraft:item/nbt/armor/professions/miner_boots_colored_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_4"}}, "model": "minecraft:item/nbt/armor/professions/miner_boots_colored_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_5"}}, "model": "minecraft:item/nbt/armor/professions/miner_boots_colored_5"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_1", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}},"model": "minecraft:item/nbt/armor/professions/miner_boots_colored_modifier_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_2", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}},"model": "minecraft:item/nbt/armor/professions/miner_boots_colored_modifier_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_3", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}},"model": "minecraft:item/nbt/armor/professions/miner_boots_colored_modifier_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_4", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}},"model": "minecraft:item/nbt/armor/professions/miner_boots_colored_modifier_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MINER_BOOTS_5", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}},"model": "minecraft:item/nbt/armor/professions/miner_boots_colored_modifier_5"},
+   
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS"}}, "model": "minecraft:item/nbt/armor/professions/lumberjack_boots"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_1"}}, "model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_2"}}, "model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_3"}}, "model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_4"}}, "model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_5"}}, "model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_5"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_1", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}},"model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_modifier_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_2", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}},"model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_modifier_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_3", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}},"model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_modifier_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_4", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}},"model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_modifier_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LUMBERJACK_BOOTS_5", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}},"model": "minecraft:item/nbt/armor/professions/lumberjack_boots_colored_modifier_5"},
+   
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS"}}, "model": "minecraft:item/nbt/armor/professions/fisherman_boots"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_1"}}, "model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_2"}}, "model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_3"}}, "model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_4"}}, "model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_5"}}, "model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_5"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_1", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}},"model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_modifier_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_2", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}},"model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_modifier_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_3", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}},"model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_modifier_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_4", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}},"model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_modifier_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FISHERMAN_BOOTS_5", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}},"model": "minecraft:item/nbt/armor/professions/fisherman_boots_colored_modifier_5"},
+   
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS"}}, "model": "minecraft:item/nbt/armor/professions/botanist_boots"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_1"}}, "model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_2"}}, "model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_3"}}, "model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_4"}}, "model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_5"}}, "model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_5"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_1", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}},"model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_modifier_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_2", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}},"model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_modifier_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_3", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}},"model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_modifier_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_4", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}},"model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_modifier_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BOTANIST_BOOTS_5", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}},"model": "minecraft:item/nbt/armor/professions/botanist_boots_colored_modifier_5"},
+   
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS"}}, "model": "minecraft:item/nbt/armor/professions/archaeologist_boots"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_1"}}, "model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_2"}}, "model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_3"}}, "model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_4"}}, "model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_5"}}, "model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_5"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_1", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}},"model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_modifier_1"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_2", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}},"model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_modifier_2"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_3", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}},"model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_modifier_3"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_4", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}},"model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_modifier_4"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ARCHAEOLOGIST_BOOTS_5", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}},"model": "minecraft:item/nbt/armor/professions/archaeologist_boots_colored_modifier_5"},
+	  
 	{
       "predicate": {
       "nbt": {"MMOITEMS_ITEM_ID": "GINGERBREAD_BOOTS_2022"}
