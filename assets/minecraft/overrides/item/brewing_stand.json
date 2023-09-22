@@ -1,7 +1,7 @@
 {
     "overrides": [
 		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_HEKA"}},"model": "minecraft:item/nbt/implement/implement_heka"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_HEKA", "MMOITEMS_NAME_PRE": "/.*Ferrymans.*/"}},"model": "minecraft:item/nbt/implement/modifier_implement_heka"}
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_HEKA", "MMOITEMS_NAME_PRE": "/.*Cursed.*/"}},"model": "minecraft:item/nbt/implement/modifier_implement_heka"}
     ]
 }
 
