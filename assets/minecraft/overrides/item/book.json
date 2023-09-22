@@ -72,10 +72,10 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_LIFE_DRAIN_5"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_life_drain_5"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_LIFE_DRAIN_6"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_life_drain_6"},
 	
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_OF_REGENERATION_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_of_regeneration_3"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_OF_REGENERATION_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_of_regeneration_4"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_OF_REGENERATION_5"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_of_regeneration_5"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_OF_REGENERATION_6"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_of_regeneration_6"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_3"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_5"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_5"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_REGENERATION_6"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_regeneration_6"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_PRESSURE_WAVE_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_pressure_wave_3"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_PRESSURE_WAVE_4"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_pressure_wave_4"},
