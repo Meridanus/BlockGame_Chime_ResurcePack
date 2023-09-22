@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/nbt/tomes/recipe_tome_ring_of_mercy_2"
-  }
-}

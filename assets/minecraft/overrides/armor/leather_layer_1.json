@@ -32,7 +32,7 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "BLESSED_WOOL"}}, "texture": "textures/item/nbt/potions/empty"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "SANCTIFIED"}}, "texture": "textures/item/nbt/potions/empty"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "BLOODSNOUT_HEALER"}}, "texture": "textures/item/nbt/potions/empty"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "GLOWING"}}, "texture": "textures/item/nbt/potions/empty"}
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "HEKA"}}, "texture": "textures/item/nbt/potions/empty"}
 	
   ]
 }

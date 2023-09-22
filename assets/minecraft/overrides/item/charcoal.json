@@ -1,5 +1,6 @@
 {
     "overrides": [
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_EARTH"}}, "model": "minecraft:item/nbt/quests/starter_miner_earth"},
         {
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "STARTER_MINER_COPPER"}

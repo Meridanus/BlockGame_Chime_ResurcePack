@@ -223,8 +223,8 @@
     {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_HEALER_HELMET"}}, "model": "minecraft:item/nbt/armor/bloodsnout_healer_helmet"},
     {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_HEALER_HELMET",  "MMOITEMS_NAME_PRE": "/.*Slick.*/"}}, "model": "minecraft:item/nbt/armor/slick/bloodsnout_healer_helmet"},
  
-    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "GLOWING_HELMET"}}, "model": "minecraft:item/nbt/armor/glowing_helmet"},
-    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "GLOWING_HELMET",  "MMOITEMS_NAME_PRE": "/.*Sparkling.*/"}}, "model": "minecraft:item/nbt/armor/sparkling/glowing_helmet"}
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "HEKA_HELMET"}}, "model": "minecraft:item/nbt/armor/glowing_helmet"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "HEKA_HELMET",  "MMOITEMS_NAME_PRE": "/.*Cursed.*/"}}, "model": "minecraft:item/nbt/armor/sparkling/glowing_helmet"}
   ]
 }
 

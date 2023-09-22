@@ -1,5 +1,6 @@
 {
     "overrides": [
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "STARTER_FISHERMAN_WATER"}}, "model": "minecraft:item/nbt/quests/starter_fisherman_water"},
         {
             "predicate": {
                 "nbt": {"MMOITEMS_ITEM_ID": "STARTER_FISHERMAN_COD"}

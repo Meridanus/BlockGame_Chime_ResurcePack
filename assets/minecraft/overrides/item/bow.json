@@ -188,20 +188,20 @@
     },
 	{
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW"}
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW"}
       },
       "model": "minecraft:item/nbt/bows/pigly_wiggly_bow_pulling_0"
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW"},
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW"},
         "pulling": 1
       },
       "model": "minecraft:item/nbt/bows/pigly_wiggly_bow_pulling_1"
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW"},
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW"},
         "pulling": 1,
         "pull": 0.65
       },
@@ -209,7 +209,7 @@
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW"},
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW"},
         "pulling": 1,
         "pull": 0.9
       },
@@ -217,14 +217,14 @@
     },
 	{
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW",
 				"MMOITEMS_NAME_PRE": "/.*Greased.*/"}
       },
       "model": "minecraft:item/nbt/bows/grease_pigly_wiggly_bow_pulling_0"
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW",
 				"MMOITEMS_NAME_PRE": "/.*Greased.*/"},
         "pulling": 1
       },
@@ -232,7 +232,7 @@
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW",
 				"MMOITEMS_NAME_PRE": "/.*Greased.*/"},
         "pulling": 1,
         "pull": 0.65
@@ -241,7 +241,7 @@
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "PIGLY_WIGGLY_BOW",
+        "nbt": {"MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW",
 				"MMOITEMS_NAME_PRE": "/.*Greased.*/"},
         "pulling": 1,
         "pull": 0.9
