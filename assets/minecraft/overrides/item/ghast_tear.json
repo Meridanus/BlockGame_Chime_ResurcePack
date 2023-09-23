@@ -1,0 +1,12 @@
+{
+    "overrides": [
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_LIFE"}}, "model": "minecraft:item/nbt/materials/essence_life"}
+    ]
+}
+
+
+
+
+
+
+
