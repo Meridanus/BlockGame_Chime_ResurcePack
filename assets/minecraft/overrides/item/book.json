@@ -27,7 +27,7 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_ACOLYTE_BOOTS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_acolyte_boots"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_UNSETTLING_BOW"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_unsettling_bow"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_PIGLY_WIGGLY_BOW"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_pigly_wiggly_bow"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_PIGGLY_WIGGLY_BOW"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_piggly_wiggly_bow"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_HEALER_HELMET"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_healer_helmet"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_HEALER_CHESTPLATE"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_healer_chestplate"},
@@ -39,7 +39,9 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_SANCTIFIED_LEGGINGS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_sanctified_leggings"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_SANCTIFIED_BOOTS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_sanctified_boots"},
 	
-	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_IMPLEMENT_BRAND"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_implement_brand"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_IMPLEMENT_CALLER"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_implement_caller"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_IMPLEMENT_HEKA"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_implement_heka"},
 	
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_COLLAPSING_EARTH_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_collapsing_earth_3"},
@@ -226,7 +228,133 @@
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_5"} },"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_5"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_5", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_tome_life_drain_5"},
 	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_6"} },"model": "minecraft:item/nbt/thaumaturgy/tome_life_drain_6"},
-	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_6", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_tome_life_drain_6"}
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOME_LIFE_DRAIN_6", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_tome_life_drain_6"},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_FIREBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t1_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_FIREBOLT", "MMOITEMS_NAME_SUF": "/.*of the Pyromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t1_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_FIREBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t2_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_FIREBOLT", "MMOITEMS_NAME_SUF": "/.*of the Pyromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t2_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_FIREBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t3_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_FIREBOLT", "MMOITEMS_NAME_SUF": "/.*of the Pyromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t3_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_FIREBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t4_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_FIREBOLT", "MMOITEMS_NAME_SUF": "/.*of the Pyromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t4_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_FIREBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t5_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_FIREBOLT", "MMOITEMS_NAME_SUF": "/.*of the Pyromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t5_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_FIREBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t6_random_firebolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_FIREBOLT", "MMOITEMS_NAME_SUF": "/.*of the Pyromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t6_random_firebolt"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_FROSTBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t1_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_FROSTBOLT", "MMOITEMS_NAME_SUF": "/.*of the Cryomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t1_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_FROSTBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t2_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_FROSTBOLT", "MMOITEMS_NAME_SUF": "/.*of the Cryomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t2_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_FROSTBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t3_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_FROSTBOLT", "MMOITEMS_NAME_SUF": "/.*of the Cryomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t3_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_FROSTBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t4_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_FROSTBOLT", "MMOITEMS_NAME_SUF": "/.*of the Cryomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t4_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_FROSTBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t5_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_FROSTBOLT", "MMOITEMS_NAME_SUF": "/.*of the Cryomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t5_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_FROSTBOLT"} },"model": "minecraft:item/nbt/spellcrafting/t6_random_frostbolt"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_FROSTBOLT", "MMOITEMS_NAME_SUF": "/.*of the Cryomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t6_random_frostbolt"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_PRESSURE_WAVE"} },"model": "minecraft:item/nbt/spellcrafting/t1_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_PRESSURE_WAVE", "MMOITEMS_NAME_SUF": "/.*of the Aeromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t1_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_PRESSURE_WAVE"} },"model": "minecraft:item/nbt/spellcrafting/t2_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_PRESSURE_WAVE", "MMOITEMS_NAME_SUF": "/.*of the Aeromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t2_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_PRESSURE_WAVE"} },"model": "minecraft:item/nbt/spellcrafting/t3_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_PRESSURE_WAVE", "MMOITEMS_NAME_SUF": "/.*of the Aeromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t3_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_PRESSURE_WAVE"} },"model": "minecraft:item/nbt/spellcrafting/t4_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_PRESSURE_WAVE", "MMOITEMS_NAME_SUF": "/.*of the Aeromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t4_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_PRESSURE_WAVE"} },"model": "minecraft:item/nbt/spellcrafting/t5_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_PRESSURE_WAVE", "MMOITEMS_NAME_SUF": "/.*of the Aeromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t5_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_PRESSURE_WAVE"} },"model": "minecraft:item/nbt/spellcrafting/t6_random_pressure_wave"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_PRESSURE_WAVE", "MMOITEMS_NAME_SUF": "/.*of the Aeromancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t6_random_pressure_wave"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_COLLAPSING_EARTH"} },"model": "minecraft:item/nbt/spellcrafting/t1_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_COLLAPSING_EARTH", "MMOITEMS_NAME_SUF": "/.*of the Geomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t1_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_COLLAPSING_EARTH"} },"model": "minecraft:item/nbt/spellcrafting/t2_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_COLLAPSING_EARTH", "MMOITEMS_NAME_SUF": "/.*of the Geomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t2_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_COLLAPSING_EARTH"} },"model": "minecraft:item/nbt/spellcrafting/t3_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_COLLAPSING_EARTH", "MMOITEMS_NAME_SUF": "/.*of the Geomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t3_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_COLLAPSING_EARTH"} },"model": "minecraft:item/nbt/spellcrafting/t4_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_COLLAPSING_EARTH", "MMOITEMS_NAME_SUF": "/.*of the Geomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t4_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_COLLAPSING_EARTH"} },"model": "minecraft:item/nbt/spellcrafting/t5_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_COLLAPSING_EARTH", "MMOITEMS_NAME_SUF": "/.*of the Geomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t5_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_COLLAPSING_EARTH"} },"model": "minecraft:item/nbt/spellcrafting/t6_random_collapsing_earth"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_COLLAPSING_EARTH", "MMOITEMS_NAME_SUF": "/.*of the Geomancer.*/"} },"model": "minecraft:item/nbt/spellcrafting/modifier_t6_random_collapsing_earth"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_CORRUPTION"} },"model": "minecraft:item/nbt/thaumaturgy/t1_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_CORRUPTION", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t1_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_CORRUPTION"} },"model": "minecraft:item/nbt/thaumaturgy/t2_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_CORRUPTION", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t2_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_CORRUPTION"} },"model": "minecraft:item/nbt/thaumaturgy/t3_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_CORRUPTION", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t3_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_CORRUPTION"} },"model": "minecraft:item/nbt/thaumaturgy/t4_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_CORRUPTION", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t4_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_CORRUPTION"} },"model": "minecraft:item/nbt/thaumaturgy/t5_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_CORRUPTION", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t5_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_CORRUPTION"} },"model": "minecraft:item/nbt/thaumaturgy/t6_random_corruption"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_CORRUPTION", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t6_random_corruption"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_REGENERATION"} },"model": "minecraft:item/nbt/thaumaturgy/t1_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_REGENERATION", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t1_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_REGENERATION"} },"model": "minecraft:item/nbt/thaumaturgy/t2_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_REGENERATION", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t2_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_REGENERATION"} },"model": "minecraft:item/nbt/thaumaturgy/t3_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_REGENERATION", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t3_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_REGENERATION"} },"model": "minecraft:item/nbt/thaumaturgy/t4_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_REGENERATION", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t4_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_REGENERATION"} },"model": "minecraft:item/nbt/thaumaturgy/t5_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_REGENERATION", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t5_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_REGENERATION"} },"model": "minecraft:item/nbt/thaumaturgy/t6_random_regeneration"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_REGENERATION", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t6_random_regeneration"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_FLASH_HEAL"} },"model": "minecraft:item/nbt/thaumaturgy/t1_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_FLASH_HEAL", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t1_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_FLASH_HEAL"} },"model": "minecraft:item/nbt/thaumaturgy/t2_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_FLASH_HEAL", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t2_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_FLASH_HEAL"} },"model": "minecraft:item/nbt/thaumaturgy/t3_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_FLASH_HEAL", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t3_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_FLASH_HEAL"} },"model": "minecraft:item/nbt/thaumaturgy/t4_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_FLASH_HEAL", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t4_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_FLASH_HEAL"} },"model": "minecraft:item/nbt/thaumaturgy/t5_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_FLASH_HEAL", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t5_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_FLASH_HEAL"} },"model": "minecraft:item/nbt/thaumaturgy/t6_random_flash_heal"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_FLASH_HEAL", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t6_random_flash_heal"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_RING_OF_MERCY"} },"model": "minecraft:item/nbt/thaumaturgy/t1_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_RING_OF_MERCY", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t1_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_RING_OF_MERCY"} },"model": "minecraft:item/nbt/thaumaturgy/t2_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_RING_OF_MERCY", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t2_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_RING_OF_MERCY"} },"model": "minecraft:item/nbt/thaumaturgy/t3_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_RING_OF_MERCY", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t3_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_RING_OF_MERCY"} },"model": "minecraft:item/nbt/thaumaturgy/t4_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_RING_OF_MERCY", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t4_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_RING_OF_MERCY"} },"model": "minecraft:item/nbt/thaumaturgy/t5_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_RING_OF_MERCY", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t5_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_RING_OF_MERCY"} },"model": "minecraft:item/nbt/thaumaturgy/t6_random_ring_of_mercy"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_RING_OF_MERCY", "MMOITEMS_NAME_SUF": "/.*of the Pious.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t6_random_ring_of_mercy"},
+	
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_LIFE_DRAIN"} },"model": "minecraft:item/nbt/thaumaturgy/t1_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T1_RANDOM_LIFE_DRAIN", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t1_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_LIFE_DRAIN"} },"model": "minecraft:item/nbt/thaumaturgy/t2_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T2_RANDOM_LIFE_DRAIN", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t2_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_LIFE_DRAIN"} },"model": "minecraft:item/nbt/thaumaturgy/t3_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T3_RANDOM_LIFE_DRAIN", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t3_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_LIFE_DRAIN"} },"model": "minecraft:item/nbt/thaumaturgy/t4_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T4_RANDOM_LIFE_DRAIN", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t4_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_LIFE_DRAIN"} },"model": "minecraft:item/nbt/thaumaturgy/t5_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T5_RANDOM_LIFE_DRAIN", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t5_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_LIFE_DRAIN"} },"model": "minecraft:item/nbt/thaumaturgy/t6_random_life_drain"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "T6_RANDOM_LIFE_DRAIN", "MMOITEMS_NAME_SUF": "/.*of the Acolyte.*/"} },"model": "minecraft:item/nbt/thaumaturgy/modifier_t6_random_life_drain"}
 	
 	
   ]
