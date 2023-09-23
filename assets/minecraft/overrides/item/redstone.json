@@ -2,13 +2,7 @@
   "overrides": [
     {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_ARCANE"}},"model": "minecraft:item/nbt/consumables/arcane_repair_powder"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_ARCANE_COMMON"}},"model": "minecraft:item/nbt/consumables/arcane_repair_powder_common"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_ARCANE_UNCOMMON"}},"model": "minecraft:item/nbt/consumables/arcane_repair_powder_uncommon"}
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_ARCANE_UNCOMMON"}},"model": "minecraft:item/nbt/consumables/arcane_repair_powder_uncommon"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "REPAIR_POWDER_ARCANE_RARE"}},"model": "minecraft:item/nbt/consumables/arcane_repair_powder_rare"}
   ]
 }
-
-
-
-
-
-
-
