@@ -14,7 +14,7 @@
 		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_7"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_7"},
 		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KEY_ROTTENMAW_8"}},"model": "minecraft:item/nbt/quests/key_rottenmaw_8"},
 		
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_INGOT"}},"model": "minecraft:item/nbt/materials/magisteel_ingot"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_INGOT"}},"model": "minecraft:item/nbt/materials/magisteel_ingot"}
     ]
 }
 

@@ -130,7 +130,7 @@
 	{"predicate": {"cast": 1, "nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_FISHINGPOLE"}}, "model": "minecraft:item/nbt/tools/magisteel_fishingpole_1"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_FISHINGPOLE", "MMOITEMS_NAME_PRE": "/.*Anglers.*/"}}, "model": "minecraft:item/nbt/tools/modifier_magisteel_fishingpole_0"},
-	{"predicate": {"cast": 1, "nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_FISHINGPOLE", "MMOITEMS_NAME_PRE": "/.*Anglers.*/"}}, "model": "minecraft:item/nbt/tools/modifier_magisteel_fishingpole_1"},
+	{"predicate": {"cast": 1, "nbt": {"MMOITEMS_ITEM_ID": "MAGISTEEL_FISHINGPOLE", "MMOITEMS_NAME_PRE": "/.*Anglers.*/"}}, "model": "minecraft:item/nbt/tools/modifier_magisteel_fishingpole_1"}
 	
   ]
 }
