@@ -1,14 +1,20 @@
 {
   "overrides": [
-    {"predicate": {"name": "Test Subjekt A3T"}, "model": "minecraft:item/nbt/swords/krognars_cleaver"},
-	{"name": "Test Subjekt A3T", "predicate": {"dimension": {"id": "krognars_bastion"}}, "model": "minecraft:item/nbt/totems/totem_krognars_dungeon"},
 	{"predicate": {"name": "Filter"}, "model": "minecraft:item/nbt/ui/stick_filter"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WOODEN_MACE"}}, "model": "minecraft:item/nbt/swords/wooden_mace"},
     {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WOODEN_MACE", "MMOITEMS_NAME_PRE": "/.*Thick.*/"}}, "model": "minecraft:item/nbt/swords/thick_wooden_mace"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_MINING_1"}}, "model": "minecraft:item/nbt/augments/chissle_1"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_MINING_1", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}}, "model": "minecraft:item/nbt/augments/modifier_chissle_1"}
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "AUGMENT_MINING_1", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}}, "model": "minecraft:item/nbt/augments/modifier_chissle_1"},
+	
+	
+	
+	
+	{"predicate": { "nbt":  {"MMOITEMS_ITEM_ID": "Krognars Bastion - Compass", "variation": 17 }}, "model": "item/nbt/quests/compasses/krognar_compass_17" },
+	{"predicate": { "nbt":  {"MMOITEMS_ITEM_ID": "Sunken Cells - Compass", "variation": 17 }}, "model": "item/nbt/quests/compasses/sunken_compass_17" },
+	{"predicate": { "nbt":  {"MMOITEMS_ITEM_ID": "Rotten Maw - Compass", "variation": 17 }}, "model": "item/nbt/quests/compasses/rotten_compass_17" },
+	{"predicate": { "nbt":  {"MMOITEMS_ITEM_ID": "Filter"}}, "model": "minecraft:item/nbt/ui/stick_filter"}
 	
   ]
 }
