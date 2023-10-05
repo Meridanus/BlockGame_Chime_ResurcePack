@@ -1,7 +1,7 @@
 {
     "overrides": [
         {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LURE_EVERBUBBLING"}}, "model": "minecraft:item/nbt/magic_utility/lure_everbubbling"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNE_ERASER"}}, "model": "minecraft:item/nbt/runecarving/rune_eraser"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNE_ERASER"}}, "model": "minecraft:item/nbt/consumables/rune_eraser"},
 		
 		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MACE"}}, "model": "minecraft:item/nbt/swords/bloodsnout_mace"},
 		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_MACE", "MMOITEMS_NAME_PRE": "/.*Scalding.*/"}}, "model": "minecraft:item/nbt/swords/scalding_bloodsnout_mace"}

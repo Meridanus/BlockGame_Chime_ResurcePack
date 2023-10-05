@@ -1,6 +1,6 @@
 {
     "overrides": [
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_WATER"}}, "model": "minecraft:item/nbt/runecarving/essence_water"}
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_WATER"}}, "model": "minecraft:item/nbt/materials/essence_water"}
     ]
 }
 

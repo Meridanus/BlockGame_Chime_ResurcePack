@@ -12,7 +12,7 @@
             },
             "model": "minecraft:item/nbt/materials/cookie_dough"
         },
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_EARTH"}}, "model": "minecraft:item/nbt/runecarving/essence_earth"}
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_EARTH"}}, "model": "minecraft:item/nbt/materials/essence_earth"}
     ]
 }
 
