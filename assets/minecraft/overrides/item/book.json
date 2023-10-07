@@ -104,6 +104,7 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_PICKLED_PHALANGES"}}, "model": "minecraft:item/nbt/tomes/recipe_pickled_phalanges"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_PIE_JACKOLANTERN"}}, "model": "minecraft:item/nbt/tomes/recipe_pie_jackolantern"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_PIE_MEAT"}}, "model": "minecraft:item/nbt/tomes/recipe_pie_meat"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_SPICED_SLUGS"}}, "model": "minecraft:item/nbt/tomes/recipe_spiced_slugs"},
 	
 	
 	
