@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "minecraft:item/nbt/tomes/recipe_easter_lamb"
+        "layer0": "minecraft:item/nbt/tomes/recipe_pie_meat"
     }
 }

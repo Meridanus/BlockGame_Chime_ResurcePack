@@ -1,0 +1,12 @@
+{
+    "overrides": [
+        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "CANDY_CORN"}}, "model": "minecraft:item/nbt/consumables/candy_corn"}
+    ]
+}
+
+
+
+
+
+
+

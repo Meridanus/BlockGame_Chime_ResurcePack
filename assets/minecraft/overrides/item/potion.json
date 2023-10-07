@@ -43,6 +43,9 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TEA_QUICKSTEP"} }, "model": "minecraft:item/nbt/consumables/tea_quickstep"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "TEA_STOMACH"} }, "model": "minecraft:item/nbt/consumables/tea_stomach"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "JAM_GLOWBERRY"} }, "model": "minecraft:item/nbt/consumables/jam_glowberry"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "JAM_SWEETBERRY"} }, "model": "minecraft:item/nbt/consumables/jam_sweetberry"}
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "JAM_SWEETBERRY"} }, "model": "minecraft:item/nbt/consumables/jam_sweetberry"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "PICKLED_PHALANGES"} }, "model": "minecraft:item/nbt/consumables/pickled_phalanges"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "SPICED_SLUGS"} }, "model": "minecraft:item/nbt/consumables/spiced_slugs"}
   ]
 }
