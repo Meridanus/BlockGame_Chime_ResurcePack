@@ -90,7 +90,8 @@
       },
       "model": "minecraft:item/nbt/quivers/shattering_quiver_crystalline"
     },
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SATET"}}, "model": "minecraft:item/nbt/quivers/quiver_satet"}
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SATET"}}, "model": "minecraft:item/nbt/quivers/quiver_satet"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SATET", "MMOITEMS_NAME_PRE": "/.*Cursed.*/"}}, "model": "minecraft:item/nbt/quivers/modifier_quiver_satet"}
 	
 	
   ]

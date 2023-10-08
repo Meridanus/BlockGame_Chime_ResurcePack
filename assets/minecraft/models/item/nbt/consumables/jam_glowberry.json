@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/nbt/consumables/jam_fluid",
-		"layer1": "minecraft:item/nbt/consumables/jam_glass"
+        "layer0": "minecraft:item/nbt/potions/empty",
+		"layer1": "minecraft:item/nbt/consumables/jam_glow_berry"
     }
 }
