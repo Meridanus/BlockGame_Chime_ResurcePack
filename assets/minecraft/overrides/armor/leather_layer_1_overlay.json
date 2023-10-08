@@ -1,13 +1,72 @@
 {
   "overrides": [
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/BOTANIST.*/"}}, "texture": "textures/item/nbt/armor/professions/botanist_armor_layer_1"},
+
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_1.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_2.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_3.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_4.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_5.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_t5_1"},	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_1.*/", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_modifier_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_2.*/", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_modifier_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_3.*/", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_modifier_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_4.*/", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_modifier_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/BOTANIST_5.*/", "MMOITEMS_NAME_SUF": "/.*of the Forager.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/botanist_armor_layer_modifier_t5_1"},
+	
+	
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/FISHERMAN.*/"}}, "texture": "textures/item/nbt/armor/professions/fisherman_armor_layer_1"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_1.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_2.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_3.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_4.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_5.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_t5_1"},	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_1.*/", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_modifier_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_2.*/", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_modifier_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_3.*/", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_modifier_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_4.*/", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_modifier_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/FISHERMAN_5.*/", "MMOITEMS_NAME_SUF": "/.*of the Pescatarian.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/fisherman_armor_layer_modifier_t5_1"},
+	
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/LUMBERJACK.*/"}}, "texture": "textures/item/nbt/armor/professions/lumberjack_armor_layer_1"},
 	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_1.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_2.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_3.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_4.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_5.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_t5_1"},	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_1.*/", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_modifier_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_2.*/", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_modifier_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_3.*/", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_modifier_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_4.*/", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_modifier_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/LUMBERJACK_5.*/", "MMOITEMS_NAME_SUF": "/.*of the Termite.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/lumberjack_armor_layer_modifier_t5_1"},
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/MINER.*/"}}, "texture": "textures/item/nbt/armor/professions/miner_armor_layer_1"},
-	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/MINER_.*/"}}, "texture": "textures/item/nbt/armor/professions/miner_armor_overlay_layer_1"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_1.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_2.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_3.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_4.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_5.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_t5_1"},	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_1.*/", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_modifier_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_2.*/", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_modifier_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_3.*/", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_modifier_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_4.*/", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_modifier_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/MINER_5.*/", "MMOITEMS_NAME_SUF": "/.*of the Earthbreaker.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/miner_armor_layer_modifier_t5_1"},
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/"}}, "texture": "textures/item/nbt/armor/professions/archaeologist_armor_layer_1"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_1.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_2.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_3.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_4.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_5.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_t5_1"},	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_1.*/", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_modifier_t1_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_2.*/", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_modifier_t2_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_3.*/", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_modifier_t3_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_4.*/", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_modifier_t4_1"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "/ARCHAEOLOGIST_5.*/", "MMOITEMS_NAME_SUF": "/.*of the Grave Robber.*/"}}, "texture": "textures/item/nbt/armor/professions/colored/archaeologist_armor_layer_modifier_t5_1"},
  
  
   	{"predicate": {"nbt": {"MMOITEMS_ITEM_SET": "GINGERBREAD"}}, "texture": "textures/item/nbt/armor/gingerbread_armor_layer_1"},

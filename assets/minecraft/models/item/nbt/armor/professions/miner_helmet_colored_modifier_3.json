@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "minecraft:item/nbt/armor/professions/miner_base_1",
-		"layer1": "minecraft:item/nbt/armor/professions/miner_overlay_1",
-		"layer2": "minecraft:item/nbt/armor/professions/professions_modifier_overlay_gold_3"
-    }
-}

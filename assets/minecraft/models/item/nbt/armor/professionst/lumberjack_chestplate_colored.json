@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "minecraft:item/nbt/armor/professionst/lumberjack_base_base_1",
-		"layer1": "minecraft:item/nbt/armor/professionst/lumberjack_base_overlay_1"
-    }
-}
