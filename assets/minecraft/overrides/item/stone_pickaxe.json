@@ -1,19 +1,10 @@
 {
     "overrides": [
-		{
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "BRASS_PICKAXE"}
-            },
-            "model": "minecraft:item/nbt/tools/brass_pickaxe"
-        },
-		{
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "BRASS_PICKAXE",
-                        "MMOITEMS_NAME_PRE": "/.*Excavators.*/"}
-				
-            },
-            "model": "minecraft:item/nbt/tools/conductive_brass_pickaxe"
-        }
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BRASS_PICKAXE"}}, "model": "minecraft:item/nbt/tools/brass_pickaxe"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BRASS_PICKAXE", "MMOITEMS_NAME_PRE": "/.*Excavators.*/"}}, "model": "minecraft:item/nbt/tools/conductive_brass_pickaxe"},
+		
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WOODEN_PICKAXE"}}, "model": "minecraft:item/nbt/tools/wooden_pickaxe"},
+		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "WOODEN_PICKAXE", "MMOITEMS_NAME_PRE": "/.*Excavators.*/"}}, "model": "minecraft:item/nbt/tools/sturdy_wooden_pickaxe"}
     ]
 }
 
