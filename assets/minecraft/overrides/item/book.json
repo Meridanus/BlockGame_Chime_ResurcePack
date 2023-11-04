@@ -39,9 +39,21 @@
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_SANCTIFIED_LEGGINGS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_sanctified_leggings"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_SANCTIFIED_BOOTS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_sanctified_boots"},
 	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_BRUTE_HELMET"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_brute_helmet"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_BRUTE_CHESTPLATE"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_brute_chestplate"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_BRUTE_LEGGINGS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_brute_leggings"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_BRUTE_BOOTS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_brute_boots"},
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_MAGI_HELMET"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_magi_helmet"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_MAGI_CHESTPLATE"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_magi_chestplate"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_MAGI_LEGGINGS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_magi_leggings"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_BLOODSNOUT_MAGI_BOOTS"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_bloodsnout_magi_boots"},
+	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_IMPLEMENT_BRAND"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_implement_brand"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_IMPLEMENT_CALLER"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_implement_caller"},
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_IMPLEMENT_HEKA"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_implement_heka"},
+	
+	
 	
 	
 	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RECIPE_TOME_COLLAPSING_EARTH_3"}}, "model": "minecraft:item/nbt/tomes/recipe_tome_collapsing_earth_3"},
