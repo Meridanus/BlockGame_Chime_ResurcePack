@@ -5,7 +5,8 @@
 		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "WAR_SUPPLIES"} }, "model": "minecraft:item/nbt/warmaterials/war_supplies" },
 		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAID_CRATE_SUNKEN"} }, "model": "minecraft:item/nbt/quests/raid_crate_sunken" },
 		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAID_CRATE_KROGNARS"} }, "model": "minecraft:item/nbt/quests/raid_crate_krognars" },	
-		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAID_CRATE_ROTTEN"} }, "model": "minecraft:item/nbt/quests/raid_crate_rotten" }
+		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAID_CRATE_ROTTEN"} }, "model": "minecraft:item/nbt/quests/raid_crate_rotten" },	
+		{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RAID_CRATE_NEITH"} }, "model": "minecraft:item/nbt/quests/raid_crate_neith" }
     ]
 }
 
